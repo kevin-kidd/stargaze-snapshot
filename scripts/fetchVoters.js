@@ -1,7 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
+const {checkBalances} = require("./checkBalances");
 
-const REST_URL = "https://rest.stargaze-apis.com/";
+const REST_URL = "https://rest.stargaze-1.publicawesome.dev/";
 
 const proposals = JSON.parse(fs.readFileSync("./data/proposals.json", { encoding: "utf8" }));
 let voters = {};
@@ -51,7 +52,7 @@ const aggregateProposals = async () => {
     }
     let validVoters = [];
     for(const [key, value] of Object.entries(voters)) {
-        if(value.length >= 5) {
+        if(value.length >= 10) {
             validVoters.push(key);
         }
     }
@@ -60,8 +61,9 @@ const aggregateProposals = async () => {
 
 const fetchVoters = async () => {
     const snapshot = await aggregateProposals();
-    console.log(`- Found ${snapshot.length} addresses which voted on 5 or more proposals before block #${proposals[0].height}`);
-    fs.writeFileSync("./data/snapshots/4908610/voters.json", JSON.stringify(snapshot), { encoding: "utf8" });
+    const nonZeroBalanceSnapshot = await checkBalances(snapshot);
+    console.log(`- Found ${nonZeroBalanceSnapshot.length} addresses which voted on 10 or more proposals before block #${proposals[0].height}`);
+    fs.writeFileSync("./data/snapshots/4908610/voters.json", JSON.stringify(nonZeroBalanceSnapshot), { encoding: "utf8" });
 }
 
 module.exports = { fetchVoters }

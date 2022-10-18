@@ -1,7 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
+const {checkBalances} = require("./checkBalances");
 
-const REST_URL = "https://rest.stargaze-apis.com/";
+const REST_URL = "https://rest.stargaze-1.publicawesome.dev/";
 
 const getCreators = async (contracts) => {
     let creators = [];
@@ -58,8 +59,9 @@ const fetchCreators = async () => {
     for(const snapshot of snapshots) {
         const contracts = await getContracts(snapshot);
         const creators = await getCreators(contracts);
-        fs.writeFileSync(`./data/snapshots/${snapshot.height}/creators.json`, JSON.stringify(creators), { encoding: "utf8" });
-        console.log(`- Found ${creators.length} creators that instantiated a contract before block #${snapshot.height}`);
+        const nonZeroBalanceSnapshot = await checkBalances(creators);
+        fs.writeFileSync(`./data/snapshots/${snapshot.height}/creators.json`, JSON.stringify(nonZeroBalanceSnapshot), { encoding: "utf8" });
+        console.log(`- Found ${nonZeroBalanceSnapshot.length} creators that instantiated a contract before block #${snapshot.height}`);
     }
 }
 
