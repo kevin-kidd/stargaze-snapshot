@@ -1,6 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 const {checkBalances} = require("./checkBalances");
+const {checkInventory} = require("./checkInventory");
 
 const REST_URL = "https://rest.stargaze-1.publicawesome.dev/";
 
@@ -62,8 +63,9 @@ const aggregateProposals = async () => {
 const fetchVoters = async () => {
     const snapshot = await aggregateProposals();
     const nonZeroBalanceSnapshot = await checkBalances(snapshot);
-    console.log(`- Found ${nonZeroBalanceSnapshot.length} addresses which voted on 10 or more proposals before block #${proposals[0].height}`);
-    fs.writeFileSync("./data/snapshots/4908610/voters.json", JSON.stringify(nonZeroBalanceSnapshot), { encoding: "utf8" });
+    const qualifiedAddresses = await checkInventory(nonZeroBalanceSnapshot);
+    console.log(`- Found ${qualifiedAddresses.length} addresses which voted on 10 or more proposals before block #${proposals[0].height}`);
+    fs.writeFileSync("./data/snapshots/4908610/voters.json", JSON.stringify(qualifiedAddresses), { encoding: "utf8" });
 }
 
 module.exports = { fetchVoters }

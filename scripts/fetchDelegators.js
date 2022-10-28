@@ -1,6 +1,7 @@
 const fs = require('fs');
 const json = require('big-json');
 const {checkBalances} = require("./checkBalances");
+const {checkInventory} = require("./checkInventory");
 
 const decimals = 6;
 const minDelegation = 5000;
@@ -31,14 +32,15 @@ const fetchDelegators = async () => {
         parseStream.on('data', async function(pojo) {
             const uniqueDelegators = await parseDelegations(pojo.app_state.staking.delegations);
             const nonZeroBalanceSnapshot = await checkBalances(uniqueDelegators);
+            const qualifiedAddresses = await checkInventory(nonZeroBalanceSnapshot);
             fs.writeFileSync(
                 `./data/snapshots/${snapshot.blockHeight}/stakers.json`,
-                JSON.stringify(nonZeroBalanceSnapshot),
+                JSON.stringify(qualifiedAddresses),
                 {
                     encoding: "utf8"
                 }
             );
-            console.log(`- Found ${nonZeroBalanceSnapshot.length} addresses which delegated >${snapshot.minDelegation} $stars before block #${snapshot.blockHeight}.`);
+            console.log(`- Found ${qualifiedAddresses.length} addresses which delegated >${snapshot.minDelegation} $stars before block #${snapshot.blockHeight}.`);
         });
         readStream.pipe(parseStream);
     }
