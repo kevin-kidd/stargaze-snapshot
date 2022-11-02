@@ -28,12 +28,12 @@ const checkBalances = async (snapshot) => {
                 continue;
             }
             let isValid = false;
-            if(response.data.balances.some(
-                (balance) => (balance.amount / (10**6)) > 1
-            )) isValid = true;
+            if(response.data.balances.some((balance) => balance.denom === "ustars" && (balance.amount / (10**6)) > 1)) isValid = true;
             if(!isValid) {
                 if(await checkDelegations(address)) nonZeroBalanceSnapshot.push(address);
-            } else nonZeroBalanceSnapshot.push(address);
+            } else {
+                nonZeroBalanceSnapshot.push(address);
+            }
         } catch (e) {
             console.error(e.message);
             console.error("Error: Failed to fetch balance for address: " + address);
