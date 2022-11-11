@@ -2,6 +2,7 @@ const axios = require("axios");
 const fs = require("fs");
 const {checkBalances} = require("./checkBalances");
 const {checkInventory} = require("./checkInventory");
+const xlsx = require("node-xlsx");
 
 const REST_URL = "https://rest.stargaze-1.publicawesome.dev/";
 
@@ -42,7 +43,7 @@ const getVoters = async (proposal) => {
     }
 }
 
-const aggregateProposals = async () => {
+const aggregateProposals = async (allAddresses) => {
     for(const proposal of proposals) {
         try {
             await getVoters(proposal);
@@ -52,20 +53,44 @@ const aggregateProposals = async () => {
         }
     }
     let validVoters = [];
-    for(const [key, value] of Object.entries(voters)) {
-        if(value.length >= 10) {
-            validVoters.push(key);
+    for(const [address, votes] of Object.entries(voters)) {
+        if(!allAddresses.includes(address) && votes.length >= 10) {
+            validVoters.push({
+                address: address,
+                votes: votes.toString(),
+                totalVotes: votes.length
+            });
         }
     }
     return validVoters;
 }
 
-const fetchVoters = async () => {
-    const snapshot = await aggregateProposals();
+const fetchVoters = async (blockHeight, allAddresses) => {
+
+    const snapshot = await aggregateProposals(allAddresses);
     const nonZeroBalanceSnapshot = await checkBalances(snapshot);
     const qualifiedAddresses = await checkInventory(nonZeroBalanceSnapshot);
-    console.log(`- Found ${qualifiedAddresses.length} addresses which voted on 10 or more proposals before block #${proposals[0].height}`);
-    fs.writeFileSync("./data/snapshots/4908610/voters.json", JSON.stringify(qualifiedAddresses), { encoding: "utf8" });
+
+    fs.writeFileSync(`./data/snapshots/${blockHeight}/json/voters.json`, JSON.stringify(qualifiedAddresses), { encoding: "utf8" });
+
+    let spreadsheetData = [["Address", "Stars Balance", "Delegated Stars Balance", "Total NFTs", "Total Votes", "Proposal IDs"]];
+    qualifiedAddresses.forEach((addressDetails) => {
+        allAddresses.push(addressDetails.address);
+        spreadsheetData.push([
+            addressDetails.address,
+            addressDetails.starsBalance ?? "N/A",
+            addressDetails.delegatedStarsBalance ?? "N/A",
+            addressDetails.totalNFTs ?? "N/A",
+            addressDetails.totalVotes ?? "N/A",
+            addressDetails.votes ?? ""
+        ]);
+    });
+
+    const spreadsheetBuffer = xlsx.build([{ name: `Voters Snapshot`, data: spreadsheetData }]);
+    fs.writeFileSync(`./data/snapshots/${blockHeight}/xlsx/voters.xlsx`, spreadsheetBuffer);
+
+    console.log(`- Found ${qualifiedAddresses.length} addresses which voted on 10 or more proposals before block #${blockHeight}`);
+    return;
 }
 
 module.exports = { fetchVoters }
