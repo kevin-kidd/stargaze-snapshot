@@ -16,7 +16,7 @@ const parseDelegations = (delegations, minDelegationAmount, allAddresses) => {
     }
     for(const [address, delegationTotal] of Object.entries(allAddressesTotal)) {
         if(delegationTotal / 10**6 >= minDelegationAmount) {
-            if(!allAddresses.includes(address)) { // Skip if address has already been added
+            if(!allAddresses.includes(address) && !validDelegators.includes(address)) { // Skip if address has already been added
                 validDelegators.push(address);
             }
         }
@@ -52,7 +52,7 @@ const fetchDelegators = async (blockHeight, minDelegationAmount, allAddresses) =
             ])
         });
 
-        const spreadsheetBuffer = xlsx.build([{ name: `Stakers Snapshot`, data: spreadsheetData }]);
+        const spreadsheetBuffer = xlsx.build([{ name: `Stakers - ${blockHeight}`, data: spreadsheetData }]);
         fs.writeFileSync(`./data/snapshots/${blockHeight}/xlsx/stakers.xlsx`, spreadsheetBuffer);
 
         console.log(`- Found ${qualifiedAddresses.length} addresses which delegated >${minDelegationAmount} $stars before block #${blockHeight}.`);

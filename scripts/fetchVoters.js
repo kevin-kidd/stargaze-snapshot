@@ -54,7 +54,11 @@ const aggregateProposals = async (allAddresses) => {
     }
     let validVoters = [];
     for(const [address, votes] of Object.entries(voters)) {
-        if(!allAddresses.includes(address) && votes.length >= 10) {
+        if(
+            !allAddresses.includes(address) && 
+            votes.length >= 10 &&
+            !validVoters.find((voter) => voter.address === address)
+        ) {
             validVoters.push({
                 address: address,
                 votes: votes.toString(),
@@ -86,7 +90,7 @@ const fetchVoters = async (blockHeight, allAddresses) => {
         ]);
     });
 
-    const spreadsheetBuffer = xlsx.build([{ name: `Voters Snapshot`, data: spreadsheetData }]);
+    const spreadsheetBuffer = xlsx.build([{ name: `Voters - ${blockHeight}`, data: spreadsheetData }]);
     fs.writeFileSync(`./data/snapshots/${blockHeight}/xlsx/voters.xlsx`, spreadsheetBuffer);
 
     console.log(`- Found ${qualifiedAddresses.length} addresses which voted on 10 or more proposals before block #${blockHeight}`);
