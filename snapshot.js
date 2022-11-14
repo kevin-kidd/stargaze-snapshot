@@ -3,6 +3,7 @@ const {fetchVoters} = require("./scripts/fetchVoters");
 const {fetchDelegators} = require("./scripts/fetchDelegators");
 const {fetchValidators} = require("./scripts/fetchValidators");
 
+
 const takeSnapshot = async () => {
     try {
         console.log("### TAKING SNAPSHOT ###");
@@ -10,6 +11,8 @@ const takeSnapshot = async () => {
 
         // Wave 1
         await fetchCreators("3252783", ["1","2","3","4","5","6"], allAddresses); // Addresses that instantiated a contract before June 10
+        
+        await fetchValidators("3252783"); // Any address that deployed a contract before Oct 1st.
         await fetchValidators("4908610"); // Any address that deployed a contract before Oct 1st.
         // Ecosystem devs done manually (only 5 addrs)
 
@@ -26,8 +29,6 @@ const takeSnapshot = async () => {
 
         // Wave 4
         await fetchDelegators("4908610", 5000, allAddresses); // Addresses that had 5000+ STARS staked before Oct 1st.
-        
-        console.log("### SUCCESS ###")
 
     } catch (error) {
         console.error(error);

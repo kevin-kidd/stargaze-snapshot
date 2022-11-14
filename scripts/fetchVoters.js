@@ -70,7 +70,6 @@ const aggregateProposals = async (allAddresses) => {
 }
 
 const fetchVoters = async (blockHeight, allAddresses) => {
-
     const snapshot = await aggregateProposals(allAddresses);
     const nonZeroBalanceSnapshot = await checkBalances(snapshot);
     const qualifiedAddresses = await checkInventory(nonZeroBalanceSnapshot);
@@ -94,7 +93,7 @@ const fetchVoters = async (blockHeight, allAddresses) => {
     fs.writeFileSync(`./data/snapshots/${blockHeight}/xlsx/voters.xlsx`, spreadsheetBuffer);
 
     console.log(`- Found ${qualifiedAddresses.length} addresses which voted on 10 or more proposals before block #${blockHeight}`);
-    return;
+    return allAddresses;
 }
 
 module.exports = { fetchVoters }
