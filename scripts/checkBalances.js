@@ -60,4 +60,4 @@ const checkBalances = async (snapshot) => {
     return nonZeroBalanceSnapshot;
 }
 
-module.exports = { checkBalances }
+module.exports = { checkBalances, getDelegatedStarsBalance, getStarsBalance }
