@@ -1,68 +1,298 @@
 [
   {
-    "address": "stars1mctnhavfduepl9ghdzhkhwf2u4srflv2485qt4",
-    "starsBalance": 0.993825,
-    "delegatedStarsBalance": 1548
+    "address": "stars1frzs8kdcdnzhamdgu64xp745xndaqfytnzrcvn",
+    "starsBalance": 13.492883,
+    "delegatedStarsBalance": 1860
   },
   {
-    "address": "stars1t7kggne7kpsrctfkau00cnkp4lu34u7fuszce2",
-    "starsBalance": 50.206224,
-    "delegatedStarsBalance": 2.74
-  },
-  {
-    "address": "stars1j50n2mykqfp2flgs6ka4lkp5w4svgmmwvs0u26",
-    "starsBalance": 404.729744,
-    "delegatedStarsBalance": 3620.739634
-  },
-  {
-    "address": "stars1qxj87ngzhh27ga9pdw7n6scxw2p0nlarxgd6pl",
-    "starsBalance": 121.88137,
-    "delegatedStarsBalance": 1151.326755
-  },
-  {
-    "address": "stars13cvew8q968y3us83u7tksy8k2zq4ra86ghe87u",
-    "starsBalance": 109.8298,
-    "delegatedStarsBalance": 4330
-  },
-  {
-    "address": "stars1fj8d32l98legw3l23ag5gl6ulc64akfrkwyuhc",
-    "starsBalance": 100.759612,
-    "delegatedStarsBalance": 2076.550684
-  },
-  {
-    "address": "stars1s6f2qtpaku8qy0u0ghhnztt2jtpqpfg9uphal2",
-    "starsBalance": 50.215063,
-    "delegatedStarsBalance": 2462.615937
-  },
-  {
-    "address": "stars1szmqsu3rndntlh6fgkknc8hgzg0cazgfsnu2ja",
-    "starsBalance": 23.804402,
-    "delegatedStarsBalance": 1461.726032
-  },
-  {
-    "address": "stars1cf35rm38ltmqnpm63t7xeyrfel3lst4qnmkcz3",
-    "starsBalance": 1506.768638,
+    "address": "stars1vdgpcns0vqxyk6ekkcws2ju7nnv0tt9e2760ym",
+    "starsBalance": 388.075038,
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1zhm5pd6vtnpjq4a67rvkllpalkumrmt2ycj7yf",
-    "starsBalance": 909.453411,
-    "delegatedStarsBalance": 1051.368997
-  },
-  {
-    "address": "stars1qaqtsgh3t7a0nctuepfhkw2pecmdcf0q0ql2vm",
-    "starsBalance": 20.541306,
-    "delegatedStarsBalance": 2849.219512
-  },
-  {
-    "address": "stars1467crryxceqy25un36uf6025v244kk7j2r4qhv",
-    "starsBalance": 94.65358,
-    "delegatedStarsBalance": 6470.09761
-  },
-  {
-    "address": "stars15vg5t762utafwjwuj2tx8fjwsdvz6nvwrc3zrh",
-    "starsBalance": 50.215118,
+    "address": "stars1axf4lawzuk8v5xfm723qslruvc4rk7eg6dxnu8",
+    "starsBalance": 66.417047,
     "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars19s9870729lngap2kzls3dcyeu7a4m2tcyrep85",
+    "starsBalance": 0.700919,
+    "delegatedStarsBalance": 101.11009
+  },
+  {
+    "address": "stars18qp6u0mvs7ac89gkn6r5j5jqu90zp74y8zn0f0",
+    "starsBalance": 160.851486,
+    "delegatedStarsBalance": 1111.406904
+  },
+  {
+    "address": "stars1val9fuqjg7hd92dfw8ymexgggdcdj5klnzdty2",
+    "starsBalance": 7.07139,
+    "delegatedStarsBalance": 131.447703
+  },
+  {
+    "address": "stars1ga75k6vs39t2ln4larxq5yyd0jv84u29ge8s7h",
+    "starsBalance": 2.276292,
+    "delegatedStarsBalance": 1195.531486
+  },
+  {
+    "address": "stars1vn4gvkqmtdchshcefyx0v08n58svxcftd6dtqj",
+    "starsBalance": 0.716675,
+    "delegatedStarsBalance": 2800.656017
+  },
+  {
+    "address": "stars1p4eh7hpd3ejt7a3pjz7mq4j0fjvf3jpvnrcgdp",
+    "starsBalance": 1.733265,
+    "delegatedStarsBalance": 3032.166587
+  },
+  {
+    "address": "stars1v5dl2kel5qau864h8aujghyy5yph2u83udsk5p",
+    "starsBalance": 56,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1s4u6wh0jw4a5nesm593atlvljgvddmczux3uyk",
+    "starsBalance": 1.739087,
+    "delegatedStarsBalance": 2266
+  },
+  {
+    "address": "stars14nrcses6dnxunsmpfqu7wm2fv5928p2j59gvjr",
+    "starsBalance": 54.122549,
+    "delegatedStarsBalance": 3000.132004
+  },
+  {
+    "address": "stars1m4e9cvkycmmwac6c5smacfgv5f6ywrpryq2vhh",
+    "starsBalance": 71.025326,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars142yp48uhve4qrkjgagpw4ej669lt3d8km0a5hy",
+    "starsBalance": 52.849838,
+    "delegatedStarsBalance": 2914.190837
+  },
+  {
+    "address": "stars1azalsnxu9z264g2cctswvwqy5tvnhf4ksutv20",
+    "starsBalance": 405.84123,
+    "delegatedStarsBalance": 1000
+  },
+  {
+    "address": "stars102h9qge2arxe0xnzk9nj5yqmmdycwjcfw37dua",
+    "starsBalance": 127.426394,
+    "delegatedStarsBalance": 300
+  },
+  {
+    "address": "stars1a83n4zhsyf7w52xrsjajp5ta0rng3tgk8at8fd",
+    "starsBalance": 241.999263,
+    "delegatedStarsBalance": 2000
+  },
+  {
+    "address": "stars1vnq4l4jk898akhhknvu3jmpl2yex300sfcwr08",
+    "starsBalance": 1.241434,
+    "delegatedStarsBalance": 58
+  },
+  {
+    "address": "stars1z5fl7n6ekvca6vkhaz96puqd45e9k8fy5vlgp0",
+    "starsBalance": 60,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars13nmu2lmuyk5m9q246ghrgxll2aeccw7mpzevfq",
+    "starsBalance": 142,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1wspk652kd06gwrkvg2w20qmhyukezvrx4hu2ec",
+    "starsBalance": 185.12,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1ypwsrylltv6yx9jgv628tvmqvad3y9z2k3wcdz",
+    "starsBalance": 0.012715,
+    "delegatedStarsBalance": 2690.268832
+  },
+  {
+    "address": "stars10j4vpz9mxtl0drxaer3y66zr43qea2dr7cyaq0",
+    "starsBalance": 13.266089,
+    "delegatedStarsBalance": 2231.348122
+  },
+  {
+    "address": "stars18ak52v50xrhfqnm934hjmxxdmk8thqdjl63hq9",
+    "starsBalance": 55.079854,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1m0jz88nkvmxr5nqueqc6u58wwg0q42jhnesuln",
+    "starsBalance": 55.807773,
+    "delegatedStarsBalance": 150
+  },
+  {
+    "address": "stars1mej7a3lv70hlgpm0u2q0dx7s6q3jqk4agvk8wa",
+    "starsBalance": 2365.800193,
+    "delegatedStarsBalance": 250
+  },
+  {
+    "address": "stars1d3fu8pyz7adyr44fv3f920rr4ym60r9qmx6fm3",
+    "starsBalance": 61.63713,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1zc6rlkgzd2xv8paty9psh7hqz6tp0n6nkc9nck",
+    "starsBalance": 54,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars127dq25u8p0jmctxhq06u0567w99nucpg0f9whx",
+    "starsBalance": 52,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1gh503097fwlrk52krmncz057h3nenrgx4rw3f0",
+    "starsBalance": 1001.499936,
+    "delegatedStarsBalance": 304
+  },
+  {
+    "address": "stars1gw7f6zeyypk607sgyfcr5ke6885m3fcxpq6j8y",
+    "starsBalance": 1001.857921,
+    "delegatedStarsBalance": 304
+  },
+  {
+    "address": "stars1u2zjcdl3606gz4wg0yc6mnkpudyfv4twyqwcxc",
+    "starsBalance": 42.555878,
+    "delegatedStarsBalance": 1415.344545
+  },
+  {
+    "address": "stars1v9vxmnwgfwhgp7fgha7x3x5nggrnmtx00a6njy",
+    "starsBalance": 778.986455,
+    "delegatedStarsBalance": 3001.629786
+  },
+  {
+    "address": "stars1ey2qq46jncqumzhz8yn4wregkca3v06cm0nht2",
+    "starsBalance": 82.14517,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1agnxvdcd0rl5zf8j4u4ggdztmqjqh0hukzyrg3",
+    "starsBalance": 0.496757,
+    "delegatedStarsBalance": 7649.157301
+  },
+  {
+    "address": "stars1y2m2w0g0fg3gdhsdz442kd3atd3npujhpew39k",
+    "starsBalance": 51.656861,
+    "delegatedStarsBalance": 30741.9622
+  },
+  {
+    "address": "stars1d97f2e7a6ds03pszlz07aw7am66ezh9fy5q2he",
+    "starsBalance": 1526.1318,
+    "delegatedStarsBalance": 3946.43132
+  },
+  {
+    "address": "stars1ur0lldn32upnu4q44d4mmhqzvkwuegafl4shlr",
+    "starsBalance": 0.955089,
+    "delegatedStarsBalance": 3642.000042
+  },
+  {
+    "address": "stars1p24gny9u8jqsvs7cqn5pkzu4xr6zeelml2y2q9",
+    "starsBalance": 0.715668,
+    "delegatedStarsBalance": 4404.531818
+  },
+  {
+    "address": "stars1wse4l346gwfcmc3mjs9lyr2ajrraxqsvj7l48e",
+    "starsBalance": 2.921152,
+    "delegatedStarsBalance": 2050.00003
+  },
+  {
+    "address": "stars19ktrd9dw8lx6pju45s4ckt5klsw9yzhpe5c45x",
+    "starsBalance": 73.101846,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1a7nx59ump0a3j4nss7ftw86250frcc8z7du2ke",
+    "starsBalance": 19.558023,
+    "delegatedStarsBalance": 2294.993538
+  },
+  {
+    "address": "stars1g0mrzvn9ffekcqphnzlg70qq9semv6gxpw6sts",
+    "starsBalance": 5.740093,
+    "delegatedStarsBalance": 224.42
+  },
+  {
+    "address": "stars14knxw2pjck5gqyfrhe2gs25xlh6vkctpct65f6",
+    "starsBalance": 100.233816,
+    "delegatedStarsBalance": 2549.242821
+  },
+  {
+    "address": "stars14qnswsv5vk6ylrl5j43lns8rp8e9th9tgwx9mx",
+    "starsBalance": 61.47414,
+    "delegatedStarsBalance": 7050.401919
+  },
+  {
+    "address": "stars1ghunhty3a8my738l26xhjffyx5yf46qyj5wpu3",
+    "starsBalance": 1187.663787,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars19vchnzeyr988zcqcevatle9dkur00qxxasnv98",
+    "starsBalance": 58.198286,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1xrarkpfhpm92u0jh6fyg7v2chgxqjd0lp37h65",
+    "starsBalance": 1373.939,
+    "delegatedStarsBalance": 2325
+  },
+  {
+    "address": "stars15fh6qz7w8eccak0clczsjxzvw4t5sl9k9dynuu",
+    "starsBalance": 0.583464,
+    "delegatedStarsBalance": 3145.222435
+  },
+  {
+    "address": "stars13lzvq2x2ewn03sjgrkmlvtz0zj3ssx84jf7gag",
+    "starsBalance": 173.284533,
+    "delegatedStarsBalance": 2100
+  },
+  {
+    "address": "stars10ytefevm3uvuxy5q3m43prw6dyg0tqc9dpr5ju",
+    "starsBalance": 105,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1t2qvfaqlh4n0kzpvy46e4q5z5kfcr9aefxgd20",
+    "starsBalance": 105,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars163mp4pymflkddrx9xpacygw2y46jd0sd6mncke",
+    "starsBalance": 169.229984,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1kjp9jl5xfjrevltffwulr64enlfzkpcv9dk86t",
+    "starsBalance": 44.337222,
+    "delegatedStarsBalance": 13223.911498
+  },
+  {
+    "address": "stars1gzw93kttk9nl7x9qc6d437h7c2fzv9wk27gydu",
+    "starsBalance": 63.127168,
+    "delegatedStarsBalance": 1132.98761
+  },
+  {
+    "address": "stars1vl4t4xk7kmpxtm4aez3h9f8r6w6cszgxvuzqgu",
+    "starsBalance": 29.962057,
+    "delegatedStarsBalance": 4178.619918
+  },
+  {
+    "address": "stars1lufxhtryqe7hjf4rv0g9ppal59hd4vz72h4q4n",
+    "starsBalance": 316.269645,
+    "delegatedStarsBalance": 1811
+  },
+  {
+    "address": "stars1gytmegr98ykwfx4k345nyp5vuche4ttkq79703",
+    "starsBalance": 64.181712,
+    "delegatedStarsBalance": 4500
+  },
+  {
+    "address": "stars1cwux6ehfyg98zj7x3vgr7gz33l2kye3nfd53fg",
+    "starsBalance": 0.172532,
+    "delegatedStarsBalance": 1229.026413
   },
   {
     "address": "stars1j725ypfqc83ewlndjp0qjk07mnvn6z2uh3g0uz",
@@ -70,8 +300,273 @@
     "delegatedStarsBalance": 435
   },
   {
+    "address": "stars1edxx3agf2lmfraajhp5um6y0zgs5r3mx8dllnz",
+    "starsBalance": 99.992034,
+    "delegatedStarsBalance": 1178.572427
+  },
+  {
+    "address": "stars1e7ra39kd43wsr9j7stt3jkyexp53z5tzq3cmup",
+    "starsBalance": 12.793476,
+    "delegatedStarsBalance": 1000.562569
+  },
+  {
+    "address": "stars1vazzyfyjgy0wt4l4gjywzfs5060lqw0qurvj0v",
+    "starsBalance": 207.696485,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1t4mzudjv6m888yue2d8mu4u78p4ur0627qq5s8",
+    "starsBalance": 81.001745,
+    "delegatedStarsBalance": 1829.830382
+  },
+  {
+    "address": "stars14zp98mwfcc4t2ltlnpv6am89g0r6xuh8ua07x5",
+    "starsBalance": -1,
+    "delegatedStarsBalance": 231.578278
+  },
+  {
+    "address": "stars1u3g7qq7wc7dzwmyxcr2ym9uhtrvcy4gd9nzj9u",
+    "starsBalance": 269.056384,
+    "delegatedStarsBalance": 3676.710396
+  },
+  {
+    "address": "stars1pynltxm6dk3twd3dfhlx80l4tq2yduxrjnrmtn",
+    "starsBalance": 36.576824,
+    "delegatedStarsBalance": 6015
+  },
+  {
+    "address": "stars1s8ftvy9crkta5yxr3vh98qkkn23u644a22yaq6",
+    "starsBalance": 2578.655891,
+    "delegatedStarsBalance": 5007.273561
+  },
+  {
+    "address": "stars14ug8jd964p5gmdx73azgvgu5l869cn8un5lzpy",
+    "starsBalance": 54,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1pm2qczsm0ney0ev092mewmrg4wd5hxt78jnnum",
+    "starsBalance": 64.765612,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1sqxfqqdw6xnfs9enzlzcd0n3huheqcwgk7qazz",
+    "starsBalance": 89.99375,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars13cm7r5uqxdgdq7glgpmh3r5cxq77pyd0hz5eju",
+    "starsBalance": 580.978102,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1gagwj7r8fna5n6l0qsejx23k6u20u4c9u6240p",
+    "starsBalance": 391.631369,
+    "delegatedStarsBalance": 1192.515776
+  },
+  {
+    "address": "stars1fxafs2mfgwzyjn42h7njcn9qng0nskwm5g3s0s",
+    "starsBalance": 51.351499,
+    "delegatedStarsBalance": 1169.759152
+  },
+  {
+    "address": "stars1aenrp6mh2mrv2e6caddvjvuq5ere3htcvxshdz",
+    "starsBalance": 50.494567,
+    "delegatedStarsBalance": 1025.012892
+  },
+  {
+    "address": "stars1q2rn9es3jql8jkx3wv3nlp28ry8zmla5schvjs",
+    "starsBalance": 750.101893,
+    "delegatedStarsBalance": 9112
+  },
+  {
+    "address": "stars1ulr5atulu60r402kuqf44qu0vv4d0530n5whpu",
+    "starsBalance": 10.294299,
+    "delegatedStarsBalance": 1680.54
+  },
+  {
+    "address": "stars1dnh6fspp0acms33vsr4yeh88dh3cthn8j2pape",
+    "starsBalance": 275.453444,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1ga0tl4y4rnn9p9h4evuq3r2d4pymrl2pdmlr0z",
+    "starsBalance": 51.900676,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1mj2jvmy24yskk4yr3xxzxggq3j8uxdpsydzdwc",
+    "starsBalance": 48.603817,
+    "delegatedStarsBalance": 8696.172562
+  },
+  {
+    "address": "stars1c5qduhcwymj77zn4988kzuws6l36fsp04z2fuk",
+    "starsBalance": 0.117667,
+    "delegatedStarsBalance": 1876.243363
+  },
+  {
+    "address": "stars1p80cpg464u48k7hr3a6myeu4s3ngr3t89wdz05",
+    "starsBalance": 224.179105,
+    "delegatedStarsBalance": 100
+  },
+  {
+    "address": "stars1l59u0lggvpn8lvrqydqrnncukf2pyjf3c5c3e5",
+    "starsBalance": 0.53833,
+    "delegatedStarsBalance": 168.874757
+  },
+  {
+    "address": "stars1v6r5xx4eug7qanhedzj8r0zma42arckrkhvv0n",
+    "starsBalance": 0.675558,
+    "delegatedStarsBalance": 101.662386
+  },
+  {
+    "address": "stars1pvzssder5a5md4wdhjyzdhtxmcrpvp9cfnt9rd",
+    "starsBalance": 90.65424,
+    "delegatedStarsBalance": 1069.086201
+  },
+  {
+    "address": "stars1nefqzz9plple4dvecc4pv5x8sy5zfu9xl9hc8n",
+    "starsBalance": 34.6142,
+    "delegatedStarsBalance": 5870.208643
+  },
+  {
+    "address": "stars1hjzv33j8avtkzuhktrle4tmds3kgkxe9l7t7dh",
+    "starsBalance": -1,
+    "delegatedStarsBalance": 2070.276399
+  },
+  {
+    "address": "stars16vh6tnpa48nd5stqs9y42vsqs5609kpfux582v",
+    "starsBalance": 4816.818905,
+    "delegatedStarsBalance": 50
+  },
+  {
+    "address": "stars158ep04lmck7hx7pt5vwkjhshkqs6wrhjvpv86r",
+    "starsBalance": 0.686088,
+    "delegatedStarsBalance": 2338.735842
+  },
+  {
+    "address": "stars129lt5v9etr4k70q05zlr7nll92kkcp9rnysvfc",
+    "starsBalance": 141.505726,
+    "delegatedStarsBalance": 2022.455539
+  },
+  {
+    "address": "stars1k82cm34k490pnhv6vf8fwvnsvsjn3dw2p4eqja",
+    "starsBalance": 51,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1z0duy3fyc0mmjwz9wyct6xy330ry9ptu4xt5na",
+    "starsBalance": 208.496369,
+    "delegatedStarsBalance": 1436.268117
+  },
+  {
+    "address": "stars1eh6p8n8lksz28nup38muylvw8j4wyhyvf0yx8a",
+    "starsBalance": 0.18229,
+    "delegatedStarsBalance": 65.122934
+  },
+  {
+    "address": "stars1kakgtpqapczz9yu39q7z99crmrce9a9jpgka06",
+    "starsBalance": 114.642733,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1hnkg39yqg7myxkxv6lnd22ecrmwss69ljlqj8y",
+    "starsBalance": 76.062269,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1juygz50pltxrzwqyvztwvr6gtjj3gtdsqaz69c",
+    "starsBalance": 0.638438,
+    "delegatedStarsBalance": 2644.701209
+  },
+  {
+    "address": "stars17pvmse8x5nfcpug40nj0da2ks3h2646knajyrf",
+    "starsBalance": 53.353591,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars194vn29432c88s26yhv5ek3gfrqwqx5zcalppez",
+    "starsBalance": 452.62565,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1x5nedvv4zj6vqq7alcmnv2875xlxlcxszydk4u",
+    "starsBalance": 521.436652,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1mctnhavfduepl9ghdzhkhwf2u4srflv2485qt4",
+    "starsBalance": 0.993825,
+    "delegatedStarsBalance": 1548
+  },
+  {
+    "address": "stars1t7kggne7kpsrctfkau00cnkp4lu34u7fuszce2",
+    "starsBalance": 50.266731,
+    "delegatedStarsBalance": 13
+  },
+  {
+    "address": "stars1j50n2mykqfp2flgs6ka4lkp5w4svgmmwvs0u26",
+    "starsBalance": 412.543139,
+    "delegatedStarsBalance": 3620.739634
+  },
+  {
+    "address": "stars1qxj87ngzhh27ga9pdw7n6scxw2p0nlarxgd6pl",
+    "starsBalance": 0.409549,
+    "delegatedStarsBalance": 1964.826755
+  },
+  {
+    "address": "stars13cvew8q968y3us83u7tksy8k2zq4ra86ghe87u",
+    "starsBalance": 23.252272,
+    "delegatedStarsBalance": 4442
+  },
+  {
+    "address": "stars1fj8d32l98legw3l23ag5gl6ulc64akfrkwyuhc",
+    "starsBalance": 100.769274,
+    "delegatedStarsBalance": 2100.745916
+  },
+  {
+    "address": "stars1zzupnk4uh6yzpfsfj35u7q9vqlxuxjg6l8ule9",
+    "starsBalance": 574,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1s6f2qtpaku8qy0u0ghhnztt2jtpqpfg9uphal2",
+    "starsBalance": 50.012565,
+    "delegatedStarsBalance": 2489.115937
+  },
+  {
+    "address": "stars1szmqsu3rndntlh6fgkknc8hgzg0cazgfsnu2ja",
+    "starsBalance": 23.800867,
+    "delegatedStarsBalance": 1475.074163
+  },
+  {
+    "address": "stars1cf35rm38ltmqnpm63t7xeyrfel3lst4qnmkcz3",
+    "starsBalance": 1506.752818,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1zhm5pd6vtnpjq4a67rvkllpalkumrmt2ycj7yf",
+    "starsBalance": 921.431841,
+    "delegatedStarsBalance": 1051.368997
+  },
+  {
+    "address": "stars1qaqtsgh3t7a0nctuepfhkw2pecmdcf0q0ql2vm",
+    "starsBalance": 0.002191,
+    "delegatedStarsBalance": 2880.578234
+  },
+  {
+    "address": "stars1467crryxceqy25un36uf6025v244kk7j2r4qhv",
+    "starsBalance": 94.61025,
+    "delegatedStarsBalance": 6557.154829
+  },
+  {
+    "address": "stars15vg5t762utafwjwuj2tx8fjwsdvz6nvwrc3zrh",
+    "starsBalance": 50.215118,
+    "delegatedStarsBalance": 0
+  },
+  {
     "address": "stars1c0l29gvpj7n7wq4mmcrszvn50yt723mdyr0yd7",
-    "starsBalance": 15.608398,
+    "starsBalance": 2.56493,
     "delegatedStarsBalance": 803.08
   },
   {
@@ -81,8 +576,8 @@
   },
   {
     "address": "stars1tdktnx6j8hxc0ysvn86l25hh3evmvz2qtv7h6x",
-    "starsBalance": 0.763638,
-    "delegatedStarsBalance": 525
+    "starsBalance": 30.223792,
+    "delegatedStarsBalance": 2327.5
   },
   {
     "address": "stars1q5tl39kg5y4kywhl899t5t48gwa3uxfa83ndgf",
@@ -91,18 +586,18 @@
   },
   {
     "address": "stars1edss2jrl9krxcxv709lc2tt2nrc849qgg7pxre",
-    "starsBalance": 174.427146,
+    "starsBalance": 184.819342,
     "delegatedStarsBalance": 1169.6
   },
   {
     "address": "stars120t6ntph3za6a7trw3zegseefkyf5u8g0z42k6",
-    "starsBalance": 9.235623,
-    "delegatedStarsBalance": 243.0124
+    "starsBalance": 9.230059,
+    "delegatedStarsBalance": 247.900688
   },
   {
     "address": "stars1sz8t9sm3pwgeqdfkzm4jgwlkuqjaud0fkrl8ts",
-    "starsBalance": 84.901242,
-    "delegatedStarsBalance": 1272.448678
+    "starsBalance": 97.617587,
+    "delegatedStarsBalance": 1281.02925
   },
   {
     "address": "stars1y4rs2wsnply909j0zpjgzlludtg4ythah5ar95",
@@ -111,28 +606,23 @@
   },
   {
     "address": "stars1zqrqju2txhnnwtgn0d2jutnassmg973322nzsu",
-    "starsBalance": 2.337922,
-    "delegatedStarsBalance": 2135.110879
+    "starsBalance": 0.29985,
+    "delegatedStarsBalance": 2172.362742
   },
   {
     "address": "stars135pxhlyj4el5fxyzhfhe3zgtgj6dda5h7rljl7",
-    "starsBalance": 0.132095,
-    "delegatedStarsBalance": 5229.531276
+    "starsBalance": 0.415132,
+    "delegatedStarsBalance": 5288.110804
   },
   {
     "address": "stars1nn4yhqp4v8tuntad27wqj6cwwaq8hp0tjt9vkw",
-    "starsBalance": 1.85061,
-    "delegatedStarsBalance": 4150
+    "starsBalance": 5.231965,
+    "delegatedStarsBalance": 4220
   },
   {
     "address": "stars1ugxkhjzaexe39rk3e4ka7aca2t5d6wk560hfk5",
     "starsBalance": 74.183912,
     "delegatedStarsBalance": 3211.249358
-  },
-  {
-    "address": "stars1pynltxm6dk3twd3dfhlx80l4tq2yduxrjnrmtn",
-    "starsBalance": 36.576824,
-    "delegatedStarsBalance": 6015
   },
   {
     "address": "stars1cgmuvg7klm5qd8gjxl3unfz3mj7843xwkrgt20",
@@ -146,23 +636,23 @@
   },
   {
     "address": "stars19rg5dltkyvc72xpn6h4f6sqfkd7j0z3qr6wcu7",
-    "starsBalance": 170.40195,
+    "starsBalance": 337.97195,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1k8udad6rg4pypffvdp26s47u3zug3yvprr9sw0",
-    "starsBalance": 326.473652,
+    "starsBalance": 358.27144,
     "delegatedStarsBalance": 3001
   },
   {
     "address": "stars1mw6l2gd2l0jt8phz7yz5l7vyfl4h2qpkcvfc7f",
-    "starsBalance": 101.612066,
-    "delegatedStarsBalance": 4552.175332
+    "starsBalance": 34.48815,
+    "delegatedStarsBalance": 4581.488433
   },
   {
     "address": "stars1yxhwgqaezqqqnfx6djukd8cl3awq5ang5nhf7c",
-    "starsBalance": 53.222281,
-    "delegatedStarsBalance": 1098.260091
+    "starsBalance": 54.83857,
+    "delegatedStarsBalance": 1108.814123
   },
   {
     "address": "stars1tytfe9j6le8nxja6r0wsl76dq8ygeq4dz8llys",
@@ -176,28 +666,28 @@
   },
   {
     "address": "stars15sann2zkula3ejr0plyvs43e0ygxkcla3q6cf4",
-    "starsBalance": 9.612586,
-    "delegatedStarsBalance": 5319.123943
+    "starsBalance": 709.620631,
+    "delegatedStarsBalance": 5382.685474
   },
   {
     "address": "stars1qzsjdaukz492pepja6em45htv946a07e0ytvzh",
-    "starsBalance": 0.169382,
-    "delegatedStarsBalance": 295
+    "starsBalance": 1.704158,
+    "delegatedStarsBalance": 300.1
   },
   {
     "address": "stars1g2kr88dzpwszku2t27ueducezuwgs7dw5yjkrc",
-    "starsBalance": 0.151383,
+    "starsBalance": 0.940955,
     "delegatedStarsBalance": 2000.092565
   },
   {
     "address": "stars1v50s2argpqkfufgv4wznjplqaq5tkpcns2ty3d",
-    "starsBalance": 1.001034,
-    "delegatedStarsBalance": 2032.459743
+    "starsBalance": 15.019912,
+    "delegatedStarsBalance": 2062.020579
   },
   {
     "address": "stars1syd6g3ssd00k5nd9yaz643s07le3q0es6339gz",
-    "starsBalance": 0.051574,
-    "delegatedStarsBalance": 838.483298
+    "starsBalance": 0.063371,
+    "delegatedStarsBalance": 847.976336
   },
   {
     "address": "stars1ppdadpz030c0rhmhy00h3w4gzunqknpyrlgpf2",
@@ -206,8 +696,8 @@
   },
   {
     "address": "stars1qlyrwq4kcxnz8qsl6ehf4lm3r5sk59h25las4e",
-    "starsBalance": 1055.066992,
-    "delegatedStarsBalance": 0
+    "starsBalance": 1049.946527,
+    "delegatedStarsBalance": 5.0583
   },
   {
     "address": "stars1p4m6ce54g3j0dq5pql7puhq3gq7923n7f9fwy2",
@@ -221,8 +711,8 @@
   },
   {
     "address": "stars1qv0m7pm5jf7elfc2m32t9qzrtq69903w8jmf2l",
-    "starsBalance": 0.461919,
-    "delegatedStarsBalance": 178.410237
+    "starsBalance": 0.230466,
+    "delegatedStarsBalance": 184.04129
   },
   {
     "address": "stars1s2hzdmgc8xqh3msgs720ytm3svvz4zpw2ktj8d",
@@ -236,13 +726,13 @@
   },
   {
     "address": "stars1twfv52yxcyykx2lcvgl42svw46hsm5dd4ww6xy",
-    "starsBalance": 2.596184,
-    "delegatedStarsBalance": 1297.308845
+    "starsBalance": 2.597662,
+    "delegatedStarsBalance": 1312.80124
   },
   {
     "address": "stars1aq33wu0ld26l473ykv9gzc76d8pdyk0p9gery7",
-    "starsBalance": 55.929847,
-    "delegatedStarsBalance": 1000
+    "starsBalance": 0.159753,
+    "delegatedStarsBalance": 4549
   },
   {
     "address": "stars1wsp2p6ugq32qjzp7r6sylejpd5vsmwfm0mu3uy",
@@ -271,18 +761,18 @@
   },
   {
     "address": "stars17v9zsyrd0tnmxn6frppf4erp23v5spdrftjlw0",
-    "starsBalance": 278.005524,
-    "delegatedStarsBalance": 2214.394489
+    "starsBalance": 200.20701,
+    "delegatedStarsBalance": 15206.892285
   },
   {
     "address": "stars12mqgfxh25tqrl4xz39z0t67r4q024c7qxdrje5",
-    "starsBalance": 158.706103,
+    "starsBalance": 119.564769,
     "delegatedStarsBalance": 1.014441
   },
   {
     "address": "stars1fhpzghz8wes2skw5xwvn72628e7nxsh30twanq",
-    "starsBalance": 49.990292,
-    "delegatedStarsBalance": 1107.899803
+    "starsBalance": 49.988696,
+    "delegatedStarsBalance": 1113.122569
   },
   {
     "address": "stars13x3jart3tpxzu2xumft79kz78rfawyu296a4hg",
@@ -291,8 +781,8 @@
   },
   {
     "address": "stars1wnwwltj8xynmmres4mp0uvtm2xjzzjf8cn5jqp",
-    "starsBalance": 1.379865,
-    "delegatedStarsBalance": 12338.349586
+    "starsBalance": 1.40604,
+    "delegatedStarsBalance": 12477.83745
   },
   {
     "address": "stars1heap6pxqvfp5ytpkkmd5rvaal8sezmhcea2etg",
@@ -301,13 +791,13 @@
   },
   {
     "address": "stars1rknrapqtccrj8qflfaywajg2yj2dd540kt0luy",
-    "starsBalance": 25.392534,
+    "starsBalance": 25.29662,
     "delegatedStarsBalance": 6593.358534
   },
   {
     "address": "stars1kw6ktgk0lc9z28yrqgshmlksm8cauemwhcp24u",
-    "starsBalance": 0.134891,
-    "delegatedStarsBalance": 2071
+    "starsBalance": 0.061529,
+    "delegatedStarsBalance": 3128
   },
   {
     "address": "stars14mh73gngzftvn2u8y7cq69fvjngt7wplh7frj5",
@@ -316,13 +806,13 @@
   },
   {
     "address": "stars1v5prcj2fsk23qft97rhhyfjh8wtg35vl3ymu9l",
-    "starsBalance": 277.145283,
+    "starsBalance": 189.601917,
     "delegatedStarsBalance": 252.434583
   },
   {
     "address": "stars1nwahelpufea4fe3fe2rkl4xm8a00vlssp62r2s",
-    "starsBalance": 2.947452,
-    "delegatedStarsBalance": 1170
+    "starsBalance": 9.979465,
+    "delegatedStarsBalance": 1250
   },
   {
     "address": "stars1evxf9evhtazhrfj4zkmjmpt60f2qxegytagsdk",
@@ -360,11 +850,6 @@
     "delegatedStarsBalance": 200
   },
   {
-    "address": "stars1c9tpxanexwfmrj5ywf282rvnw29vlesea2vnc7",
-    "starsBalance": 53.889075,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1h3jk4x87ztg035nfw4nymzmvcdeh5vkf2m6wtk",
     "starsBalance": 0.292431,
     "delegatedStarsBalance": 262
@@ -381,7 +866,7 @@
   },
   {
     "address": "stars1qwzaxlxd030lg459k5fz4pt35yycvshq2uqet8",
-    "starsBalance": 83.376783,
+    "starsBalance": 106.194998,
     "delegatedStarsBalance": 2030.033753
   },
   {
@@ -416,7 +901,7 @@
   },
   {
     "address": "stars19jfu8esg7pt8s7lkgk88pc0hn4efm4hrdq3ndd",
-    "starsBalance": 38.086721,
+    "starsBalance": 0.0039,
     "delegatedStarsBalance": 1199.501105
   },
   {
@@ -431,22 +916,22 @@
   },
   {
     "address": "stars1gp7s38a5a5f6urhpasvlmgzaqmvwcl3prpdxq7",
-    "starsBalance": 439.42491,
+    "starsBalance": 368.440355,
     "delegatedStarsBalance": 4.11
   },
   {
     "address": "stars1a4z0wc53s5ycqrerujuu3z2xra2jryx7yyk7ls",
-    "starsBalance": 259.852768,
+    "starsBalance": 360.568988,
     "delegatedStarsBalance": 3000.795329
   },
   {
     "address": "stars10jm8fvdyqlj78w0j5nawc76wsn4pqmdxwjyelu",
-    "starsBalance": 5.139193,
-    "delegatedStarsBalance": 582146.794933
+    "starsBalance": 32.118044,
+    "delegatedStarsBalance": 594633.479339
   },
   {
     "address": "stars1u29g8ak4gvvcf2ksk2vxp6j2wf7jgt90n80dp6",
-    "starsBalance": 42.558614,
+    "starsBalance": 21.326804,
     "delegatedStarsBalance": 51.0979
   },
   {
@@ -471,48 +956,43 @@
   },
   {
     "address": "stars1yngrpun2rggr5rk65y7dvtnkff62n8hrvt2529",
-    "starsBalance": 26.040378,
+    "starsBalance": 0.0039,
     "delegatedStarsBalance": 99.252967
   },
   {
-    "address": "stars1gngl9qlrtn4kdf0ytm6cegs5ruzhx6hdzv92ve",
-    "starsBalance": 60.40777,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars103rf48l9aq3kuzwjqa6f84sdsgn3m4uprq37c9",
-    "starsBalance": 5.751139,
-    "delegatedStarsBalance": 1105.489798
+    "starsBalance": 5.884721,
+    "delegatedStarsBalance": 1118.567435
   },
   {
     "address": "stars1qmvhmpklqdj3ap35pwa5zwtdnn3d8dh52psahr",
-    "starsBalance": 2.159384,
+    "starsBalance": 17.300939,
     "delegatedStarsBalance": 1200
   },
   {
     "address": "stars16zs53whzuydl50pptd9cx8w5f22tfqa3486qst",
-    "starsBalance": 1230.58419,
-    "delegatedStarsBalance": 1500
+    "starsBalance": 79.193764,
+    "delegatedStarsBalance": 2700
   },
   {
     "address": "stars1pttg3s34aqpehnksjk45hwte3qdmug3uad268r",
-    "starsBalance": 0.124319,
+    "starsBalance": 0.445246,
     "delegatedStarsBalance": 20544.792672
   },
   {
     "address": "stars1lvtjp22lrr0fq3nj9aes7mdcqcfstpxhhekmqq",
-    "starsBalance": 1.727747,
+    "starsBalance": 6.264098,
     "delegatedStarsBalance": 8068.116863
   },
   {
     "address": "stars1qtsptcq0yt6rz0pa6sly6v0e8geayea55vyfmg",
-    "starsBalance": 42.077058,
-    "delegatedStarsBalance": 2727
+    "starsBalance": 11.327576,
+    "delegatedStarsBalance": 2776
   },
   {
     "address": "stars1r3dr6mq7spjxsm909kmauvjgmw4pzefhl5rx5v",
-    "starsBalance": 141.856178,
-    "delegatedStarsBalance": 496.968041
+    "starsBalance": 1.550206,
+    "delegatedStarsBalance": 646.968041
   },
   {
     "address": "stars1tgxxuwlfuesqkx3uwc2s3390ew47flnac34h7w",
@@ -556,18 +1036,18 @@
   },
   {
     "address": "stars1esdxpq70d0078j68qkaz6zd69hx403zh2cc0nq",
-    "starsBalance": 1.287963,
-    "delegatedStarsBalance": 83243.47
+    "starsBalance": 0.767971,
+    "delegatedStarsBalance": 85000
   },
   {
     "address": "stars1t55df4ey9gjdxfefw692xck45t8eycdp4c3uud",
-    "starsBalance": 35.368145,
+    "starsBalance": 6835.037624,
     "delegatedStarsBalance": 4500
   },
   {
     "address": "stars12akrw6j2ps7szcmw8r75px6qwh6lmt96jxkxus",
-    "starsBalance": 8.406209,
-    "delegatedStarsBalance": 1151.601277
+    "starsBalance": 0.004893,
+    "delegatedStarsBalance": 1165.363039
   },
   {
     "address": "stars1jsqzju72qyx0w3y4zazacvye4cp8v32u2yxyjg",
@@ -576,7 +1056,7 @@
   },
   {
     "address": "stars1wahy5fj6mka5crsa5q4tpdj0juhhuty64d3ydp",
-    "starsBalance": 56.6,
+    "starsBalance": 52.2,
     "delegatedStarsBalance": 129.987
   },
   {
@@ -596,12 +1076,12 @@
   },
   {
     "address": "stars19ckvp2666xc5aaevrmufppyzjtggfhguqcrnnl",
-    "starsBalance": 4896.893206,
+    "starsBalance": 4856.66963,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1l4l9u26mg4lthmp6hd2x2pxfrn2se8glacel98",
-    "starsBalance": 50.734343,
+    "starsBalance": 50.001314,
     "delegatedStarsBalance": 0
   },
   {
@@ -611,12 +1091,12 @@
   },
   {
     "address": "stars17aynk7sdvsueaxmlf9jlggl9xyz43q5r8ylhjy",
-    "starsBalance": 16.918803,
+    "starsBalance": 16.795876,
     "delegatedStarsBalance": 1000
   },
   {
     "address": "stars1erkch362f5l9vysy7xvn2gdr0wx63a5jkt63gt",
-    "starsBalance": 118.057157,
+    "starsBalance": 118.018788,
     "delegatedStarsBalance": 2800.1111
   },
   {
@@ -626,8 +1106,8 @@
   },
   {
     "address": "stars1r7vl7hqj2cf3wnmcsgsulu5lm5tlws0m4jjs4c",
-    "starsBalance": 1.128898,
-    "delegatedStarsBalance": 1166.461876
+    "starsBalance": 1.133803,
+    "delegatedStarsBalance": 1179.358787
   },
   {
     "address": "stars1na625hwgqmxguenksj9l2qet8w5cqqjxze48fk",
@@ -636,8 +1116,8 @@
   },
   {
     "address": "stars16vkjraz5k99pe5k53xv5u0z5rfnut608dlg776",
-    "starsBalance": 1.142101,
-    "delegatedStarsBalance": 1051.67809
+    "starsBalance": 1.147028,
+    "delegatedStarsBalance": 1063.305469
   },
   {
     "address": "stars1y7vzzq88hxvlt74fca9spgfkjkfanfaxkwmytq",
@@ -671,22 +1151,22 @@
   },
   {
     "address": "stars1mnj8u6eg5mwd65czfyx2pfstuvundudnw5m7s2",
-    "starsBalance": 0.079276,
+    "starsBalance": 0.001344,
     "delegatedStarsBalance": 1032.786889
   },
   {
     "address": "stars1nedlyyjmf9cc6ckgy26v6j22gm95qwa9j2kaqc",
-    "starsBalance": 70.868846,
+    "starsBalance": 243.747653,
     "delegatedStarsBalance": 10000
   },
   {
     "address": "stars17mxljnrchf9lucmtnv4hv6tct6jqdq3p48pfsd",
-    "starsBalance": 38.092389,
+    "starsBalance": 53.105827,
     "delegatedStarsBalance": 1420.99873
   },
   {
     "address": "stars1c9jfujwtaz8q4cf8jl0rdja89m9hz9q2jse8zd",
-    "starsBalance": 293.331843,
+    "starsBalance": 293.276139,
     "delegatedStarsBalance": 3732.95264
   },
   {
@@ -696,22 +1176,22 @@
   },
   {
     "address": "stars13qpu5wf5uafq3gjujtadufk2q267kx9v74m5xa",
-    "starsBalance": 43.989217,
-    "delegatedStarsBalance": 4706.677805
+    "starsBalance": 94.677764,
+    "delegatedStarsBalance": 4759.457843
   },
   {
     "address": "stars1u84u77l6rnumfl3fhwcpawx3aczm2400ggdeha",
-    "starsBalance": 0.485175,
-    "delegatedStarsBalance": 1830.884306
+    "starsBalance": 0.517084,
+    "delegatedStarsBalance": 1856.884306
   },
   {
     "address": "stars1kwy4efs08zlank48qw7d2y4lhrjjk3sndyqgas",
-    "starsBalance": 9.579166,
+    "starsBalance": 9.438354,
     "delegatedStarsBalance": 2234.31794
   },
   {
     "address": "stars1fkuqhrc6pwulf3zlu6w5vcjxs5h9tdkrmzz3mh",
-    "starsBalance": 64.695004,
+    "starsBalance": 128.799072,
     "delegatedStarsBalance": 390.40981
   },
   {
@@ -720,18 +1200,13 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1vlcvscjm03t62y7lr8l9dfmfttp2p4s5f8jqxh",
-    "starsBalance": 42.824439,
-    "delegatedStarsBalance": 6600
-  },
-  {
     "address": "stars1rrpmradq3mwpuemq9ukmmnmkd0pe9pypshcq3s",
-    "starsBalance": 0.915241,
-    "delegatedStarsBalance": 790.243254
+    "starsBalance": 0.904532,
+    "delegatedStarsBalance": 803.092039
   },
   {
     "address": "stars1funv9ggccfjlusfqhykzegyhmfsv59jwhkyew4",
-    "starsBalance": 621.217721,
+    "starsBalance": 330.580179,
     "delegatedStarsBalance": 4005.26101
   },
   {
@@ -741,12 +1216,12 @@
   },
   {
     "address": "stars1f3qxww8pnx0xrea7e03ffxnlau0fk5uflmvst6",
-    "starsBalance": 105.160957,
-    "delegatedStarsBalance": 17284.121648
+    "starsBalance": 105.159543,
+    "delegatedStarsBalance": 17421.404145
   },
   {
     "address": "stars1rhw5ee84gq5jtvg7vle7tvqsncz6cjf078vz7f",
-    "starsBalance": 1.526117,
+    "starsBalance": 2.662486,
     "delegatedStarsBalance": 51
   },
   {
@@ -761,7 +1236,7 @@
   },
   {
     "address": "stars1h6h06aqc79fcvju8gpwxurtdt9thgyu5ddrcs9",
-    "starsBalance": 1.310368,
+    "starsBalance": 1.171118,
     "delegatedStarsBalance": 2126.537947
   },
   {
@@ -776,8 +1251,8 @@
   },
   {
     "address": "stars1fnuug3854nyfqa8wymjqxpuxqdc3pu308w7wfz",
-    "starsBalance": 311.250909,
-    "delegatedStarsBalance": 2636.997322
+    "starsBalance": 336.038615,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars12gvvucdlvkylvyttsjlcs6rful3jc9cm3skhl2",
@@ -801,8 +1276,8 @@
   },
   {
     "address": "stars1fcm4h2h6yulx7qe0p9jtxjy83eh6p9tyy6ur33",
-    "starsBalance": 16.722342,
-    "delegatedStarsBalance": 3583.23206
+    "starsBalance": 0.899324,
+    "delegatedStarsBalance": 3637.23206
   },
   {
     "address": "stars13fkm5fr2dqv6uwx4vmtqgm5zweqhaded0yjmy5",
@@ -820,23 +1295,18 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1urhad7pgznv3phwk3r7c7qyy6rluuw8684c730",
-    "starsBalance": 1263.986965,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars15md4wkfqux35ak5rh2409yk3gx8l4y5scpasj3",
-    "starsBalance": 193.863843,
-    "delegatedStarsBalance": 5066.652316
+    "starsBalance": 193.872207,
+    "delegatedStarsBalance": 5097.141218
   },
   {
     "address": "stars1x4nsrhgak74fne0gv66alfje64cqgfs8rh9clx",
-    "starsBalance": 51.467418,
-    "delegatedStarsBalance": 1993.463315
+    "starsBalance": 50.245151,
+    "delegatedStarsBalance": 2015.853027
   },
   {
     "address": "stars1pyy4v5zf4hkd7zjjpy2l2zvaa8cu2p4332l0al",
-    "starsBalance": 88.283861,
+    "starsBalance": 239.014629,
     "delegatedStarsBalance": 10001
   },
   {
@@ -846,18 +1316,13 @@
   },
   {
     "address": "stars1fy9w6fu9axem3cmp3u8903ptuxnnjd6hfkemcs",
-    "starsBalance": 51.631281,
+    "starsBalance": 51.585546,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1e9nfrah4xdpsurssrp5t2ln49dkw7s4cddlrxe",
     "starsBalance": 0.002715,
     "delegatedStarsBalance": 1154.407681
-  },
-  {
-    "address": "stars1znyg0f36j3d9ucl7pkp67q9umwfkqfljt30gud",
-    "starsBalance": 65.0181,
-    "delegatedStarsBalance": 0
   },
   {
     "address": "stars13n6zkeu7fpla9kyvd9nu9vyesyhql8d05fhyg6",
@@ -881,8 +1346,8 @@
   },
   {
     "address": "stars16qwjsddyrv8lw8xuyamhdgcyn9qrrmjhh7ae6n",
-    "starsBalance": 6.052741,
-    "delegatedStarsBalance": 1481.984
+    "starsBalance": 5.11922,
+    "delegatedStarsBalance": 1511.984
   },
   {
     "address": "stars1k88veh4jq2vzmmwlnwa856lmf7km0n4d284cya",
@@ -896,43 +1361,38 @@
   },
   {
     "address": "stars1s3xe5d57kflug3xxrq22tsvnmxwy8mf8pv4p3d",
-    "starsBalance": 1838.001053,
+    "starsBalance": 1828.041842,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1t6vvnjq87c9e4szljlcm9y2fz47dwz04wcjvtc",
-    "starsBalance": 0.37878,
-    "delegatedStarsBalance": 2141.578309
+    "starsBalance": 0.229001,
+    "delegatedStarsBalance": 2159.578309
   },
   {
     "address": "stars1x6m588ylgx4nedyw5x7v06v3hafqer2emtcqfx",
-    "starsBalance": 71.065484,
+    "starsBalance": 71.059155,
     "delegatedStarsBalance": 1076.638074
   },
   {
     "address": "stars1n4zfs8lx77pwhcvc4stxgf5sfp2efuc2dt2jrc",
-    "starsBalance": 0.356751,
-    "delegatedStarsBalance": 72.550491
+    "starsBalance": 0.14581,
+    "delegatedStarsBalance": 90.023188
   },
   {
     "address": "stars1xyg2gc63jv6nmxg4lcrxpf7vx703k5zfjjqhdn",
-    "starsBalance": 4.029101,
-    "delegatedStarsBalance": 68.725521
+    "starsBalance": 0.042083,
+    "delegatedStarsBalance": 99.163335
   },
   {
     "address": "stars1q9snn84jfrd9ge8t46kdcggpe58dua82waxcsf",
-    "starsBalance": 37.842291,
-    "delegatedStarsBalance": 2763.011677
+    "starsBalance": 37.857459,
+    "delegatedStarsBalance": 2793.557436
   },
   {
     "address": "stars1r9ua3ulh34d8xpzql535zyse84vtn4306akxp8",
     "starsBalance": 100.007,
     "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1azalsnxu9z264g2cctswvwqy5tvnhf4ksutv20",
-    "starsBalance": 1249.276979,
-    "delegatedStarsBalance": 1000
   },
   {
     "address": "stars1pxc3vltva9826ftryr7j9tpm8fwkh9k8nr9wxy",
@@ -941,7 +1401,7 @@
   },
   {
     "address": "stars15mqpgel3535nyg00ywh7r90rzyj0mxjz3atl4r",
-    "starsBalance": 1329.4924,
+    "starsBalance": 1690.397233,
     "delegatedStarsBalance": 1000
   },
   {
@@ -956,18 +1416,18 @@
   },
   {
     "address": "stars122sjy5nzdluxhcwts8hnycz7le472vw4e36erh",
-    "starsBalance": 229.010202,
-    "delegatedStarsBalance": 1711.046232
+    "starsBalance": 114.554673,
+    "delegatedStarsBalance": 1729.820694
   },
   {
     "address": "stars1am5yur76axre0lqljfr60tzg8mcwhgulh9az9s",
-    "starsBalance": 26.904129,
-    "delegatedStarsBalance": 252.898372
+    "starsBalance": 31.973972,
+    "delegatedStarsBalance": 1453.256649
   },
   {
     "address": "stars1gg5lr2rrh5fwgjpmxgtmvyqft5dx73sjtnlx2c",
-    "starsBalance": 345.233274,
-    "delegatedStarsBalance": 1010.61407
+    "starsBalance": 1407.53877,
+    "delegatedStarsBalance": 1024.602292
   },
   {
     "address": "stars1fnanhpzzuad5mfmfe22yk4492zt4yh3s98vf4r",
@@ -981,8 +1441,8 @@
   },
   {
     "address": "stars1kk78k7mzsu22mxu20dlyrsmrynnurtxuhgzz7c",
-    "starsBalance": 168.299465,
-    "delegatedStarsBalance": 5100.371332
+    "starsBalance": 170.634857,
+    "delegatedStarsBalance": 5158.792558
   },
   {
     "address": "stars1wck40wukgw7tvmeqvsm3p6wecjahlsfyklzqp6",
@@ -991,7 +1451,7 @@
   },
   {
     "address": "stars1x4eey5gll3a9j3cjalypfkuxx9h3u5ehtfefav",
-    "starsBalance": 26.200489,
+    "starsBalance": 96.31259,
     "delegatedStarsBalance": 3679.653629
   },
   {
@@ -1001,58 +1461,58 @@
   },
   {
     "address": "stars1hpa848k3g9fh9c2z80x63alx4504nlvqqgy9nc",
-    "starsBalance": 0.258101,
-    "delegatedStarsBalance": 3467.659846
+    "starsBalance": 0.258465,
+    "delegatedStarsBalance": 3499.751174
   },
   {
     "address": "stars1x8zjsn77hgg274zjyqznf8l3wjj9me5scj3cze",
-    "starsBalance": 3.241142,
-    "delegatedStarsBalance": 1321.568796
+    "starsBalance": 3.247361,
+    "delegatedStarsBalance": 1336.179975
   },
   {
     "address": "stars1v5syhrxctj3ck3nw8499pyzekftge6qyaqsneh",
-    "starsBalance": 0.634626,
-    "delegatedStarsBalance": 1418.884043
+    "starsBalance": 0.640649,
+    "delegatedStarsBalance": 1434.571792
   },
   {
     "address": "stars1qn20cpledv4vq4vr5tdgd8003q74l6xcz03tua",
-    "starsBalance": 300.593566,
+    "starsBalance": 348.993566,
     "delegatedStarsBalance": 11
   },
   {
     "address": "stars1u3x6sp9ncml5hs3rvetd22cwy7gcwk4tpxf6vl",
-    "starsBalance": 516.485203,
-    "delegatedStarsBalance": 1001
+    "starsBalance": 516.446315,
+    "delegatedStarsBalance": 1028.702605
   },
   {
     "address": "stars1gfs9jlznwpks46q6c80aagl2vj75vhcxdn9prv",
-    "starsBalance": 80.730041,
-    "delegatedStarsBalance": 250
+    "starsBalance": 49.077998,
+    "delegatedStarsBalance": 300
   },
   {
     "address": "stars1twccl35u6aah54uf924x4n8mg5axjvfpl7kvcw",
-    "starsBalance": 19.826889,
+    "starsBalance": 19.777406,
     "delegatedStarsBalance": 1281.20745
   },
   {
     "address": "stars10muyra8tjules4gr43mczkvlr5zrvfqqwmhapm",
-    "starsBalance": 2317.529343,
-    "delegatedStarsBalance": 1037.411371
+    "starsBalance": 2317.518047,
+    "delegatedStarsBalance": 1054.451355
   },
   {
     "address": "stars1ku3slmc849vnthaa042a0kcaxgsffxc82ns7e5",
-    "starsBalance": 179.911764,
+    "starsBalance": 179.866679,
     "delegatedStarsBalance": 250
   },
   {
     "address": "stars1hard3u9fkhjnq5r9af4pdvjx3ufran05rqge0t",
-    "starsBalance": 71.701714,
-    "delegatedStarsBalance": 6100.454014
+    "starsBalance": 71.708052,
+    "delegatedStarsBalance": 6172.941262
   },
   {
     "address": "stars154v4lhj72p630aafk9fusdffm0faqgkn8ecm5s",
-    "starsBalance": 473.875036,
-    "delegatedStarsBalance": 3514.886397
+    "starsBalance": 474.717852,
+    "delegatedStarsBalance": 3556.003767
   },
   {
     "address": "stars10h597lmvpzady0c4plkf0dy5f929slwgdyl5zu",
@@ -1061,23 +1521,23 @@
   },
   {
     "address": "stars1z84x44mz2vye25vxkhlp4malu6ktuk7u8zmvnz",
-    "starsBalance": 51.484672,
+    "starsBalance": 907.4838,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars195929rxw30rqjrcfvfc8ncsgugnpv49rej0mqq",
-    "starsBalance": 60.178143,
-    "delegatedStarsBalance": 1294.787292
+    "starsBalance": 60.227248,
+    "delegatedStarsBalance": 1309.586716
   },
   {
     "address": "stars1wclhrv0v8trutnjgr9u8ntjcx6fk8zarchrlge",
-    "starsBalance": 9.310374,
-    "delegatedStarsBalance": 6100
+    "starsBalance": 9.393268,
+    "delegatedStarsBalance": 6160
   },
   {
     "address": "stars10awfv0z70w26ayyxgxrjd5n40guygzq4ng70xt",
-    "starsBalance": 17.171276,
-    "delegatedStarsBalance": 2885.081241
+    "starsBalance": 7.3347,
+    "delegatedStarsBalance": 2975.081241
   },
   {
     "address": "stars1fsx7dp43djc2ujaww6geftzakvym449d36vmnl",
@@ -1091,12 +1551,12 @@
   },
   {
     "address": "stars1znhk9mz6jlrsec7kzvzzaeytq9pa7ekq5aaga0",
-    "starsBalance": 3286.090847,
+    "starsBalance": 3346.803488,
     "delegatedStarsBalance": 7588.159542
   },
   {
     "address": "stars19fr8z3up822d4djpmktysyf54eavm0n3r7mum2",
-    "starsBalance": 222.92119,
+    "starsBalance": 314.426901,
     "delegatedStarsBalance": 2000
   },
   {
@@ -1111,28 +1571,28 @@
   },
   {
     "address": "stars15uex0vvxjq8nyp3h9ujckwa0jzcw6f3mqvup4s",
-    "starsBalance": 0.228261,
-    "delegatedStarsBalance": 1029
+    "starsBalance": 0.886947,
+    "delegatedStarsBalance": 1038
   },
   {
     "address": "stars1em7k59nxme8l0vk2hu40k6k7dn6c6w9a9ultdj",
-    "starsBalance": 53.995896,
+    "starsBalance": 0.039299,
     "delegatedStarsBalance": 3005.04911
   },
   {
     "address": "stars1s43d82z8l7u5nlv8j93h7ems8l6nwxsm0sn00f",
-    "starsBalance": 4.424266,
-    "delegatedStarsBalance": 3118.901222
+    "starsBalance": 4.428231,
+    "delegatedStarsBalance": 3143.714821
   },
   {
     "address": "stars1aza6vxckyefwhu3hzafuu75jq60wapr5q62yyr",
-    "starsBalance": 11.56763,
-    "delegatedStarsBalance": 1033.156154
+    "starsBalance": 11.570438,
+    "delegatedStarsBalance": 1044.835593
   },
   {
     "address": "stars1vegya2daa8p7k6tj6gpa6kyh39fywfnwv7fqhy",
-    "starsBalance": 1.192038,
-    "delegatedStarsBalance": 4862.131166
+    "starsBalance": 0.648536,
+    "delegatedStarsBalance": 4913.736742
   },
   {
     "address": "stars1u36jacatz0fs6x6urhnkpy5udfrt9ptjucwfqu",
@@ -1141,13 +1601,13 @@
   },
   {
     "address": "stars1ujnrg9rypth2t5lhvjv4tehcvqu8qrf5vmrna6",
-    "starsBalance": 0.091429,
-    "delegatedStarsBalance": 14351.247529
+    "starsBalance": 0.102443,
+    "delegatedStarsBalance": 14501.79816
   },
   {
     "address": "stars15jklx7yclyjfsxk45yt4jqt0cptptpxgjwmphq",
-    "starsBalance": 0.952447,
-    "delegatedStarsBalance": 11494.957545
+    "starsBalance": 1.666921,
+    "delegatedStarsBalance": 12167.957545
   },
   {
     "address": "stars10nzp50z5cknzzs0perq47ze0nf7t7rtr9jl7k0",
@@ -1181,7 +1641,7 @@
   },
   {
     "address": "stars166n5xrjv23ufrncatgxapsk5x0r6y3wsxrztg3",
-    "starsBalance": 49.293675,
+    "starsBalance": 91.058766,
     "delegatedStarsBalance": 2104
   },
   {
@@ -1201,8 +1661,8 @@
   },
   {
     "address": "stars1qjlre6lyc52thpcu3y5tma2ytm73f0cm5e73gv",
-    "starsBalance": 3.734068,
-    "delegatedStarsBalance": 1078
+    "starsBalance": 1.919923,
+    "delegatedStarsBalance": 1100
   },
   {
     "address": "stars1ztgk3j2uazc3ch0xwavw95f29tteexcvd2ecc7",
@@ -1216,7 +1676,7 @@
   },
   {
     "address": "stars1zyty63st4234xvypd5389tgqdvkzv6e6sll0u2",
-    "starsBalance": 8216.804258,
+    "starsBalance": 28610.957358,
     "delegatedStarsBalance": 0.105871
   },
   {
@@ -1231,13 +1691,13 @@
   },
   {
     "address": "stars1zgkzppe5x5kqw7ugla0jnk6frjwl85yd9n0mfp",
-    "starsBalance": 1966.222197,
+    "starsBalance": 6967.748156,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars16tflayar589exc4n6s5jy0wvk2z0zkfrkyjcwh",
-    "starsBalance": 50.838075,
-    "delegatedStarsBalance": 2396.465234
+    "starsBalance": 50.5714,
+    "delegatedStarsBalance": 2412.465234
   },
   {
     "address": "stars1mc488rfux7unuqf692m5cgl66mgv79cqe3r2wn",
@@ -1256,7 +1716,7 @@
   },
   {
     "address": "stars1ev9xhgeav70ryqddwudwgf2738az9wxh9ge9p3",
-    "starsBalance": 110.613128,
+    "starsBalance": 110.611063,
     "delegatedStarsBalance": 150
   },
   {
@@ -1341,7 +1801,7 @@
   },
   {
     "address": "stars1rm7299qn4pm2zh5m8lrh5rjms3uu230eq0szzp",
-    "starsBalance": 15.088481,
+    "starsBalance": 0.245677,
     "delegatedStarsBalance": 1390.704838
   },
   {
@@ -1356,7 +1816,7 @@
   },
   {
     "address": "stars1nneh3cdwx7ytp70h76gs5nsuaqxkm2e9gfu0g9",
-    "starsBalance": 0.049867,
+    "starsBalance": 0.279388,
     "delegatedStarsBalance": 200
   },
   {
@@ -1461,13 +1921,13 @@
   },
   {
     "address": "stars15xujr86hzlfxfsrhrgx0hle00flqqnznn0yn57",
-    "starsBalance": 63.403876,
+    "starsBalance": 89.509338,
     "delegatedStarsBalance": 1500.147365
   },
   {
     "address": "stars1egv6l7vwlxc6akqrpvr025c0h9dr6scn59lkwx",
-    "starsBalance": 57.997919,
-    "delegatedStarsBalance": 180
+    "starsBalance": 61.278213,
+    "delegatedStarsBalance": 250
   },
   {
     "address": "stars19a3y3vapy9fjxp48mku3euzqq4vuwyjlcsmk5d",
@@ -1486,12 +1946,12 @@
   },
   {
     "address": "stars1qykpgnx9w9ezw45qqee3tywzzzn2zzly3vgath",
-    "starsBalance": 0.030822,
-    "delegatedStarsBalance": 2656.153255
+    "starsBalance": 28.127255,
+    "delegatedStarsBalance": 2668.373255
   },
   {
     "address": "stars1gg2z2y3ncjwh0wd0q6e7tj2ecma04my0plpq5s",
-    "starsBalance": 59.297008,
+    "starsBalance": 59.278982,
     "delegatedStarsBalance": 1004.228267
   },
   {
@@ -1501,63 +1961,53 @@
   },
   {
     "address": "stars183lrvkzpfd5f5negk28preenq6yz3lg8ygr48s",
-    "starsBalance": 3.543554,
-    "delegatedStarsBalance": 3261.301056
+    "starsBalance": 3.658003,
+    "delegatedStarsBalance": 3297.744124
   },
   {
     "address": "stars1dep4f32q9kp7lxylnhtal54ye96wfy26at3j2q",
-    "starsBalance": 1.928053,
-    "delegatedStarsBalance": 3241.337724
+    "starsBalance": 2.040434,
+    "delegatedStarsBalance": 3277.603053
   },
   {
     "address": "stars1mjxk3ts4fv0eeymgc4uay2hpkqxe024yu89act",
-    "starsBalance": 1.288633,
-    "delegatedStarsBalance": 3241.349753
+    "starsBalance": 1.414409,
+    "delegatedStarsBalance": 3277.661948
   },
   {
     "address": "stars1qk35qaj0qen70pz70q6f4uwrqw6dpkdh6cd7ge",
-    "starsBalance": 1.637428,
-    "delegatedStarsBalance": 3241.374414
+    "starsBalance": 1.748905,
+    "delegatedStarsBalance": 3277.684933
   },
   {
     "address": "stars16um4rgfg3aqassjg6cmkuw90hgvshrwm77gn23",
-    "starsBalance": 4.435803,
-    "delegatedStarsBalance": 3244.118724
+    "starsBalance": 3.843309,
+    "delegatedStarsBalance": 3280.459329
   },
   {
     "address": "stars1uj3m5ly0qfwx3tkzgnk55hrektr56d05c5s42n",
-    "starsBalance": 4.532537,
-    "delegatedStarsBalance": 3237.367053
+    "starsBalance": 1.05667,
+    "delegatedStarsBalance": 3273.631009
   },
   {
     "address": "stars1ucunqgrv0sxa0244jw0eerr63td477e7800u2t",
-    "starsBalance": 0.199883,
-    "delegatedStarsBalance": 1106.7
+    "starsBalance": 0.23893,
+    "delegatedStarsBalance": 1117.2
   },
   {
     "address": "stars1hjy7dad2rvfhh8a8ncscxjl90snez7rpclr26k",
-    "starsBalance": 8.637792,
+    "starsBalance": 8.594959,
     "delegatedStarsBalance": 1565
   },
   {
     "address": "stars1rll0jfn2u6waz2vujq4a5rc2rtdct6l8ny03cx",
-    "starsBalance": 66.7715,
+    "starsBalance": 66.632753,
     "delegatedStarsBalance": 1144.914061
   },
   {
     "address": "stars1ja9ygerswzgc29vgyy7pxmh22wq20al33txj7w",
-    "starsBalance": 9.266701,
-    "delegatedStarsBalance": 6576.233712
-  },
-  {
-    "address": "stars17pvmse8x5nfcpug40nj0da2ks3h2646knajyrf",
-    "starsBalance": 53.353591,
-    "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1juygz50pltxrzwqyvztwvr6gtjj3gtdsqaz69c",
-    "starsBalance": 0.635282,
-    "delegatedStarsBalance": 2613.467415
+    "starsBalance": 9.275059,
+    "delegatedStarsBalance": 6646.024546
   },
   {
     "address": "stars1axsg0cg7huzxvct0t0n4rfnjnn9qgc8z2x3y2z",
@@ -1566,13 +2016,13 @@
   },
   {
     "address": "stars105h54cc69axseakx0kuxecwyknwjtugva8kfns",
-    "starsBalance": 55.153116,
-    "delegatedStarsBalance": 5067.132701
+    "starsBalance": 45.035852,
+    "delegatedStarsBalance": 5115.461072
   },
   {
     "address": "stars1nu5jfcwjcwaqxea9m56w2gwnyaugenylrqyz30",
-    "starsBalance": 12.341966,
-    "delegatedStarsBalance": 1650.029082
+    "starsBalance": 7.438725,
+    "delegatedStarsBalance": 1660.029082
   },
   {
     "address": "stars1w2sfzqkul5n5zfsd58uevpgy2zf53k8knyhqm6",
@@ -1606,92 +2056,92 @@
   },
   {
     "address": "stars1t58k656cvd6k2fl8xtk9tmcv0dnmxm5c3w8f3a",
-    "starsBalance": 51.4872,
+    "starsBalance": 51.4647,
     "delegatedStarsBalance": 1000.31
   },
   {
     "address": "stars1pfjmpqzapgfm5utxrp6ctp0c3l4sw5rel0mq4v",
-    "starsBalance": 231.627158,
-    "delegatedStarsBalance": 5903.999461
+    "starsBalance": 0.225541,
+    "delegatedStarsBalance": 6425.999461
   },
   {
     "address": "stars1m7z58lec6ke5cydvquf496g0gkhmjuyz37dnpy",
-    "starsBalance": 27.322815,
+    "starsBalance": 27.310315,
     "delegatedStarsBalance": 409
   },
   {
     "address": "stars1vnj2p52lal3lefrga0549qkam4hy9guw28dfp8",
-    "starsBalance": 66.589323,
+    "starsBalance": 66.576823,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1j9meadgzsn25ufngzaa3ygydxnyl39jy86pr68",
-    "starsBalance": 66.589487,
+    "starsBalance": 66.576987,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1l8h4ty00mx9w45y2we0pge8uswws76jrfrpujc",
-    "starsBalance": 66.589544,
+    "starsBalance": 66.577044,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1dvgmlalw60s7z2t6hvy3t82z7d5htfwaxgg5dw",
-    "starsBalance": 66.589615,
+    "starsBalance": 66.577115,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars105sq7y6e6j9jnn9vqp7th5a4g78swny3nxazlc",
-    "starsBalance": 66.589899,
+    "starsBalance": 66.577399,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1z8u7qczy00k7zt2ymjfk5jmrkscgdnl3faz9qs",
-    "starsBalance": 66.59198,
+    "starsBalance": 66.57948,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1d3dqmckueu2nwygl2n2ym4pmhnvlfn3p7cs6t5",
-    "starsBalance": 66.591839,
+    "starsBalance": 66.579339,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1tgandtpx7590mgyty033njh9su0nqx9c74rx8z",
-    "starsBalance": 66.591896,
+    "starsBalance": 66.579396,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars12gvyu29967e6kqyrp8tn74krj3zeaqlwx7d6kw",
-    "starsBalance": 66.591847,
+    "starsBalance": 66.579347,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars1vd9x2f5c7r9ga7nje6t4n47neupm58y606edwy",
-    "starsBalance": 67.431897,
+    "starsBalance": 67.419397,
     "delegatedStarsBalance": 1000.1
   },
   {
     "address": "stars1tzwvta09ueh9suyevlxqp2p9kn3ufqqkary9xq",
-    "starsBalance": 0.098068,
+    "starsBalance": 0.085568,
     "delegatedStarsBalance": 1000.1
   },
   {
     "address": "stars148tqzgpuc53wdvrpgpke8wj0j0a43avu4d0n6p",
-    "starsBalance": 74.668665,
+    "starsBalance": 74.656165,
     "delegatedStarsBalance": 1090
   },
   {
     "address": "stars1q0eeehprgpe4cy84nqupkn3zj23rqc9h9kfj5n",
-    "starsBalance": 67.950732,
+    "starsBalance": 67.938232,
     "delegatedStarsBalance": 1001
   },
   {
     "address": "stars12dhsww3340usvj6knv2v4x33jc3dhz76gp8u4m",
-    "starsBalance": 73.908762,
+    "starsBalance": 73.896262,
     "delegatedStarsBalance": 1078
   },
   {
     "address": "stars1a9hre2qgeet79nd4j0l4ls67rmw4ax0zpsphyz",
-    "starsBalance": 68.331954,
+    "starsBalance": 68.319454,
     "delegatedStarsBalance": 1001
   },
   {
@@ -1701,28 +2151,23 @@
   },
   {
     "address": "stars1mcwwmtyj39djr0fhw6kfdda7ygelfvghrgejsa",
-    "starsBalance": 2.742208,
-    "delegatedStarsBalance": 490.1
+    "starsBalance": 3.509931,
+    "delegatedStarsBalance": 510.1
   },
   {
     "address": "stars1ypj8tej66ccncvxzf9mlp29j0crcx3ljtruv3d",
-    "starsBalance": 1.248892,
-    "delegatedStarsBalance": 2001
-  },
-  {
-    "address": "stars102h9qge2arxe0xnzk9nj5yqmmdycwjcfw37dua",
-    "starsBalance": 72.023296,
-    "delegatedStarsBalance": 300
+    "starsBalance": 1.935236,
+    "delegatedStarsBalance": 2014.230324
   },
   {
     "address": "stars14l883sh4nsyx30m6ek6xwz6hfts5qy8ydjvgpj",
-    "starsBalance": 1.019984,
-    "delegatedStarsBalance": 771.786166
+    "starsBalance": 1.020778,
+    "delegatedStarsBalance": 780.306834
   },
   {
     "address": "stars1869ne5p7a49md344ey0t6gpy65srn7z8h5g4jl",
-    "starsBalance": 0.522516,
-    "delegatedStarsBalance": 681.477261
+    "starsBalance": 0.522715,
+    "delegatedStarsBalance": 681.959697
   },
   {
     "address": "stars10lhlhf5k2d0qeava4lw93g9ezuqdm8yx5ph8p6",
@@ -1741,13 +2186,13 @@
   },
   {
     "address": "stars1htr84ep3rr7vwkaldqqv7jvpgnd6kekeecxv7g",
-    "starsBalance": 2692.794686,
+    "starsBalance": 2706.883266,
     "delegatedStarsBalance": 1086.04058
   },
   {
     "address": "stars178n8r8wmkjy2e3ark3c2dhp4jma0r6zwdnpgsm",
-    "starsBalance": 81.596214,
-    "delegatedStarsBalance": 1031.04998
+    "starsBalance": 81.601406,
+    "delegatedStarsBalance": 1042.448862
   },
   {
     "address": "stars1p5v47xyrthlw2q2drpvynduq6kfxfx9ms2jjuv",
@@ -1761,7 +2206,7 @@
   },
   {
     "address": "stars16q6u906vehfdnkqwm0w94e5ltth39jyu5v3nsu",
-    "starsBalance": 101.954058,
+    "starsBalance": 139.044832,
     "delegatedStarsBalance": 3000
   },
   {
@@ -1771,13 +2216,13 @@
   },
   {
     "address": "stars152l67q44deyj7t956f2swkjza5rznm2qava8qp",
-    "starsBalance": 0.19807,
-    "delegatedStarsBalance": 5349.733587
+    "starsBalance": 0.207849,
+    "delegatedStarsBalance": 5406.503339
   },
   {
     "address": "stars18525w9krar4r3qxqr9pqgqxflqfadxrteadf7d",
-    "starsBalance": 0.13874,
-    "delegatedStarsBalance": 1164.941141
+    "starsBalance": 0.09819,
+    "delegatedStarsBalance": 1177.303853
   },
   {
     "address": "stars14h8fznw7tna3fyx4lhrvzvkac28lyfk0cwvmfr",
@@ -1786,12 +2231,12 @@
   },
   {
     "address": "stars1v0ehs85us8r54gjun5cm0yqau5a9h6cfthufsn",
-    "starsBalance": 0.823507,
-    "delegatedStarsBalance": 2803.493206
+    "starsBalance": 16.274304,
+    "delegatedStarsBalance": 2836.735602
   },
   {
     "address": "stars1l2caj2pwwlwkmg59yyvnp94jdu7shtp22yv3th",
-    "starsBalance": 8239.982276,
+    "starsBalance": 120.089077,
     "delegatedStarsBalance": 2001
   },
   {
@@ -1801,7 +2246,7 @@
   },
   {
     "address": "stars1n9epage09dx6aqwzqe6md5968axj62dcex2qnq",
-    "starsBalance": 1.360679,
+    "starsBalance": 1.278333,
     "delegatedStarsBalance": 1151.009263
   },
   {
@@ -1811,38 +2256,33 @@
   },
   {
     "address": "stars13ye4czwvptppx7makqrt578y4tcxg3l2we8k3c",
-    "starsBalance": 234.222383,
+    "starsBalance": 44.033228,
     "delegatedStarsBalance": 5001
   },
   {
     "address": "stars1sny7zv8hzq6kak74prl0l8uafrz4z70ep7pjww",
-    "starsBalance": 774.017683,
-    "delegatedStarsBalance": 0
+    "starsBalance": 2333.214561,
+    "delegatedStarsBalance": 5000
   },
   {
     "address": "stars1m3hxqxz374sh8dy65pzsm897pdpc6e2zg4sfuj",
-    "starsBalance": 4.980948,
-    "delegatedStarsBalance": 3035.071971
+    "starsBalance": 4.987743,
+    "delegatedStarsBalance": 3071.420684
   },
   {
     "address": "stars1zy3nxgwtw9hr99tzfaxasgwklm9ev8437althf",
-    "starsBalance": 128.305266,
-    "delegatedStarsBalance": 47.296534
+    "starsBalance": 128.305315,
+    "delegatedStarsBalance": 47.898386
   },
   {
     "address": "stars1mtxa2xj0w0vn44vlcyja7jx2kv6dfc5hkt9mps",
-    "starsBalance": 0.462841,
-    "delegatedStarsBalance": 145.272877
+    "starsBalance": 0.000063,
+    "delegatedStarsBalance": 201.265596
   },
   {
     "address": "stars1gh99r9rquy4ryhw25mwr5lz8thytkj9an83dg3",
-    "starsBalance": 206.235631,
-    "delegatedStarsBalance": 6453.71854
-  },
-  {
-    "address": "stars1a8g9sz0kms3n4gk78ex0qc8ds85xxecvdkdkh8",
-    "starsBalance": 1347.706455,
-    "delegatedStarsBalance": 0
+    "starsBalance": 206.210155,
+    "delegatedStarsBalance": 6536.089225
   },
   {
     "address": "stars120u45fn44dgpf3zqdragxjwfvazj8rcgszx6az",
@@ -1856,13 +2296,13 @@
   },
   {
     "address": "stars12yjzmplajrjrulxpwgg094vxwuqj5k4fp98zh2",
-    "starsBalance": 81.484889,
-    "delegatedStarsBalance": 15776
+    "starsBalance": 89.546789,
+    "delegatedStarsBalance": 15976
   },
   {
     "address": "stars1ar6qzrrf08dxqjwtnrqay3pc75mqnwkt6vz92r",
-    "starsBalance": 1.229071,
-    "delegatedStarsBalance": 1045.98001
+    "starsBalance": 1393.191933,
+    "delegatedStarsBalance": 1057.80433
   },
   {
     "address": "stars1pmcducwul5p87havycldalg9jm9ww8rmrjdefm",
@@ -1871,7 +2311,7 @@
   },
   {
     "address": "stars1rafqlhkvz38d9jhzkxumr78nfg8gyce4w5r2kr",
-    "starsBalance": 289.085387,
+    "starsBalance": 612.929609,
     "delegatedStarsBalance": 0
   },
   {
@@ -1880,14 +2320,9 @@
     "delegatedStarsBalance": 1955
   },
   {
-    "address": "stars1feaq6z0pxekqg63j56um3waayc7ewf25e257gd",
-    "starsBalance": 0.700741,
-    "delegatedStarsBalance": 6263.657017
-  },
-  {
     "address": "stars1nhy7mktte25scvqw7s57yewnp89kph9fpl3fzw",
-    "starsBalance": 0.989253,
-    "delegatedStarsBalance": 935
+    "starsBalance": 1.061915,
+    "delegatedStarsBalance": 946
   },
   {
     "address": "stars1rry8pxgxdzgpsdgwncu4qxqjtxd3pm0ja5cgl9",
@@ -1906,28 +2341,28 @@
   },
   {
     "address": "stars1mgr5d926ekwfnnrteyc0d0vacnxk9ypxjcd9r3",
-    "starsBalance": 1.776258,
+    "starsBalance": 1.681008,
     "delegatedStarsBalance": 468.995174
   },
   {
     "address": "stars12852uxp5z750rl6c7dpcuwfpga6ppdn6uvrdup",
-    "starsBalance": 238.054825,
+    "starsBalance": 238.011734,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1umwypsq4ystv3aas5z62tstzpgvejhmqgf474g",
     "starsBalance": 4.490469,
-    "delegatedStarsBalance": 89.999999
+    "delegatedStarsBalance": 90
   },
   {
     "address": "stars1ffmdfxzq5yyps9m8vfle526qg4a3nmfjuyz9ag",
-    "starsBalance": 1.396952,
+    "starsBalance": 0.139171,
     "delegatedStarsBalance": 1116.3
   },
   {
     "address": "stars1dm2jqsnc45vntgxlh4x0pjx78p25p99gxlymm8",
-    "starsBalance": 0.0039,
-    "delegatedStarsBalance": 1102.851279
+    "starsBalance": 33.713338,
+    "delegatedStarsBalance": 1388.980649
   },
   {
     "address": "stars1h58rf0tv007gjthpqsevczsgtaxskay308rue9",
@@ -1946,58 +2381,58 @@
   },
   {
     "address": "stars1q6gs5tvz26z3lk9arq2x6j70u2zjawagqqy6r7",
-    "starsBalance": 890.288598,
-    "delegatedStarsBalance": 3505.666482
+    "starsBalance": 65.454416,
+    "delegatedStarsBalance": 3545.399634
   },
   {
     "address": "stars1q62spfecscjrv09mafk5syrsm44z2se8wkq5hu",
-    "starsBalance": 261.794136,
+    "starsBalance": 300.401806,
     "delegatedStarsBalance": 1800
   },
   {
     "address": "stars15pvlh34dvpf2hval3nhca62ua5qv0atpzku6kn",
-    "starsBalance": 1.007091,
-    "delegatedStarsBalance": 4489.744772
+    "starsBalance": 1.001474,
+    "delegatedStarsBalance": 4548.681089
   },
   {
     "address": "stars128sy2q3pv3h6dvgm74u2c9k0phh67lvm2pa5gq",
-    "starsBalance": 1.528733,
+    "starsBalance": 1.445381,
     "delegatedStarsBalance": 1028.791498
   },
   {
     "address": "stars1e574qju4ceynu2sq7azmpkgkfw396djvzskuy2",
-    "starsBalance": 0.70231,
+    "starsBalance": 24.568305,
     "delegatedStarsBalance": 1768
   },
   {
     "address": "stars1j58ehredzltrfp0e5nkyat9w549rumahnlx55z",
-    "starsBalance": 50.522435,
-    "delegatedStarsBalance": 1146.085807
+    "starsBalance": 50.446719,
+    "delegatedStarsBalance": 1158.960884
   },
   {
     "address": "stars16hrql0mpf0vq5rtkpexvkhzysfpzh3px9v5ghf",
-    "starsBalance": 54.83335,
-    "delegatedStarsBalance": 1164.766432
+    "starsBalance": 1.02303,
+    "delegatedStarsBalance": 1237.266432
   },
   {
     "address": "stars1g60l05msp83qjea28033lu376utqprpjs4vwys",
-    "starsBalance": 28.703714,
+    "starsBalance": 28.678714,
     "delegatedStarsBalance": 55
   },
   {
     "address": "stars1hrhsrwxyt84q3k3fffc6d8ert2yxhgluh24hck",
-    "starsBalance": 130.016493,
-    "delegatedStarsBalance": 3537.403533
+    "starsBalance": 0.25793,
+    "delegatedStarsBalance": 3581.403533
   },
   {
     "address": "stars1zzjj7m37vxceq6mslhcn4cxj30j0vrwmrjm2zk",
-    "starsBalance": 42.787756,
-    "delegatedStarsBalance": 1000
+    "starsBalance": 296.409925,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars19fwyu73zxyt20v8yp34yec3xknrr3qwcd5ayyw",
-    "starsBalance": 1.838954,
-    "delegatedStarsBalance": 1419.5
+    "starsBalance": 4.088085,
+    "delegatedStarsBalance": 5040
   },
   {
     "address": "stars14deapw56crnw3zcxhyhm7s62c67svruaddwzdg",
@@ -2006,18 +2441,18 @@
   },
   {
     "address": "stars1rmpmkqmzzjx4t0s7unj7tehvj7p5g9df7rkslm",
-    "starsBalance": 0.492367,
+    "starsBalance": 0.829667,
     "delegatedStarsBalance": 5005
   },
   {
     "address": "stars17gg0twymd2zeer3e2fpa09pwguul8hrfx2jeh4",
-    "starsBalance": 82.384147,
+    "starsBalance": 92.431099,
     "delegatedStarsBalance": 713.16996
   },
   {
     "address": "stars1rrk0hgawmg5lzlkf948f395ksqmhr8676xrhta",
-    "starsBalance": 0.110779,
-    "delegatedStarsBalance": 1387.818604
+    "starsBalance": 5.935974,
+    "delegatedStarsBalance": 1400.10751
   },
   {
     "address": "stars1d86jty0g63c4rpwp4v3a8gcs3cdpwqc4ugxwrx",
@@ -2041,12 +2476,7 @@
   },
   {
     "address": "stars1l7ejwtky6kcaw55u8apecmgst38kd0prppdxfh",
-    "starsBalance": 885.580899,
-    "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1sxcrrdufajupmt87rtu6su7qdujtcel7mahxc3",
-    "starsBalance": 89.943833,
+    "starsBalance": 1342.640899,
     "delegatedStarsBalance": 0
   },
   {
@@ -2056,23 +2486,23 @@
   },
   {
     "address": "stars1est2k3tz5munj6x03fu5nueqlxx7ng9kjlrhvy",
-    "starsBalance": 0.35895,
-    "delegatedStarsBalance": 4448.627007
+    "starsBalance": 0.39237,
+    "delegatedStarsBalance": 4497.653028
   },
   {
     "address": "stars1e09wgvj4lypvyg4qz5utdrdtff0zasqke8gnkm",
-    "starsBalance": 18.843695,
-    "delegatedStarsBalance": 1516.577918
+    "starsBalance": 13.844927,
+    "delegatedStarsBalance": 1531.230619
   },
   {
     "address": "stars1jt7zy43vnsdevs7lzgm4gqgqkc79jcwqtfmwrn",
-    "starsBalance": 1.319004,
-    "delegatedStarsBalance": 1487.790142
+    "starsBalance": 4.906315,
+    "delegatedStarsBalance": 1499.600364
   },
   {
     "address": "stars14h9f5tzud873sj5lqmf4wkxanyxxekhvvhqqyz",
-    "starsBalance": 4546.207256,
-    "delegatedStarsBalance": 25325.961337
+    "starsBalance": 32.28972,
+    "delegatedStarsBalance": 30192.961337
   },
   {
     "address": "stars1ftxj7suqwrxtynxh8qpmqhsezc89gr4spumjl9",
@@ -2081,13 +2511,18 @@
   },
   {
     "address": "stars1mc28amz2edg964fv5fjlcd8wlrhhj03j502pzh",
-    "starsBalance": 0.089492,
-    "delegatedStarsBalance": 958.27573
+    "starsBalance": 0.048745,
+    "delegatedStarsBalance": 160.476605
   },
   {
     "address": "stars1hjuedpvjn2ndtf3qzqnv3nkqqlqf2yc4mj9fle",
-    "starsBalance": 1.565051,
-    "delegatedStarsBalance": 1561.933595
+    "starsBalance": 1.574197,
+    "delegatedStarsBalance": 1579.200547
+  },
+  {
+    "address": "stars1kv6uc92k3jtkkt63f43az655qtpgphsd6gvfdj",
+    "starsBalance": 2261.816803,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars1r5qkmvn9hnv0pugejr73639w07d2mugh88fadv",
@@ -2101,13 +2536,8 @@
   },
   {
     "address": "stars1vp0grydm2sp80wskl9r37ze6n9y8x3v2f2xg7x",
-    "starsBalance": 7.959175,
-    "delegatedStarsBalance": 423.310643
-  },
-  {
-    "address": "stars1jwd9pnzlk3xvtnquv0myne8d4pgc6rpsspvmgu",
-    "starsBalance": 52.74687,
-    "delegatedStarsBalance": 0
+    "starsBalance": 7.802518,
+    "delegatedStarsBalance": 425.57665
   },
   {
     "address": "stars1q3lhpeqr0zev6wm64ccfxydgsqnf7x6gcvhknt",
@@ -2121,23 +2551,23 @@
   },
   {
     "address": "stars1qggq0f0pkk45sqmwme2crqsvt4stuymte57hup",
-    "starsBalance": 30.316862,
+    "starsBalance": 42.854143,
     "delegatedStarsBalance": 4135.786723
   },
   {
     "address": "stars1u42qqxfkllzvkrymuf4vskm54k7ljn3rxgv2yc",
-    "starsBalance": 0.103225,
-    "delegatedStarsBalance": 3175
+    "starsBalance": 0.814958,
+    "delegatedStarsBalance": 3201
   },
   {
     "address": "stars1xlzh50yk6lphmahjk0fm04tm0gyhwxfm69aa25",
-    "starsBalance": 69.321171,
+    "starsBalance": 5.776579,
     "delegatedStarsBalance": 1056
   },
   {
     "address": "stars1s8f7epenu00ntspjnzqefelyr6ttf65ymtr4ul",
-    "starsBalance": 0.097105,
-    "delegatedStarsBalance": 312.664377
+    "starsBalance": 0.035647,
+    "delegatedStarsBalance": 317.878057
   },
   {
     "address": "stars143uhxnjqw2y9mhryadsvxjl4p4dqn7kzqftc82",
@@ -2146,8 +2576,8 @@
   },
   {
     "address": "stars1xq7p3xg663yhg7syj78372zzllxtxetjajd2um",
-    "starsBalance": 1093.872259,
-    "delegatedStarsBalance": 2105.787026
+    "starsBalance": 1093.875018,
+    "delegatedStarsBalance": 2130.949668
   },
   {
     "address": "stars1rrxcj8rm2ufk40gxtuqv3uddakj664p9e5r7ky",
@@ -2161,8 +2591,8 @@
   },
   {
     "address": "stars158kqts9q4npa74fkae46dd79wyw54hx8858re6",
-    "starsBalance": 5.974301,
-    "delegatedStarsBalance": 1211.139527
+    "starsBalance": 5.976105,
+    "delegatedStarsBalance": 1223.992182
   },
   {
     "address": "stars16y7f6yx0fryqhjtv6s09fwdh5udegr5xnqmcs0",
@@ -2171,18 +2601,18 @@
   },
   {
     "address": "stars1u0q5f585uxfufjd78rlvaewxcycymlpyyt0mhc",
-    "starsBalance": 55.084833,
-    "delegatedStarsBalance": 1158.851229
+    "starsBalance": 8.919348,
+    "delegatedStarsBalance": 1230.851229
   },
   {
     "address": "stars1273vkyljgnuxdehfcdqr33xt93ufk7jkd5ng9f",
-    "starsBalance": 0.873651,
-    "delegatedStarsBalance": 104.542466
+    "starsBalance": 0.775694,
+    "delegatedStarsBalance": 105.791928
   },
   {
     "address": "stars13v9c0slnr6r7wreacxyr0d9f33qvqc9slt9wwv",
-    "starsBalance": 139.040989,
-    "delegatedStarsBalance": 1620.960045
+    "starsBalance": 139.045812,
+    "delegatedStarsBalance": 1630.747197
   },
   {
     "address": "stars1wezl5dc6tqkwpdyptsetjlzkx84vqmmx0fye2m",
@@ -2196,13 +2626,13 @@
   },
   {
     "address": "stars12rege0n9rdfhg83lp7rn60ws9ezjfzplynntrj",
-    "starsBalance": 80.625872,
+    "starsBalance": 80.498628,
     "delegatedStarsBalance": 3186.736183
   },
   {
     "address": "stars1nd86lwg7se890hau65eeq6ru9cxunc53jpa3mv",
-    "starsBalance": 0.009244,
-    "delegatedStarsBalance": 1383.962048
+    "starsBalance": 0.098972,
+    "delegatedStarsBalance": 1399.480544
   },
   {
     "address": "stars1tqg4a3c64sg3955j99l7u9lvha0ay8gm4ym4qd",
@@ -2226,12 +2656,12 @@
   },
   {
     "address": "stars1vv60vcmjuuazpulw3fetdez309uu8taxft6m3n",
-    "starsBalance": 0.297353,
-    "delegatedStarsBalance": 6914.639895
+    "starsBalance": 4.657336,
+    "delegatedStarsBalance": 6963.017402
   },
   {
     "address": "stars1cz9fm34867lr43pmkq57zmwfj0yf330pc8n6ma",
-    "starsBalance": 7.75626,
+    "starsBalance": 15.932919,
     "delegatedStarsBalance": 1759.619102
   },
   {
@@ -2246,12 +2676,12 @@
   },
   {
     "address": "stars1th63v47gzy7g9wz683jr60ww79laptr7mq62lj",
-    "starsBalance": 1.452742,
-    "delegatedStarsBalance": 639.49519
+    "starsBalance": 1.426645,
+    "delegatedStarsBalance": 646.275374
   },
   {
     "address": "stars12edhat8859a0m5p86twpn5caax0f3jpcxqk5w7",
-    "starsBalance": 43.160023,
+    "starsBalance": 55.413698,
     "delegatedStarsBalance": 1226.299932
   },
   {
@@ -2266,17 +2696,17 @@
   },
   {
     "address": "stars1977ya64l9nqjpe93hggnlzqwfgvh7wffe8s7y4",
-    "starsBalance": 0.823547,
-    "delegatedStarsBalance": 147.897727
+    "starsBalance": 0.823567,
+    "delegatedStarsBalance": 148.944251
   },
   {
     "address": "stars1exjyxs8377ckm7grvlk0hwqv84rl8zcflxdc3l",
-    "starsBalance": 0.072921,
-    "delegatedStarsBalance": 1456.374254
+    "starsBalance": 46.859207,
+    "delegatedStarsBalance": 1476.864192
   },
   {
     "address": "stars1q6dful0my6gh3llls3ekan0nepwganzlqu2ljr",
-    "starsBalance": 44.416462,
+    "starsBalance": 82.564106,
     "delegatedStarsBalance": 4168.917826
   },
   {
@@ -2286,8 +2716,8 @@
   },
   {
     "address": "stars1484hjwa7y530vuq47qmcns6hvr4ertash0njek",
-    "starsBalance": 4.68927,
-    "delegatedStarsBalance": 176.233777
+    "starsBalance": 4.690037,
+    "delegatedStarsBalance": 178.230753
   },
   {
     "address": "stars1a3tlnnhdc50qa7x52lmh3huhqd95uyua0z6wv2",
@@ -2296,13 +2726,13 @@
   },
   {
     "address": "stars1f4j5sl4dafrw4r9u43jg7nr4k9lmm4f7zqt7ar",
-    "starsBalance": 0.044912,
-    "delegatedStarsBalance": 1045.3
+    "starsBalance": 1.785305,
+    "delegatedStarsBalance": 1050.3
   },
   {
     "address": "stars1x9e9gfnes5fnrrqh4s6acvyk8j7xpymsq82j9y",
-    "starsBalance": 0.125985,
-    "delegatedStarsBalance": 165.583028
+    "starsBalance": 0.125986,
+    "delegatedStarsBalance": 165.684977
   },
   {
     "address": "stars1gqlvl2qqectkgz7uz6gkjust00m7q63tfr55z4",
@@ -2316,13 +2746,13 @@
   },
   {
     "address": "stars1nhd39x0g3gq4mq9ydxl8hee9c5u543hxrrm4r4",
-    "starsBalance": 2.761358,
+    "starsBalance": 2.732343,
     "delegatedStarsBalance": 1330.851827
   },
   {
     "address": "stars174yq7s0u59wjwsrvv428cwa2cp8ygdu9mmmf2t",
-    "starsBalance": 787.5606,
-    "delegatedStarsBalance": 27746.92
+    "starsBalance": 16.671027,
+    "delegatedStarsBalance": 36258.92
   },
   {
     "address": "stars1u7zu88fjv5a4wt56uhu67awvw0v2q2tml9cd3t",
@@ -2331,8 +2761,13 @@
   },
   {
     "address": "stars1gs99z7kxfmaelzvkll4h38dvqdm0u09w4hdu84",
-    "starsBalance": 693.517164,
+    "starsBalance": 171.330676,
     "delegatedStarsBalance": 3000
+  },
+  {
+    "address": "stars12tnkcmhwajkevcsqrm9hv34r525e0kkp7f9c62",
+    "starsBalance": 2266.8848,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars136kwu87emfmnzjdp6jqg2v2rzhsgfkgmcsguvf",
@@ -2361,18 +2796,18 @@
   },
   {
     "address": "stars1yxtrp2h7hm3vsupdfy4sxwerttxa3wnjm5gupn",
-    "starsBalance": 0.060483,
+    "starsBalance": 0.007487,
     "delegatedStarsBalance": 1525.721031
   },
   {
     "address": "stars14p43s4wssr0dpeewc5g90jvdntwqvzdhft9zn0",
-    "starsBalance": 5514.898314,
-    "delegatedStarsBalance": 50000
+    "starsBalance": 951.821243,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars16r88f2zpw5ujkucl0kx7pdgj3l26547j9q3y3u",
-    "starsBalance": 0.390798,
-    "delegatedStarsBalance": 1133.819061
+    "starsBalance": 0.0749,
+    "delegatedStarsBalance": 1144.819061
   },
   {
     "address": "stars176d98jrsyhl25gyh3365grqzer3zaanvmc36wn",
@@ -2386,17 +2821,17 @@
   },
   {
     "address": "stars1tvwq82a6s42c0y0yqw05w3uxx2yzzxnaqttwmd",
-    "starsBalance": 0.009618,
+    "starsBalance": 0.00669,
     "delegatedStarsBalance": 1058.651585
   },
   {
     "address": "stars19p8wunnpxq3srpzy64l6er56nyr9qalw2fvcte",
-    "starsBalance": 0.015922,
+    "starsBalance": 0.396924,
     "delegatedStarsBalance": 2338.465171
   },
   {
     "address": "stars17du97esur46k28s932cewjeguyt5p82k374fem",
-    "starsBalance": 0.011322,
+    "starsBalance": 0.9063,
     "delegatedStarsBalance": 5669
   },
   {
@@ -2416,7 +2851,7 @@
   },
   {
     "address": "stars1g6tny3xcjfe4gs5z8s4tl083pne24paz55h3st",
-    "starsBalance": 105.60195,
+    "starsBalance": 211.199885,
     "delegatedStarsBalance": 0
   },
   {
@@ -2431,17 +2866,17 @@
   },
   {
     "address": "stars1kzhk448a3hdczkhew0fk5n5svtwzpcv224e99d",
-    "starsBalance": 24.227368,
-    "delegatedStarsBalance": 3754.16577
+    "starsBalance": 354.106115,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars167wsxxcte77qm95art8z8whmlm0klh3xg0kmd3",
-    "starsBalance": 0.289484,
+    "starsBalance": 0.81154,
     "delegatedStarsBalance": 3210
   },
   {
     "address": "stars1fjm36lrdueszd94374y940vs9yz7twlc7z0cuq",
-    "starsBalance": 23.513557,
+    "starsBalance": 3.060488,
     "delegatedStarsBalance": 2203.037757
   },
   {
@@ -2456,13 +2891,13 @@
   },
   {
     "address": "stars1334hqcevza65zt3p8vxrrxh805x0l0h4eskxdc",
-    "starsBalance": 7.126949,
-    "delegatedStarsBalance": 3730
+    "starsBalance": 6.966341,
+    "delegatedStarsBalance": 3865.132158
   },
   {
     "address": "stars1h6glj7egzj97nkpazn2j9hcey6lyxnmtze05s4",
-    "starsBalance": 378.292381,
-    "delegatedStarsBalance": 1950.954985
+    "starsBalance": 378.365479,
+    "delegatedStarsBalance": 1972.608389
   },
   {
     "address": "stars1sq0jatf07sdgt6fqtarqvpsp6f32dqlnzchdc5",
@@ -2481,8 +2916,8 @@
   },
   {
     "address": "stars10vxp937dqgdr20nwfamaw2fghajuthscm4ck6d",
-    "starsBalance": 215.028466,
-    "delegatedStarsBalance": 3073.812012
+    "starsBalance": 15.006883,
+    "delegatedStarsBalance": 3165.560411
   },
   {
     "address": "stars1lfu7pdxnrls8qjfel0nznergr4yyyn96nw8fk0",
@@ -2506,18 +2941,18 @@
   },
   {
     "address": "stars1807ejwpzd7yeqevdrp32yx5tyjcq35xgdqmmj4",
-    "starsBalance": 0.003998,
-    "delegatedStarsBalance": 50.803676
+    "starsBalance": 0.004073,
+    "delegatedStarsBalance": 51.378038
   },
   {
     "address": "stars10497yvmd23sv6n39mzqjpkf8cwhgvqytcp3xmf",
-    "starsBalance": 3841.041641,
+    "starsBalance": 3325.69944,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1y8k9zz0wq8qdf44uktnze03klen3lt7h6ls6gk",
-    "starsBalance": 0.402581,
-    "delegatedStarsBalance": 590.616242
+    "starsBalance": 0.25408,
+    "delegatedStarsBalance": 597.313146
   },
   {
     "address": "stars1d26q4py45z0fwf9s7venh5vf3yl0dn90alpqzv",
@@ -2541,13 +2976,13 @@
   },
   {
     "address": "stars1dezasph998ckm8w9gwtw3xxf6zrxcx63s5m7kr",
-    "starsBalance": 0.963027,
-    "delegatedStarsBalance": 2254.427798
+    "starsBalance": 0.926961,
+    "delegatedStarsBalance": 2267.155978
   },
   {
     "address": "stars13kw2c4w98m20xf387vla6tmg2wr35s0833unw4",
-    "starsBalance": 0.272483,
-    "delegatedStarsBalance": 2982.381565
+    "starsBalance": 0.226417,
+    "delegatedStarsBalance": 3005.023719
   },
   {
     "address": "stars106vjn8glyly0qe2yv38u2knw2lc0g34s9lw9k9",
@@ -2556,27 +2991,27 @@
   },
   {
     "address": "stars17drar8jn9395zwxyk54n4nrnh5pggq2twjyrpn",
-    "starsBalance": 9.672869,
-    "delegatedStarsBalance": 1400
+    "starsBalance": 13.411889,
+    "delegatedStarsBalance": 2630.593862
   },
   {
     "address": "stars13sl3xa3qk3te7aezh834ueyeeym22ym03kc7lf",
-    "starsBalance": 122.216022,
+    "starsBalance": 328.6947,
     "delegatedStarsBalance": 11307.161276
   },
   {
     "address": "stars162g07s9fxymv9s50kq3gkncdnss5sn78q5nwvh",
-    "starsBalance": 0.176506,
-    "delegatedStarsBalance": 2090.66
+    "starsBalance": 0.115697,
+    "delegatedStarsBalance": 2108.36
   },
   {
     "address": "stars1wkr3k57jqz4tg89uzknqtc5a539dcgjkp6mmuw",
-    "starsBalance": 95.549321,
+    "starsBalance": 137.299094,
     "delegatedStarsBalance": 2820
   },
   {
     "address": "stars10522ttf2kcs4w24m8rz68k3mc2hdhmwrxgyxvy",
-    "starsBalance": 4.573411,
+    "starsBalance": 4.526534,
     "delegatedStarsBalance": 1673.636665
   },
   {
@@ -2586,8 +3021,8 @@
   },
   {
     "address": "stars135yvw9ug3qp3mk3g50hzz6z6egwwfh5quwucez",
-    "starsBalance": 0.040896,
-    "delegatedStarsBalance": 6345.483981
+    "starsBalance": 0.015905,
+    "delegatedStarsBalance": 7266.444186
   },
   {
     "address": "stars15g2gnez32lwej0z2z4udslde2q2m8c2s23qahw",
@@ -2630,11 +3065,6 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1r4lf6phm5950yq8f4g4yqjudvh6cst7erda04q",
-    "starsBalance": 126.555498,
-    "delegatedStarsBalance": 1228.780462
-  },
-  {
     "address": "stars1224rpmz2dehcrsc6m66duqgwadsznagd3mlncx",
     "starsBalance": 50.257434,
     "delegatedStarsBalance": 0
@@ -2645,19 +3075,9 @@
     "delegatedStarsBalance": 343
   },
   {
-    "address": "stars1qq6u0eu4nx2q4uae9stzv4antr7x9r72766ey9",
-    "starsBalance": 112.02317,
-    "delegatedStarsBalance": 1571.580587
-  },
-  {
     "address": "stars1uj5uemqxz7ajl2saznnsppry0hduyu9ncfaax0",
     "starsBalance": 71.78,
     "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1wer9u2dnj8p54gtw7t4qpzh0c9krfr6awfzt9d",
-    "starsBalance": 17.682707,
-    "delegatedStarsBalance": 1043
   },
   {
     "address": "stars1yh8lxxp4f6rn4qm5l0tluhjcwy74s8ntzqj929",
@@ -2671,23 +3091,23 @@
   },
   {
     "address": "stars14nsptmfeckjtpeajm04lqsfgaqyvj26ammjr3t",
-    "starsBalance": 111.00171,
+    "starsBalance": 123.445674,
     "delegatedStarsBalance": 1038.818777
   },
   {
     "address": "stars1mmsxwqw9d0tjpqz4h3tjt5nacsyrhhe5nzzp63",
-    "starsBalance": 1.000051,
-    "delegatedStarsBalance": 664.749111
+    "starsBalance": 1.129395,
+    "delegatedStarsBalance": 674.749111
   },
   {
     "address": "stars1vcrp9ny5qg36l96a4wpssmewz7rqe7y5jped2q",
-    "starsBalance": 121.631802,
-    "delegatedStarsBalance": 1179.103423
+    "starsBalance": 121.633273,
+    "delegatedStarsBalance": 1192.309915
   },
   {
     "address": "stars1xkq5m9l3uf6rfa98z5v8tnl924t9v8zc6shkxd",
-    "starsBalance": 0.27531,
-    "delegatedStarsBalance": 87.58951
+    "starsBalance": 0.275431,
+    "delegatedStarsBalance": 88.603624
   },
   {
     "address": "stars19uwfn7jr23usx6jxhhd7zmc4wxr6t6s02qpksa",
@@ -2701,7 +3121,7 @@
   },
   {
     "address": "stars1gg4mdc35djsvfpjry6ay6j6ez84rkdwpw0jl6m",
-    "starsBalance": 134.164115,
+    "starsBalance": 106.359686,
     "delegatedStarsBalance": 1635.114099
   },
   {
@@ -2711,8 +3131,8 @@
   },
   {
     "address": "stars10xdk9jpyke573ru45w3v9cl5246kg4sy8xxwcv",
-    "starsBalance": 1.894569,
-    "delegatedStarsBalance": 3255
+    "starsBalance": 1.504622,
+    "delegatedStarsBalance": 3290
   },
   {
     "address": "stars16qw2nqnkhnqjrx9psny39qh983tk2mzf7qmxhy",
@@ -2731,17 +3151,12 @@
   },
   {
     "address": "stars1e5vy2p3awzc0tnnn20g9m8lf578j6usv3crf8e",
-    "starsBalance": 100.733192,
+    "starsBalance": 100.69472,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1t88hhjxe9rsjss6tre2dm8njy9whwpznm8y774",
     "starsBalance": 55,
-    "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1a2l6mtr3249cmpgt9gl7dqcg4lt68a24tj50df",
-    "starsBalance": 54.140886,
     "delegatedStarsBalance": 0
   },
   {
@@ -2751,12 +3166,12 @@
   },
   {
     "address": "stars1nuuwyh4r4570w5ynmqhz0xpd8v30vlr805qck5",
-    "starsBalance": 1.059587,
-    "delegatedStarsBalance": 333.2
+    "starsBalance": 0.714546,
+    "delegatedStarsBalance": 339.2
   },
   {
     "address": "stars1uk54kc9ckt8lhl0sngzehx5akg4hymez3s08mm",
-    "starsBalance": 72.902275,
+    "starsBalance": 51.8066,
     "delegatedStarsBalance": 3101
   },
   {
@@ -2766,28 +3181,23 @@
   },
   {
     "address": "stars165v9qwy2c4z36nva90vfyg3vd9f4ykdje0glka",
-    "starsBalance": 83.232754,
-    "delegatedStarsBalance": 0
+    "starsBalance": 136.931767,
+    "delegatedStarsBalance": 3010
   },
   {
     "address": "stars1wtgxd4vrrpe79djj0dmslx8tvxzu2kjr5fhxm6",
-    "starsBalance": 25.518033,
+    "starsBalance": 144.947431,
     "delegatedStarsBalance": 3600.010001
   },
   {
     "address": "stars1fs3pd75pgd0qjjz324fzmfxtrm9g2dcjmrrx50",
-    "starsBalance": 56.934247,
+    "starsBalance": 60.117248,
     "delegatedStarsBalance": 2543.02859
   },
   {
     "address": "stars1rrhje477lmychvvmtkjvc4anaqa43v0ll9hpda",
     "starsBalance": 50.00195,
     "delegatedStarsBalance": 1444.908206
-  },
-  {
-    "address": "stars1mej7a3lv70hlgpm0u2q0dx7s6q3jqk4agvk8wa",
-    "starsBalance": 2365.800193,
-    "delegatedStarsBalance": 250
   },
   {
     "address": "stars1u2sghpzddf6mkqdmdv9g8pgv25j3zcqdjsmjth",
@@ -2806,8 +3216,13 @@
   },
   {
     "address": "stars1a7cndlq0nttnrtdz29tfnfmq8ys7upqfwml33x",
-    "starsBalance": 0.729217,
-    "delegatedStarsBalance": 2328
+    "starsBalance": 0.124766,
+    "delegatedStarsBalance": 2353
+  },
+  {
+    "address": "stars10zlcy7fe76a2ec42azr90etvddnqc2222cuh62",
+    "starsBalance": 2.20209,
+    "delegatedStarsBalance": 62.787498
   },
   {
     "address": "stars157v754ea0z6r6as2r0gg8e4ljaq800qyd82t9g",
@@ -2815,33 +3230,28 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1ukpah0340rx7k3x2njnavwyjv6pfpvn6qzwpzz",
-    "starsBalance": 907.268305,
-    "delegatedStarsBalance": 6557.190197
-  },
-  {
     "address": "stars1m9h2tg7sq8xu23hk2cu8xmdawq35vahpehvdw9",
-    "starsBalance": 4547.86012,
+    "starsBalance": 4574.26012,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1m4hhqk7qpts9uzs59a5e0x669auvssp2dwet6l",
-    "starsBalance": 0.995222,
-    "delegatedStarsBalance": 299
+    "starsBalance": 0.095785,
+    "delegatedStarsBalance": 310.489723
   },
   {
     "address": "stars1xzta2s5s9kvuu4ehs8l5mp2v2f2s88gwvg5dlj",
-    "starsBalance": 4062.324334,
+    "starsBalance": 4097.287672,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars18qy0xduacugp6glkejtkunjyssyp2jfn8ztkpr",
-    "starsBalance": 3.051619,
-    "delegatedStarsBalance": 7030.000032
+    "starsBalance": 0.617399,
+    "delegatedStarsBalance": 7160.000032
   },
   {
     "address": "stars1tale992h403jrputvgdpedl0ajwmazedpxlxgq",
-    "starsBalance": 250.296987,
+    "starsBalance": 49.132979,
     "delegatedStarsBalance": 5226.508146
   },
   {
@@ -2851,12 +3261,12 @@
   },
   {
     "address": "stars160grawffpqq6pn26s2dht5s6vwjxz8kjtmptkz",
-    "starsBalance": 0.969148,
+    "starsBalance": 46.841029,
     "delegatedStarsBalance": 1066.654866
   },
   {
     "address": "stars10kpgpktu5djeclvxv6c95hzxnzyjyfujey0f08",
-    "starsBalance": 56.896362,
+    "starsBalance": 334.996362,
     "delegatedStarsBalance": 0
   },
   {
@@ -2865,13 +3275,8 @@
     "delegatedStarsBalance": 1312.635829
   },
   {
-    "address": "stars1y527ahhg5xln76fc0k65xa40s8ycf98r4y5v4u",
-    "starsBalance": 55.182932,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1y0m2u5munzfz536tmrs73geyunncyszrw8egkq",
-    "starsBalance": 65.495972,
+    "starsBalance": 101.979601,
     "delegatedStarsBalance": 1000
   },
   {
@@ -2886,8 +3291,8 @@
   },
   {
     "address": "stars1gamy6pus7cugfcz0vkveuvs37q23m28t5axhmt",
-    "starsBalance": 1.995446,
-    "delegatedStarsBalance": 11787.018288
+    "starsBalance": 0.963471,
+    "delegatedStarsBalance": 17460.320959
   },
   {
     "address": "stars1qu6hwj678c5tm0j7q52rda8w8ftjes5cu205aa",
@@ -2901,8 +3306,8 @@
   },
   {
     "address": "stars105v38cuhcj783d284qu2w8k6m0ddzg250xm4ts",
-    "starsBalance": 2.892302,
-    "delegatedStarsBalance": 4637.241817
+    "starsBalance": 2.897581,
+    "delegatedStarsBalance": 4688.086302
   },
   {
     "address": "stars104u9lza955f89ctgkvptlm6uqkhxm4g4httyq9",
@@ -2911,8 +3316,8 @@
   },
   {
     "address": "stars1dn8en85eyge52n4rh0rnkznv84vjzfys8sq2p7",
-    "starsBalance": 0.087328,
-    "delegatedStarsBalance": 2362.642252
+    "starsBalance": 0.081899,
+    "delegatedStarsBalance": 2572.7899
   },
   {
     "address": "stars1gpsltwleqlexmvmnp4sd6e6pdygqheth4cewgy",
@@ -2921,22 +3326,22 @@
   },
   {
     "address": "stars1shs58dd9770xwfyh3d48w8sam2sm5cqu585azy",
-    "starsBalance": 0.595184,
-    "delegatedStarsBalance": 2919.762476
+    "starsBalance": 0.281674,
+    "delegatedStarsBalance": 2954.64576
   },
   {
     "address": "stars190u763vndrczxlg88nkk27efssdlu49yp2fdh7",
-    "starsBalance": 4.993538,
+    "starsBalance": 12.878168,
     "delegatedStarsBalance": 653
   },
   {
     "address": "stars1snpm38mt56vudp70fc3cr2t6ecrhg6xczxuvc9",
-    "starsBalance": 24.318341,
-    "delegatedStarsBalance": 308.110564
+    "starsBalance": 0.015302,
+    "delegatedStarsBalance": 338.772488
   },
   {
     "address": "stars1vfl8h3sklrp83t9z8ed6d775lhxfh3le36yg89",
-    "starsBalance": 66.098373,
+    "starsBalance": 16.092123,
     "delegatedStarsBalance": 2322.146978
   },
   {
@@ -2946,8 +3351,8 @@
   },
   {
     "address": "stars1sghuvfprzlgpjr2d8kgt3uz20p588cvd372wd8",
-    "starsBalance": 4.506317,
-    "delegatedStarsBalance": 1642.799151
+    "starsBalance": 4.530163,
+    "delegatedStarsBalance": 1661.294394
   },
   {
     "address": "stars1r50h8ktlttht8rht6v9ka483mx2j0fec8am0kg",
@@ -2956,7 +3361,7 @@
   },
   {
     "address": "stars1jvfvj3vxdh7g0cxcncxxl3dcr9yc47yert9cun",
-    "starsBalance": 1165.552334,
+    "starsBalance": 2501.578917,
     "delegatedStarsBalance": 0
   },
   {
@@ -2966,8 +3371,8 @@
   },
   {
     "address": "stars1kjklf9fqq3w0vpq9w9wcazudn2z5gpdnkwa9nf",
-    "starsBalance": 52.66746,
-    "delegatedStarsBalance": 2600
+    "starsBalance": 10.372808,
+    "delegatedStarsBalance": 5000
   },
   {
     "address": "stars178wrmr02vn5z83l277k9kt9kese8ad8uyuhddj",
@@ -2976,23 +3381,23 @@
   },
   {
     "address": "stars1jcc2uk743n3z6p9q2qf0ap77gfn8zfu8y90vpj",
-    "starsBalance": 0.991983,
+    "starsBalance": 0.926989,
     "delegatedStarsBalance": 1050
   },
   {
     "address": "stars1s3deqddavqt2nfcmnx0ecxqlgzwq5p6ex0y2pc",
-    "starsBalance": 0.0039,
+    "starsBalance": 4.358437,
     "delegatedStarsBalance": 2023.222639
   },
   {
     "address": "stars1wyfdv57vlw3dum993de4arg6xf4zakk6u50nej",
-    "starsBalance": 13.406545,
-    "delegatedStarsBalance": 22839.068758
+    "starsBalance": 3.657486,
+    "delegatedStarsBalance": 23132.834734
   },
   {
     "address": "stars155e6p8skr5wdzpxgjhvr9twjqfu43xm3c272ma",
-    "starsBalance": 9.910904,
-    "delegatedStarsBalance": 6803.744484
+    "starsBalance": 9.244557,
+    "delegatedStarsBalance": 6876.744484
   },
   {
     "address": "stars1jkakpzl747t533ufxmw65ngupmdmhrfq4c957m",
@@ -3006,17 +3411,17 @@
   },
   {
     "address": "stars1jgfc0zgcdah5hnn6rep5dnu6u90alwalk5h7t2",
-    "starsBalance": 4.632142,
-    "delegatedStarsBalance": 767.166738
+    "starsBalance": 0.800412,
+    "delegatedStarsBalance": 778.208816
   },
   {
     "address": "stars14a66tyf5rr3eh4txjkx5dkqrw5z5pcmjrwerr0",
-    "starsBalance": 1.637101,
+    "starsBalance": 1.579097,
     "delegatedStarsBalance": 1094
   },
   {
     "address": "stars1t83h6eg69qz67fchtt9w9tkpcju27w6p502m2e",
-    "starsBalance": 103.326751,
+    "starsBalance": 120.177163,
     "delegatedStarsBalance": 1500.455063
   },
   {
@@ -3026,8 +3431,8 @@
   },
   {
     "address": "stars12apcjlfq0wmmn60flu0znl5mf5nplkwp3l4t22",
-    "starsBalance": 33.403453,
-    "delegatedStarsBalance": 280.621302
+    "starsBalance": 33.405302,
+    "delegatedStarsBalance": 283.870645
   },
   {
     "address": "stars1rgn3a8f9dzdsnqyj2zvaarf5zz9h6mg6a9rguz",
@@ -3041,7 +3446,7 @@
   },
   {
     "address": "stars1ffvhvyrntp4l99xqgn2vvly6v4kn2xlh68c0ww",
-    "starsBalance": 10.136868,
+    "starsBalance": 11.627945,
     "delegatedStarsBalance": 149.16636
   },
   {
@@ -3066,7 +3471,7 @@
   },
   {
     "address": "stars1c8kje80k069u8czmzhlnjpj9nljw9ggydqwvve",
-    "starsBalance": 5.431389,
+    "starsBalance": 0.076188,
     "delegatedStarsBalance": 1246.869912
   },
   {
@@ -3096,18 +3501,18 @@
   },
   {
     "address": "stars1gs5wfmq09yku2vd5hchdmvy8v5k9n3n6tkxp8a",
-    "starsBalance": 0.266041,
-    "delegatedStarsBalance": 1587
+    "starsBalance": 0.528668,
+    "delegatedStarsBalance": 1607
   },
   {
     "address": "stars1pan92usty7aye7elfaf5qa0jtahpfvfh0flurx",
-    "starsBalance": 14.774803,
+    "starsBalance": 14.654803,
     "delegatedStarsBalance": 1101.9899
   },
   {
     "address": "stars10vd7prq5nwn37k0ha27n8ufd4l7wxtp0sc4k74",
-    "starsBalance": 0.003954,
-    "delegatedStarsBalance": 736.039295
+    "starsBalance": 0.052531,
+    "delegatedStarsBalance": 813.338369
   },
   {
     "address": "stars1pdr9f2l2sa9c3ezzjpe8k8pxfls2722v6ju73f",
@@ -3115,13 +3520,8 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1th0jfqn8k0vef72yej2yjv303ej0cwc70pqnmz",
-    "starsBalance": -1,
-    "delegatedStarsBalance": 3004.226925
-  },
-  {
     "address": "stars1nq0pckn2s3546fdkv2a4yxhlrqx4rl20c6f2r6",
-    "starsBalance": 87.119016,
+    "starsBalance": 412.719016,
     "delegatedStarsBalance": 1630.679406
   },
   {
@@ -3131,8 +3531,8 @@
   },
   {
     "address": "stars1mmpruupah9zz3ceefpt5j6s728f6t3t9crher3",
-    "starsBalance": 128.984219,
-    "delegatedStarsBalance": 900.05718
+    "starsBalance": 76.786267,
+    "delegatedStarsBalance": 1000.05718
   },
   {
     "address": "stars14xqq7gh7qzr62w8vcpqgsqcn5dpt4uppvngs4y",
@@ -3151,12 +3551,12 @@
   },
   {
     "address": "stars1fr2luczva950j32xhjxeq8p8nth0u8ha3c7uez",
-    "starsBalance": 1.779295,
-    "delegatedStarsBalance": 52.447259
+    "starsBalance": 1.717808,
+    "delegatedStarsBalance": 53.108091
   },
   {
     "address": "stars1lc9r0x0my0h45wxuycedtu5lqkl0s84xkp27zg",
-    "starsBalance": 8530.477615,
+    "starsBalance": 17335.808054,
     "delegatedStarsBalance": 1053.1
   },
   {
@@ -3166,8 +3566,8 @@
   },
   {
     "address": "stars15ml42gs67uv5gf0h67szu9vt225axal82gxsnf",
-    "starsBalance": 1.864253,
-    "delegatedStarsBalance": 105.000002
+    "starsBalance": 2.750971,
+    "delegatedStarsBalance": 107.908729
   },
   {
     "address": "stars1gc00cq45a0e05w5hqgqju3r7g8xxm7lqx2xm5a",
@@ -3176,12 +3576,12 @@
   },
   {
     "address": "stars1mrfhcd7kq6ssv0nlmyp53uxuntvxal8q20t7fx",
-    "starsBalance": 5.563482,
-    "delegatedStarsBalance": 3039.400067
+    "starsBalance": 0.585864,
+    "delegatedStarsBalance": 3069.400067
   },
   {
     "address": "stars1e8hnmr4qv3ap7667tgxnuy0mr6xc8vq7gnf2jc",
-    "starsBalance": 50.242347,
+    "starsBalance": 50.186844,
     "delegatedStarsBalance": 7567.122114
   },
   {
@@ -3201,17 +3601,17 @@
   },
   {
     "address": "stars1st3g47cashnmdxwf687vh935h4s3hs8efdmpkt",
-    "starsBalance": 0.628526,
+    "starsBalance": 0.627389,
     "delegatedStarsBalance": 3010.1
   },
   {
     "address": "stars1vphh0qq88y37cj6pza0qjydymm9ac3wumnmkm0",
-    "starsBalance": 2.549249,
+    "starsBalance": 2.548112,
     "delegatedStarsBalance": 3010
   },
   {
     "address": "stars108m4qkx5k26st6xex0d9620tw4fgdwrmle945s",
-    "starsBalance": 84.729216,
+    "starsBalance": 67.480899,
     "delegatedStarsBalance": 3030
   },
   {
@@ -3222,11 +3622,6 @@
   {
     "address": "stars13m96aqetwr4e2nr6kzk5uxssjkhaq82nv7gxd2",
     "starsBalance": 55,
-    "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1mxvkw06ay8a2d03n7ad932kv2sr26marqvfkta",
-    "starsBalance": 61.198108,
     "delegatedStarsBalance": 0
   },
   {
@@ -3246,7 +3641,7 @@
   },
   {
     "address": "stars1mglvavjesfqw5pynkgzhu5qhfllr8ufmyepd9v",
-    "starsBalance": 397.826628,
+    "starsBalance": 58.89312,
     "delegatedStarsBalance": 2002.132859
   },
   {
@@ -3256,13 +3651,13 @@
   },
   {
     "address": "stars1cna5g2phu65yz092gh64tln2dxmkfhkv8mt028",
-    "starsBalance": 6.001259,
-    "delegatedStarsBalance": 1695.508541
+    "starsBalance": 6.00257,
+    "delegatedStarsBalance": 1703.726127
   },
   {
     "address": "stars155nr4hc8nnu0qdr6zeudcy4htpvvg50qkvfpc4",
-    "starsBalance": 53.933535,
-    "delegatedStarsBalance": 785.638848
+    "starsBalance": 53.93495,
+    "delegatedStarsBalance": 795.160626
   },
   {
     "address": "stars1a835l4wfq0pdqkcp6ezem5y326rk59qe29claa",
@@ -3271,8 +3666,8 @@
   },
   {
     "address": "stars1taqdzsm4kt6h2chkdt6a8yp9v826w3rqxvynzj",
-    "starsBalance": 29.222858,
-    "delegatedStarsBalance": 1209.163717
+    "starsBalance": 29.245848,
+    "delegatedStarsBalance": 1222.847704
   },
   {
     "address": "stars1svylsx22zn3q38q8eg0kvhfsjm0wkp78mwkgjr",
@@ -3300,19 +3695,14 @@
     "delegatedStarsBalance": 1253.9767
   },
   {
-    "address": "stars129lt5v9etr4k70q05zlr7nll92kkcp9rnysvfc",
-    "starsBalance": 112.637071,
-    "delegatedStarsBalance": 2022.455539
-  },
-  {
     "address": "stars1ew8q5n6r43n38w0m5pqmuewtpv78k2snv2c6aa",
-    "starsBalance": 0.043405,
-    "delegatedStarsBalance": 1642.825935
+    "starsBalance": 0.034474,
+    "delegatedStarsBalance": 1660.653526
   },
   {
     "address": "stars1tcysh7p2h3dmx8jekztwdscze7hcwxcvlw2yzd",
-    "starsBalance": 122.12216,
-    "delegatedStarsBalance": 23220.837069
+    "starsBalance": 122.145558,
+    "delegatedStarsBalance": 23442.777376
   },
   {
     "address": "stars14ugn00y3a6p6hsjjrqtcx9she8uk0h8gae5yer",
@@ -3326,23 +3716,18 @@
   },
   {
     "address": "stars12uyd20vahq7aqarplvcd20j0lfn4vyjhru39e8",
-    "starsBalance": 2.801264,
-    "delegatedStarsBalance": 1167.975669
-  },
-  {
-    "address": "stars1y9384ar63pt8wmtt5y7yltgk42k60jjsyuttk0",
-    "starsBalance": 1.765731,
-    "delegatedStarsBalance": 1223.798999
+    "starsBalance": 224.767313,
+    "delegatedStarsBalance": 2791.180722
   },
   {
     "address": "stars17637udh3u33jc3a3zf6mdlveqhvlhqvg9fpj3q",
-    "starsBalance": 0.0029,
-    "delegatedStarsBalance": 12743.326126
+    "starsBalance": 25.170022,
+    "delegatedStarsBalance": 13193.326126
   },
   {
     "address": "stars12l0ns2c834uuq4q7wh4yh748sel8fgamhvcfxp",
-    "starsBalance": 12.829835,
-    "delegatedStarsBalance": 2019.865344
+    "starsBalance": 12.841834,
+    "delegatedStarsBalance": 2042.194347
   },
   {
     "address": "stars1uze43g2nlkxmkxtth3jldglv5nqls4kg3rx0cv",
@@ -3351,13 +3736,13 @@
   },
   {
     "address": "stars1atvzzzac5n676jtxn7046x4cahhtmfvfkctxjf",
-    "starsBalance": 343.179006,
+    "starsBalance": 1.494082,
     "delegatedStarsBalance": 40034.517545
   },
   {
     "address": "stars1uhrjn74zagm4ze0ms4krz90dqfkx5w03safk6m",
-    "starsBalance": 0.21311,
-    "delegatedStarsBalance": 2597.07
+    "starsBalance": 1.807151,
+    "delegatedStarsBalance": 2747.07
   },
   {
     "address": "stars17dp4z3cjtm7l45rxm4g69h0p070saumaqgxm5l",
@@ -3366,32 +3751,27 @@
   },
   {
     "address": "stars1wvwfuqf7xlhx94vvr6pfha0w6a84gkq2wwyz2p",
-    "starsBalance": 0.413211,
+    "starsBalance": 81.375491,
     "delegatedStarsBalance": 725.376112
   },
   {
-    "address": "stars1tyvarrkneatg8euheanlgtagnq5npgs36m0ykv",
-    "starsBalance": 176.985187,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1mxquqp8anmjnj6e5n87fuam2cskfpwqd8cegue",
-    "starsBalance": 0.006487,
-    "delegatedStarsBalance": 12794.681293
+    "starsBalance": 0.003258,
+    "delegatedStarsBalance": 12915.76427
   },
   {
     "address": "stars1e9jmh6cw37cm2axg6f5atuxmgagj8q963lzlns",
-    "starsBalance": 5.200682,
-    "delegatedStarsBalance": 542.491741
+    "starsBalance": 5.20105,
+    "delegatedStarsBalance": 548.241491
   },
   {
     "address": "stars1e2gjyjvnnvnfrya2htcw9dxtk2aql6slx9x7za",
-    "starsBalance": 198.202563,
+    "starsBalance": 57.716561,
     "delegatedStarsBalance": 801.0995
   },
   {
     "address": "stars1fcc0umhfthpm59u00rfjccndxdumxk32nsnamr",
-    "starsBalance": 1.848574,
+    "starsBalance": 39.793904,
     "delegatedStarsBalance": 3153
   },
   {
@@ -3401,13 +3781,13 @@
   },
   {
     "address": "stars18jc0dc70uqnw79uht7v9lcrdpeq0hsdgkqc33n",
-    "starsBalance": 0.983254,
+    "starsBalance": 0.970163,
     "delegatedStarsBalance": 59
   },
   {
     "address": "stars1vurmf6r7swfqctkahexpzup9wm8cs8x9avty4n",
-    "starsBalance": 68.574566,
-    "delegatedStarsBalance": 0
+    "starsBalance": -1,
+    "delegatedStarsBalance": 68.574566
   },
   {
     "address": "stars10zs2t8jv33wxkn4dhl7755qlgtzcyv0cad594d",
@@ -3416,33 +3796,33 @@
   },
   {
     "address": "stars1yq4jxk3k5uenj0nlvwgrm9jqe004sv50vy4kdy",
-    "starsBalance": 10.010047,
-    "delegatedStarsBalance": 1090.166765
+    "starsBalance": 8.302979,
+    "delegatedStarsBalance": 1105.166765
   },
   {
     "address": "stars1fltz2le6neleevu39kva3f9w666r2d5l26h9gr",
-    "starsBalance": 0.562433,
-    "delegatedStarsBalance": 3970.66
+    "starsBalance": 0.951836,
+    "delegatedStarsBalance": 4048.857079
   },
   {
     "address": "stars1krs9xakfe9fyrgpzn0vlu85n6z4vkvslxza85z",
-    "starsBalance": 0.004646,
+    "starsBalance": 412.051905,
     "delegatedStarsBalance": 2533.965742
   },
   {
     "address": "stars1sqh3uwxl98d4a4ql68nha7gqn8v0ujx55m0apq",
-    "starsBalance": 203.4483,
-    "delegatedStarsBalance": 5406.611758
+    "starsBalance": 1.075436,
+    "delegatedStarsBalance": 5615.95273
   },
   {
     "address": "stars14kf23cs9evs66uvl63ef6ggp20apqdc3h9uhuz",
-    "starsBalance": 50.191877,
-    "delegatedStarsBalance": 1127.677009
+    "starsBalance": 111.336832,
+    "delegatedStarsBalance": 1136.028705
   },
   {
     "address": "stars13c4csj6zm68hwlcz7yznhf4tydccyhjrcg8k7k",
-    "starsBalance": 0.033711,
-    "delegatedStarsBalance": 4067.984564
+    "starsBalance": 0.038533,
+    "delegatedStarsBalance": 4111.098362
   },
   {
     "address": "stars14ju0vqjvq6hu6hmtcd7ypmercuz2sd2lvtd3yv",
@@ -3451,17 +3831,17 @@
   },
   {
     "address": "stars1alsa7rkfwqc45vkpvw4gqvz78hg6hfh8fmcw2k",
-    "starsBalance": 323.352116,
-    "delegatedStarsBalance": 220
+    "starsBalance": 3.339951,
+    "delegatedStarsBalance": 548.990608
   },
   {
     "address": "stars1qlljvx0ggg0qmg3ffz4f3hd0tsd259n4x3pk04",
-    "starsBalance": 0.788784,
-    "delegatedStarsBalance": 1226
+    "starsBalance": 0.44474,
+    "delegatedStarsBalance": 1251
   },
   {
     "address": "stars1srung7l9l809typewrylkm9nagdxydungyhmha",
-    "starsBalance": 768.792429,
+    "starsBalance": 618.844658,
     "delegatedStarsBalance": 0
   },
   {
@@ -3471,13 +3851,13 @@
   },
   {
     "address": "stars1r87nyzf79seyjvt6f6ygqn9f6ncxnh3uajmq09",
-    "starsBalance": 0.145588,
-    "delegatedStarsBalance": 133.010396
+    "starsBalance": 3.359711,
+    "delegatedStarsBalance": 134.14842
   },
   {
     "address": "stars1cxd9xdyz5ev6htv0zwally3hls3nlgm8t07f8k",
-    "starsBalance": 0.027785,
-    "delegatedStarsBalance": 345.794003
+    "starsBalance": 0.031259,
+    "delegatedStarsBalance": 349.689932
   },
   {
     "address": "stars1h0unr6dceuq0grqknq3ps8z5r0m89uq0wu6uqc",
@@ -3491,58 +3871,58 @@
   },
   {
     "address": "stars1uak3aga7arn282sf349ck92pf8uadycs5vsf4z",
-    "starsBalance": 60.992267,
+    "starsBalance": 61.170218,
     "delegatedStarsBalance": 5
   },
   {
     "address": "stars1h0ytgclzxf8d6pm45hf8672gs3hy8ptyexrxdx",
-    "starsBalance": 0.337095,
-    "delegatedStarsBalance": 1081.687717
+    "starsBalance": 5.88605,
+    "delegatedStarsBalance": 1089.83678
   },
   {
     "address": "stars1yhzvn7jq8j248cx5asnjzxwr79c20flsnunl5q",
-    "starsBalance": 88.883692,
-    "delegatedStarsBalance": 1456.882625
+    "starsBalance": 69.74486,
+    "delegatedStarsBalance": 1545.882625
   },
   {
     "address": "stars1cxrr8e8ac76llvd5vfcjnap7jd0nnnejjwzm3u",
-    "starsBalance": 0.0039,
+    "starsBalance": 0.252148,
     "delegatedStarsBalance": 1341.7
   },
   {
     "address": "stars1wwxyg5qv9f85sznl83vr9ezx3aqpu6zjk9u7qm",
-    "starsBalance": 332.148705,
+    "starsBalance": 459.946765,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1xex5n5q54qh5n7vslz9tls6k543hah3huh7dxn",
-    "starsBalance": 9667.000256,
+    "starsBalance": 1997.000256,
     "delegatedStarsBalance": 1251.874799
   },
   {
     "address": "stars1ytmeusye99zdzumkx2hvlx5p3fj9d5w8thj6ga",
-    "starsBalance": 1041.91038,
-    "delegatedStarsBalance": 540029.509813
+    "starsBalance": 1041.853269,
+    "delegatedStarsBalance": 540029.509814
   },
   {
     "address": "stars1qar67xaeshq2sv2ykcrqgtveszftgpw48e8f92",
-    "starsBalance": 121.459092,
+    "starsBalance": 121.46257,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars12xuz204q2n3ulpx5px40a5z0uchqglny4ek9eg",
-    "starsBalance": 0.984756,
-    "delegatedStarsBalance": 1119.170982
+    "starsBalance": 0.979638,
+    "delegatedStarsBalance": 1151.188511
   },
   {
     "address": "stars1n8m8f9yu6e8tzzafjm0j85hz7gfnwmuye6jg6g",
-    "starsBalance": 0.911029,
-    "delegatedStarsBalance": 5027.986283
+    "starsBalance": 35.870106,
+    "delegatedStarsBalance": 5027.811789
   },
   {
     "address": "stars1ya88xfuy0ue8agqxlqatqhspvxmqlxhxxmkvyv",
-    "starsBalance": 106.582344,
-    "delegatedStarsBalance": 1135.295901
+    "starsBalance": 105.55002,
+    "delegatedStarsBalance": 1148.859562
   },
   {
     "address": "stars1yrql9mf6kfjzlsukwyg0jv7kwaenn78a70l5nh",
@@ -3551,7 +3931,7 @@
   },
   {
     "address": "stars1ndj2nh2uwlk40hd6846gt6a4s76z0mw8s5uat8",
-    "starsBalance": 600.15195,
+    "starsBalance": 600.044505,
     "delegatedStarsBalance": 1000
   },
   {
@@ -3571,13 +3951,13 @@
   },
   {
     "address": "stars1auf8nrw7wmlghl49ydf78j9p0a7s7eavkvj4ye",
-    "starsBalance": 0.3962,
+    "starsBalance": 0.309346,
     "delegatedStarsBalance": 1002
   },
   {
     "address": "stars1alfwvnzkzn063pr2p3dnw5anfh7amrv0yjl27q",
-    "starsBalance": 5.637601,
-    "delegatedStarsBalance": 19000.249936
+    "starsBalance": 4.605627,
+    "delegatedStarsBalance": 19240.152753
   },
   {
     "address": "stars1t9pxm9zrxrafg24yqzvzu56dgdpzfshj9nvxmv",
@@ -3596,12 +3976,12 @@
   },
   {
     "address": "stars1huaayys7a8uv9d6e7ps9avzxfm9ffe95ghmn22",
-    "starsBalance": 0.450909,
-    "delegatedStarsBalance": 367.67882
+    "starsBalance": 0.451274,
+    "delegatedStarsBalance": 372.072884
   },
   {
     "address": "stars1tayue8d6ehqjr7kpecwfrnkalf36ktsrd7r3kf",
-    "starsBalance": 369.822461,
+    "starsBalance": 565.182461,
     "delegatedStarsBalance": 1379.638825
   },
   {
@@ -3611,18 +3991,18 @@
   },
   {
     "address": "stars10lms2qynv6k0pxjw67slafm74nsx6llleh7jpl",
-    "starsBalance": 3.352692,
-    "delegatedStarsBalance": 813.720841
+    "starsBalance": 7.908344,
+    "delegatedStarsBalance": 815.911449
   },
   {
     "address": "stars138kkval85t5qsv30rtuhjedmajuuvfwh0nrvst",
-    "starsBalance": 3.124776,
-    "delegatedStarsBalance": 3343.702972
+    "starsBalance": 3.115371,
+    "delegatedStarsBalance": 3442.20319
   },
   {
     "address": "stars127wah95qspnlhc6fc8h7q77nnw9x583ngttuad",
-    "starsBalance": 2.214549,
-    "delegatedStarsBalance": 1933.978794
+    "starsBalance": 2.216722,
+    "delegatedStarsBalance": 1957.087361
   },
   {
     "address": "stars12t5p8z5ukgx5kcwyg9gxlmwzpzulrfq4cle3vz",
@@ -3631,12 +4011,12 @@
   },
   {
     "address": "stars1lzzct8u9mnzkgg5g6n9lhsuw3ftnqe8hgztngt",
-    "starsBalance": 0.161249,
+    "starsBalance": 0.5942,
     "delegatedStarsBalance": 3135.8
   },
   {
     "address": "stars1l4smq6k4txwvg0vax6h9wnn0anuq568sf5ue8a",
-    "starsBalance": 3.509677,
+    "starsBalance": 3.446898,
     "delegatedStarsBalance": 102.9897
   },
   {
@@ -3646,12 +4026,12 @@
   },
   {
     "address": "stars1fqrqcrjgl2fjtyfm4hz9a222uaqgp0672eqyl7",
-    "starsBalance": 0.108767,
+    "starsBalance": 0.093548,
     "delegatedStarsBalance": 1164.568763
   },
   {
     "address": "stars1dkfxwc4hz2t320ztc87uqr3053smzualnfwpwh",
-    "starsBalance": 55.101786,
+    "starsBalance": 0.149723,
     "delegatedStarsBalance": 2978.5
   },
   {
@@ -3661,38 +4041,33 @@
   },
   {
     "address": "stars16n5we9kd3ewdp8ll0fgk8h2qnjzwtwz9k76n0c",
-    "starsBalance": 217.930374,
+    "starsBalance": 0.00195,
     "delegatedStarsBalance": 1000
   },
   {
     "address": "stars1jlmj0ff4fn4rd36hwc6yg3kwfd39l26w7rlh2y",
-    "starsBalance": 716.301949,
+    "starsBalance": 216.301949,
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars148vmqxzgp4yc996pasredy3v9sw8sxzs0es32e",
-    "starsBalance": 5.930256,
-    "delegatedStarsBalance": 19605
-  },
-  {
     "address": "stars1ypq22n8y8aw7jtxux9kx860mnpp8phkv7uj3qq",
-    "starsBalance": 155.88983,
+    "starsBalance": 155.88167,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1hrs4pj7q5pk508lzz9a8fwkjn66egwcfgmlpx6",
-    "starsBalance": 63.22733,
+    "starsBalance": 63.149104,
     "delegatedStarsBalance": 2553.508839
   },
   {
     "address": "stars16lsvg7tpt4cg3d97vhrp2lewvetx8dk9mvz4m8",
-    "starsBalance": 977.391805,
-    "delegatedStarsBalance": 6898.068727
+    "starsBalance": 977.398305,
+    "delegatedStarsBalance": 6980.513182
   },
   {
     "address": "stars1qvt3f8hfv28uganm454jnx9scnnq7hralx86f3",
-    "starsBalance": 1.832579,
-    "delegatedStarsBalance": 1219.76728
+    "starsBalance": 2.562324,
+    "delegatedStarsBalance": 1233.608242
   },
   {
     "address": "stars1p330stapusykfss47qrhqlukjncvgyzfl7t3cv",
@@ -3701,13 +4076,13 @@
   },
   {
     "address": "stars1d74f6c7rgyyym57530rc2tt88fnl6wpdcpz6ta",
-    "starsBalance": 1219.960257,
+    "starsBalance": 819.937901,
     "delegatedStarsBalance": 2295
   },
   {
     "address": "stars17v6tme9dus6u5gtx4emdgdwqz567pct3celna4",
-    "starsBalance": 78.816357,
-    "delegatedStarsBalance": 5816.679787
+    "starsBalance": 6.860601,
+    "delegatedStarsBalance": 6039.701428
   },
   {
     "address": "stars1rvqtl9rd4tfg9qafrz0aw8gm9twtdg7hcu9jwz",
@@ -3716,7 +4091,7 @@
   },
   {
     "address": "stars1zcpn44y7k692dp65xdz5w32zux6s430petyy5a",
-    "starsBalance": 1.704865,
+    "starsBalance": 1.620746,
     "delegatedStarsBalance": 22249
   },
   {
@@ -3726,12 +4101,12 @@
   },
   {
     "address": "stars1s8gv6d23q3p68caf5szyaw5jx2gwaats70f6qc",
-    "starsBalance": 137.738921,
+    "starsBalance": 216.338395,
     "delegatedStarsBalance": 6041.735902
   },
   {
     "address": "stars1zcy7h9vpj2g4w0xw3ta3ky977z6e6ht03dkjg3",
-    "starsBalance": 2823.274142,
+    "starsBalance": 54.180213,
     "delegatedStarsBalance": 4850
   },
   {
@@ -3751,7 +4126,7 @@
   },
   {
     "address": "stars1hdh5xna5h5sp7djfxr4vu4qkf7w6pswwnngagr",
-    "starsBalance": 0.015817,
+    "starsBalance": 0.343339,
     "delegatedStarsBalance": 200
   },
   {
@@ -3761,7 +4136,7 @@
   },
   {
     "address": "stars1vaz3yc3e7qlldawk0mhsc7dq9vpecwp7q30mnq",
-    "starsBalance": 18.57391,
+    "starsBalance": 18.432559,
     "delegatedStarsBalance": 261.436518
   },
   {
@@ -3771,28 +4146,28 @@
   },
   {
     "address": "stars155srzma4tqr5x0ch3ankm0w08d38u26k2q484e",
-    "starsBalance": 0.102269,
-    "delegatedStarsBalance": 1293.303452
+    "starsBalance": 0.103721,
+    "delegatedStarsBalance": 1308.755525
   },
   {
     "address": "stars10sv7qs4n95x8w6klddekuyxhvzt5sp8eqdhm9z",
-    "starsBalance": 1.78399,
+    "starsBalance": 1.701644,
     "delegatedStarsBalance": 832
   },
   {
     "address": "stars1n46xwqsakuaw422692632zex75rtuczyugzsx9",
-    "starsBalance": 0.971443,
-    "delegatedStarsBalance": 1656.234135
+    "starsBalance": 0.729058,
+    "delegatedStarsBalance": 1671.371692
   },
   {
     "address": "stars1wpptcxmzjy8vzsr85k2ydfm0da2w2k2ev6e38c",
-    "starsBalance": 0.738703,
+    "starsBalance": 0.416853,
     "delegatedStarsBalance": 4000
   },
   {
     "address": "stars1lvetcu95anhwhw3l3jldulldd9z9q50y0tn842",
-    "starsBalance": 5.329143,
-    "delegatedStarsBalance": 425.555414
+    "starsBalance": 5.270725,
+    "delegatedStarsBalance": 433.146579
   },
   {
     "address": "stars1nd5wekgm6gtql5x4eqnnr2739svjvnavuswdq4",
@@ -3806,8 +4181,8 @@
   },
   {
     "address": "stars1j9w274edp58xsmnk4yyckazdzc53z6v9p0qppn",
-    "starsBalance": 15.516501,
-    "delegatedStarsBalance": 1368.787362
+    "starsBalance": 2.031284,
+    "delegatedStarsBalance": 1408.787362
   },
   {
     "address": "stars1svewt55gn2jjye3dha58pc8glhgwrv3avqg4md",
@@ -3816,12 +4191,12 @@
   },
   {
     "address": "stars1n9zyw7k394a0lzy8z0pmjcqxmpcv92w2wrs7t2",
-    "starsBalance": 79.730461,
+    "starsBalance": 90.690825,
     "delegatedStarsBalance": 1047.228377
   },
   {
     "address": "stars1pquw8s67qykzx9swmhkgzrtaxke00ak2nfum74",
-    "starsBalance": 674.27156,
+    "starsBalance": 97.005617,
     "delegatedStarsBalance": 229.337392
   },
   {
@@ -3831,33 +4206,33 @@
   },
   {
     "address": "stars10hy0x88mecgnqe0zzr6uqny8pe0te9fcvzwvsr",
-    "starsBalance": 7.743763,
+    "starsBalance": 0.15773,
     "delegatedStarsBalance": 2000
   },
   {
     "address": "stars1pd4v35r7yl9uwga54l2u840f3lhdzmfssznmyz",
-    "starsBalance": 108.297116,
-    "delegatedStarsBalance": 1131.845306
+    "starsBalance": 113.128968,
+    "delegatedStarsBalance": 1136.27549
   },
   {
     "address": "stars1a33400g7wrlv04tzdjzqwpar5rs4qhka3zvmey",
-    "starsBalance": 1934.549121,
+    "starsBalance": 66.407124,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1yyex40yfa4t3lvgcud9hvazepc8wmjpasky4sq",
-    "starsBalance": 205.993829,
-    "delegatedStarsBalance": 1989.007605
+    "starsBalance": 0.26229,
+    "delegatedStarsBalance": 2058.007605
   },
   {
     "address": "stars1kdlydsrjlfayjagnl5vumefkz30sahfksaaxk4",
-    "starsBalance": 1.459007,
+    "starsBalance": 9001.459007,
     "delegatedStarsBalance": 64
   },
   {
     "address": "stars1kyrf7pvjkz624qx7l7t6cnhcrmer2tn8r3yye9",
-    "starsBalance": 15.947944,
-    "delegatedStarsBalance": 4705.201465
+    "starsBalance": 0.188417,
+    "delegatedStarsBalance": 4774.701465
   },
   {
     "address": "stars1z5x7q5v4v7a2pec2ml26w69v5suw970uvudm6y",
@@ -3866,23 +4241,23 @@
   },
   {
     "address": "stars18v5q7gqat8ukh040exz8xjmgs8p2ml33ad4gxs",
-    "starsBalance": 12.062331,
+    "starsBalance": 28.205196,
     "delegatedStarsBalance": 6432
   },
   {
     "address": "stars1dlyccvmvcewd2mahhs5n69n3ves4ldtlcu3jcv",
-    "starsBalance": 0.883075,
-    "delegatedStarsBalance": 698.009674
+    "starsBalance": 0.890305,
+    "delegatedStarsBalance": 705.913989
   },
   {
     "address": "stars1uuux2uxdk6fg20qt433lwsfdn4shhwx6nelye4",
-    "starsBalance": 1.627342,
+    "starsBalance": 0.626475,
     "delegatedStarsBalance": 100.9825
   },
   {
     "address": "stars186snhx9rdwm0sfv4acyww2j4m6ecw36vunmzfk",
-    "starsBalance": 3.676181,
-    "delegatedStarsBalance": 3400
+    "starsBalance": 3.416234,
+    "delegatedStarsBalance": 3436
   },
   {
     "address": "stars1rh9aegfcskc6ccy6lj0te42ezmey6v029xw5mz",
@@ -3891,18 +4266,18 @@
   },
   {
     "address": "stars1fzkq0xvr8mu5nv00xpnv6dv8kgkl2pqzl3mnr4",
-    "starsBalance": 0.986927,
-    "delegatedStarsBalance": 256.003757
+    "starsBalance": 0.107602,
+    "delegatedStarsBalance": 358.206346
   },
   {
     "address": "stars17mmhl3d3rsmc7457gw30p20qgj3d36mgy7dv7w",
-    "starsBalance": 5.480657,
-    "delegatedStarsBalance": 1682.510416
+    "starsBalance": 12.647667,
+    "delegatedStarsBalance": 1702.510416
   },
   {
     "address": "stars146k4h0xm38lusxg8w0uc3kpte7slrk429dmahc",
-    "starsBalance": 0.897511,
-    "delegatedStarsBalance": 2416.215098
+    "starsBalance": 0.890348,
+    "delegatedStarsBalance": 2442.924923
   },
   {
     "address": "stars1f9hfful9s4zn2z9xtmjn2h9nnuereq34ltl0rw",
@@ -3911,18 +4286,18 @@
   },
   {
     "address": "stars1tpfglzqryjhz3k3u5x4kl9q33gpqvs3ugzf8vl",
-    "starsBalance": 0.735365,
-    "delegatedStarsBalance": 3503.378725
+    "starsBalance": 1.063987,
+    "delegatedStarsBalance": 3543.069345
   },
   {
     "address": "stars1lcdq2vmp5fcy3rkhv2sdp6d00ktt2zgeux97vt",
-    "starsBalance": 9.443193,
+    "starsBalance": 10.311882,
     "delegatedStarsBalance": 51
   },
   {
     "address": "stars104xuzvkx2gvk8r0asvah0uxy6r33hjlva33s3s",
-    "starsBalance": 0.000362,
-    "delegatedStarsBalance": 1425.885722
+    "starsBalance": 0.30195,
+    "delegatedStarsBalance": 1517.925376
   },
   {
     "address": "stars1gglpzaj7l94lwm4cpura3npdzgq3kcvaandvxn",
@@ -3931,13 +4306,13 @@
   },
   {
     "address": "stars1ap6uxvxqer25y5ev0ce0syqlnmyy45yujafzqr",
-    "starsBalance": 50.855882,
-    "delegatedStarsBalance": 3121.124801
+    "starsBalance": 71.109196,
+    "delegatedStarsBalance": 3131.773862
   },
   {
-    "address": "stars1pchuee6xl65st5elg72mr6yfvhy8gzc7g8qf27",
-    "starsBalance": -1,
-    "delegatedStarsBalance": 53.100694
+    "address": "stars15t3cn3j30x5dh73da8gstm2f082zuxteskg5te",
+    "starsBalance": 1,
+    "delegatedStarsBalance": 97.99125
   },
   {
     "address": "stars160kr8a4uchch5h9yarn6jz4dukl6vzuruc8u7e",
@@ -3946,23 +4321,23 @@
   },
   {
     "address": "stars1mmmg2gaa8uu623q2twlaneaqe0f9v2s8lrugtl",
-    "starsBalance": 33.861791,
+    "starsBalance": 62.247273,
     "delegatedStarsBalance": 2243.786948
   },
   {
     "address": "stars13e22ysa8038qyme87cfmdlpuuh7s4c57r5gct9",
-    "starsBalance": 253.783332,
+    "starsBalance": 754.583332,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars109hk6ncumf238646p8x6u9jvkq2p8zs68nku0v",
-    "starsBalance": 50.264534,
+    "starsBalance": 50.19734,
     "delegatedStarsBalance": 1000
   },
   {
     "address": "stars1nkh9mhfyyndusggk5t3tr49k8f49yp3zwsefpr",
-    "starsBalance": 0.420062,
-    "delegatedStarsBalance": 2749
+    "starsBalance": 0.505852,
+    "delegatedStarsBalance": 3439
   },
   {
     "address": "stars1m4te7dgnvdlgnph42t5fy36c4lwetn2t74rfz6",
@@ -3976,23 +4351,23 @@
   },
   {
     "address": "stars1yx72f2eksw5c0adfrcc9xkyv38czn4gwcd3m8m",
-    "starsBalance": 0.034705,
-    "delegatedStarsBalance": 1436.967067
+    "starsBalance": 0.085451,
+    "delegatedStarsBalance": 1458.767067
   },
   {
     "address": "stars1yvk507d2cthqmxvuw4408reuyzd54m3necwle9",
-    "starsBalance": 5.050805,
-    "delegatedStarsBalance": 286.84155
+    "starsBalance": 4.985157,
+    "delegatedStarsBalance": 288.059299
   },
   {
     "address": "stars146lnjxwupzjry8qurz6lcvm4npgz64ue06nhwz",
-    "starsBalance": 597.839226,
+    "starsBalance": 528.244043,
     "delegatedStarsBalance": 3087
   },
   {
     "address": "stars1jvux8uz2yhcm59f8qws8tjc3gt6kvj220gxk86",
-    "starsBalance": 0.671644,
-    "delegatedStarsBalance": 988.89652
+    "starsBalance": 0.000479,
+    "delegatedStarsBalance": 1007.138095
   },
   {
     "address": "stars1htjjmygln5fewvxv78fkvatgqsl3jdyeq7tqfw",
@@ -4001,23 +4376,23 @@
   },
   {
     "address": "stars1fsw0504r4k8a66wfw7dhg8uhcwepv9xys70jrr",
-    "starsBalance": 6.623133,
-    "delegatedStarsBalance": 2807.69844
+    "starsBalance": 6.724412,
+    "delegatedStarsBalance": 2839.239475
   },
   {
     "address": "stars1xkzz8dgdhusv5zuhtvg7ucupkv65jz9xy2uuhr",
-    "starsBalance": 136.402359,
+    "starsBalance": 50.446985,
     "delegatedStarsBalance": 10000.000001
   },
   {
     "address": "stars1u4glh9pjvrekwnadle00gv4y6y8ttw2wzwe3ew",
-    "starsBalance": 0.356451,
-    "delegatedStarsBalance": 104.134245
+    "starsBalance": 0.355357,
+    "delegatedStarsBalance": 106.067124
   },
   {
     "address": "stars1ccape2ka4d7n0mry6avz8hwrw0wa5zc0aqjlgd",
-    "starsBalance": 57.995064,
-    "delegatedStarsBalance": 5933.995452
+    "starsBalance": 52.856702,
+    "delegatedStarsBalance": 6003.306609
   },
   {
     "address": "stars1ud98uyqrs6yu5xu2m44skmc9dp5pwaxslxhyyz",
@@ -4026,23 +4401,23 @@
   },
   {
     "address": "stars1xjn96jm0jjuhclp3x9r5kuncazaegk62m4kk6e",
-    "starsBalance": 72.777483,
-    "delegatedStarsBalance": 5836.024626
+    "starsBalance": 72.727698,
+    "delegatedStarsBalance": 5893.351497
   },
   {
     "address": "stars1jwn7ypq6kep82j7z4vjlfyyxe5n6clqf2hpy53",
-    "starsBalance": 29.207011,
-    "delegatedStarsBalance": 1308.236925
+    "starsBalance": 2.266652,
+    "delegatedStarsBalance": 1350.236925
   },
   {
     "address": "stars1dfwm8kvaq330nzpml86hex6wy8qjm9ccetd0wd",
-    "starsBalance": 0.443608,
-    "delegatedStarsBalance": 5933.905562
+    "starsBalance": 0.19843,
+    "delegatedStarsBalance": 6028.328482
   },
   {
     "address": "stars19u83qqrptavu9lt7gx2zjcgr3x8xq7ke7g7jjx",
-    "starsBalance": 919.563222,
-    "delegatedStarsBalance": 23619.149938
+    "starsBalance": 0.95358,
+    "delegatedStarsBalance": 26840.349934
   },
   {
     "address": "stars1nsqn8yq7wezuyzhyctlrh6jxkyepd8f0anqw7v",
@@ -4051,7 +4426,7 @@
   },
   {
     "address": "stars15gajwl8xkgyrgqa6rg9v2wfpwf3xhhfvpsng0a",
-    "starsBalance": 4.737253,
+    "starsBalance": 0.758521,
     "delegatedStarsBalance": 2117.930699
   },
   {
@@ -4061,13 +4436,18 @@
   },
   {
     "address": "stars12pc8dyq4a5td8xhtg33pau4830rg8dm4r7ymg8",
-    "starsBalance": 638.137813,
+    "starsBalance": 600.540635,
     "delegatedStarsBalance": 4130
   },
   {
+    "address": "stars1j88x23kvz5zex8gnvqytsk20suhcjsc22tdep4",
+    "starsBalance": 51.707323,
+    "delegatedStarsBalance": 0
+  },
+  {
     "address": "stars1dxartewm2w93n0d393dajygkwgtvq5qhc7c5lq",
-    "starsBalance": 60.883927,
-    "delegatedStarsBalance": 3000
+    "starsBalance": 20.207742,
+    "delegatedStarsBalance": 3005.291907
   },
   {
     "address": "stars1xtlhmeuq484ketayyne603fnqk5svre95f5m3n",
@@ -4076,18 +4456,18 @@
   },
   {
     "address": "stars174c0ggfpazwnwwah3rks35j33eahtf0n2ffeap",
-    "starsBalance": 1.186632,
-    "delegatedStarsBalance": 39048
+    "starsBalance": 663.15415,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars17zxhuuj2vmxymlwg583jlnphekwzex974hnezk",
-    "starsBalance": 5236.304601,
+    "starsBalance": 5328.915914,
     "delegatedStarsBalance": 5003.59696
   },
   {
     "address": "stars1muu9z9l95dt3skecrpck9x7v044rs6hqwj5y8h",
-    "starsBalance": 0.235285,
-    "delegatedStarsBalance": 3050
+    "starsBalance": 0.95621,
+    "delegatedStarsBalance": 3090
   },
   {
     "address": "stars1eptsgq6gyjmlm92ttmr3s45qv5mfkpuxnrp8gh",
@@ -4096,38 +4476,33 @@
   },
   {
     "address": "stars1fdpxvwzrekvpwtx3fdhqdkcxjzgw9vl2hhmgm9",
-    "starsBalance": 0.689134,
-    "delegatedStarsBalance": 1208.30421
+    "starsBalance": 0.989686,
+    "delegatedStarsBalance": 1229.239773
   },
   {
     "address": "stars13d6ekcu699h2v75lpkkq7ml4fu5ucc7t2wsarw",
-    "starsBalance": 545.363894,
+    "starsBalance": 605.80297,
     "delegatedStarsBalance": 1044.69404
   },
   {
-    "address": "stars1ys3uh7v2sk4kn0czs3q5mhlt4cqyzzdh8mv0l4",
-    "starsBalance": 5.306085,
-    "delegatedStarsBalance": 1469.969285
-  },
-  {
     "address": "stars1vmx85r4h6s6x33wa53kyusracrq6r3nup7xsxz",
-    "starsBalance": 0.644517,
-    "delegatedStarsBalance": 4583.415007
+    "starsBalance": 0.185187,
+    "delegatedStarsBalance": 4683.114129
   },
   {
     "address": "stars1au3nywh9m8dal37tmwdg7q6m0afm34skgjhmae",
-    "starsBalance": 200.410629,
+    "starsBalance": 215.984289,
     "delegatedStarsBalance": 400.707326
   },
   {
     "address": "stars1fhhl6rh3x7j68ldcgpmxwdz2um4r3edeejatzc",
-    "starsBalance": 4.681021,
-    "delegatedStarsBalance": 19744.949101
+    "starsBalance": 1.051949,
+    "delegatedStarsBalance": 19969.820584
   },
   {
     "address": "stars1ljc524mwshz3uuzqgwyvszuxvedm8j6y54h4dm",
-    "starsBalance": 2.267628,
-    "delegatedStarsBalance": 83.378861
+    "starsBalance": 1.122105,
+    "delegatedStarsBalance": 84.263745
   },
   {
     "address": "stars1hv5yp8uzp3ejcrgj0dncwt4fkrrsa52mx42kkm",
@@ -4136,27 +4511,27 @@
   },
   {
     "address": "stars18rpfm35enxcgzuueuermflkmm6eefs0r88zx68",
-    "starsBalance": 382.60542,
+    "starsBalance": 382.544706,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1fa59jlnx2aljljp7v2n9thc8ul9y74pw6ksa74",
-    "starsBalance": 0.008824,
-    "delegatedStarsBalance": 3029.13591
+    "starsBalance": 0.157014,
+    "delegatedStarsBalance": 3061.237761
   },
   {
     "address": "stars1dwh6v5lfm30au8k62t43sv9y9c4sgdp6edevq8",
-    "starsBalance": 34.228569,
+    "starsBalance": 51.199043,
     "delegatedStarsBalance": 436.452504
   },
   {
     "address": "stars19ajulm47nne9ukcjup8tnuhurh2jxyfevhyaz8",
-    "starsBalance": 0.53136,
-    "delegatedStarsBalance": 1569.67067
+    "starsBalance": 0.532424,
+    "delegatedStarsBalance": 1586.307147
   },
   {
     "address": "stars1wntfa36q6rxlyqvd4vcx7vspm53z0q4ly4v48v",
-    "starsBalance": 27.394536,
+    "starsBalance": 34.223661,
     "delegatedStarsBalance": 743.882828
   },
   {
@@ -4166,13 +4541,8 @@
   },
   {
     "address": "stars1avr7nh29xldz2xhr4kg75e73ysreag8a4krvny",
-    "starsBalance": 0.443911,
+    "starsBalance": 0.405542,
     "delegatedStarsBalance": 858
-  },
-  {
-    "address": "stars1nng9wu78cftmagv9aecaptar7s2eu39mya5hsx",
-    "starsBalance": 175.171083,
-    "delegatedStarsBalance": 6096.078227
   },
   {
     "address": "stars1ye0066yqtpfwqpv3q0hv844q4e0g5dda7e5ht5",
@@ -4201,8 +4571,8 @@
   },
   {
     "address": "stars1a03yr9g02ht5l0yq2n5elajrlt47lhrhvapcts",
-    "starsBalance": 56.762705,
-    "delegatedStarsBalance": 4469.951
+    "starsBalance": 51.133707,
+    "delegatedStarsBalance": 4487.451
   },
   {
     "address": "stars1k785h82a6wr93nx88g50a38e9d0qw0ukacz3zh",
@@ -4211,18 +4581,18 @@
   },
   {
     "address": "stars1m3mf2t06jz8u5vf9zx8rahwfdnes9x3nzkr0u9",
-    "starsBalance": 1436.508989,
+    "starsBalance": 786.51858,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1l03nfnhd6mdswh0mhj7cqvsy3hgzk0f7sdmgef",
-    "starsBalance": 0.665927,
+    "starsBalance": 0.010076,
     "delegatedStarsBalance": 1046.442858
   },
   {
     "address": "stars1d5ukx4wgp25p8rvfkceuf4dv03r2nnl858q6lh",
-    "starsBalance": 0.217531,
-    "delegatedStarsBalance": 4502.717731
+    "starsBalance": 0.229387,
+    "delegatedStarsBalance": 4593.463603
   },
   {
     "address": "stars1xnr7avm20wen3wzjd54rm8rgcx6pkmpmnqjqw7",
@@ -4236,8 +4606,8 @@
   },
   {
     "address": "stars1z26mh0v5v89kux30cdrznepydkmz5pppwm8gpx",
-    "starsBalance": 9.183764,
-    "delegatedStarsBalance": 1864.976581
+    "starsBalance": 0.013718,
+    "delegatedStarsBalance": 1887.462052
   },
   {
     "address": "stars1su3rkjjkkw5cskw4dmufp2wegk2e203nz8zj0c",
@@ -4246,8 +4616,8 @@
   },
   {
     "address": "stars1yhz4kxfdu78xul0dtt6zqc9kqje6vdtl7lggyq",
-    "starsBalance": 5.036188,
-    "delegatedStarsBalance": 2081.310632
+    "starsBalance": 0.425806,
+    "delegatedStarsBalance": 2101.477781
   },
   {
     "address": "stars1s09mgs3e577yzxtfcm0ytn0hwz44k9m4newpgr",
@@ -4261,7 +4631,7 @@
   },
   {
     "address": "stars17rfxutps8ygy8vkemn5cyntv7pzq85xkaqws3d",
-    "starsBalance": 0.050465,
+    "starsBalance": 0.056069,
     "delegatedStarsBalance": 3000
   },
   {
@@ -4270,59 +4640,54 @@
     "delegatedStarsBalance": 450
   },
   {
-    "address": "stars172hxdt6we3w7qmjelxyf7ul3xuq0nntc82lung",
-    "starsBalance": 2867.984155,
-    "delegatedStarsBalance": 13869
-  },
-  {
     "address": "stars1gdm2fduphgru6gd6js955ctj63df4putz5xdxj",
-    "starsBalance": 224.974858,
+    "starsBalance": 224.97213,
     "delegatedStarsBalance": 1500
   },
   {
     "address": "stars19dyz6z8sagukd9kkpkj7g0ctt78kychsl3ewj6",
-    "starsBalance": 51.959261,
+    "starsBalance": 54.590402,
     "delegatedStarsBalance": 1167.562932
   },
   {
     "address": "stars1ens2sqm5curke0dya78jzj9rhg0ghkcuqptw74",
-    "starsBalance": 0.340137,
+    "starsBalance": 0.118308,
     "delegatedStarsBalance": 1080.772655
   },
   {
     "address": "stars1kkdm6jeh294fj7qz94hf8p2vtt0wl3k373k56w",
-    "starsBalance": 275.799538,
-    "delegatedStarsBalance": 1000.652291
+    "starsBalance": 100.00407,
+    "delegatedStarsBalance": 1012.610281
   },
   {
     "address": "stars1y70txtq2cxlsy3gqy38apedv96uetm7hvwm3h6",
-    "starsBalance": 54.968014,
+    "starsBalance": 54.965949,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars10yvwsxsxj336rzpg4k9284eqc5al0n0lt4628z",
-    "starsBalance": 0.420725,
+    "starsBalance": 0.206128,
     "delegatedStarsBalance": 1146.59552
   },
   {
     "address": "stars1mfy09pa2u20lww26f2wu9lcsxeen9vs07wlqsm",
-    "starsBalance": 0.001608,
-    "delegatedStarsBalance": 435.636418
+    "starsBalance": 5.615833,
+    "delegatedStarsBalance": 438.212944
   },
   {
     "address": "stars10824pwcdehrtd23e9sdnj3szfdqsawfgc6zg8v",
-    "starsBalance": 25.205974,
+    "starsBalance": 7.20884,
     "delegatedStarsBalance": 2494.068001
   },
   {
     "address": "stars1zf76gztzhm8decuevrs89g5eczjtsnawxtqztn",
-    "starsBalance": 0.424183,
+    "starsBalance": 0.21926,
     "delegatedStarsBalance": 1146.59552
   },
   {
     "address": "stars1x46ff45ctkak6rjqka9uqvwqt4vhdr45lxun5j",
-    "starsBalance": 1.583687,
-    "delegatedStarsBalance": 3450.013717
+    "starsBalance": 1.592292,
+    "delegatedStarsBalance": 3490.773285
   },
   {
     "address": "stars1uxc0km2ft4r9ggka2086ytukk2cltdgrjflm5z",
@@ -4331,17 +4696,17 @@
   },
   {
     "address": "stars1ryphxjvgrre5ym2wfw7l34s87y9p7quc4y75hx",
-    "starsBalance": 7.939706,
+    "starsBalance": 4.029458,
     "delegatedStarsBalance": 300
   },
   {
     "address": "stars1u5d5n79d3zt9fwf943jnuagxags06d8n4vnv9j",
-    "starsBalance": 0.384665,
+    "starsBalance": 0.313204,
     "delegatedStarsBalance": 7248.1
   },
   {
     "address": "stars1dzrn4p2mdu65mgqu5j5vzdmhy37eh36w5xju7x",
-    "starsBalance": 0.197756,
+    "starsBalance": 1.084826,
     "delegatedStarsBalance": 1149.8
   },
   {
@@ -4351,13 +4716,13 @@
   },
   {
     "address": "stars1g2x34n25uyxepyk40gsyz0x4ujhqutuchdxa0f",
-    "starsBalance": 0.140673,
+    "starsBalance": 0.957159,
     "delegatedStarsBalance": 1146.4957
   },
   {
     "address": "stars1czslqkkjdgapk337drkcewkgpkz0p6uknp90m5",
-    "starsBalance": 0.030987,
-    "delegatedStarsBalance": 118.88868
+    "starsBalance": 0.028654,
+    "delegatedStarsBalance": 128.680582
   },
   {
     "address": "stars10hpjn696zqttksvath6dnnw96yek3arfk8s7s8",
@@ -4366,7 +4731,7 @@
   },
   {
     "address": "stars1zamu56vu53qrrkwu6043a8yg85dj36ae99gxkr",
-    "starsBalance": 0.623063,
+    "starsBalance": 0.508384,
     "delegatedStarsBalance": 1116.4957
   },
   {
@@ -4376,8 +4741,8 @@
   },
   {
     "address": "stars1e9jwge5j6lp3lmpvsht0a7aqsqp9ct43q00uy6",
-    "starsBalance": 0.297782,
-    "delegatedStarsBalance": 3041
+    "starsBalance": 0.068068,
+    "delegatedStarsBalance": 3064.9
   },
   {
     "address": "stars1ld8yxtnufrtnuwvszuu2amjdelummsdjfpl56x",
@@ -4386,8 +4751,8 @@
   },
   {
     "address": "stars1kmtdk9mws9qrghxg5frsq9g0x639evspzytslv",
-    "starsBalance": 58.908992,
-    "delegatedStarsBalance": 4999.991891
+    "starsBalance": 141.315377,
+    "delegatedStarsBalance": 4999.97812
   },
   {
     "address": "stars18pau4kcxy6cduegrmg2ayvn326dfaqhcjcuy8s",
@@ -4406,12 +4771,17 @@
   },
   {
     "address": "stars12whxdme23rvfucspc67gfp7y6hlhdr6hv4hd8s",
-    "starsBalance": 0.36748,
+    "starsBalance": 0.221468,
     "delegatedStarsBalance": 1147.2
   },
   {
+    "address": "stars15cx2nmej9d34ak6y0mcwzxflesmz3lzvlcqme5",
+    "starsBalance": 452.599016,
+    "delegatedStarsBalance": 0
+  },
+  {
     "address": "stars1na2e5l0j426nwzh65wgtnqgpfrl6ukm44p3m94",
-    "starsBalance": 0.489526,
+    "starsBalance": 0.246323,
     "delegatedStarsBalance": 1145.4961
   },
   {
@@ -4421,8 +4791,8 @@
   },
   {
     "address": "stars1s9pe7s24guulzlkal26jn2zekl6vxctwng5r72",
-    "starsBalance": 0.190222,
-    "delegatedStarsBalance": 713.5
+    "starsBalance": 0.038961,
+    "delegatedStarsBalance": 727.5
   },
   {
     "address": "stars16gvr437z7w4y8n88sdjg0f5wdxve5uhvxyp23p",
@@ -4431,7 +4801,7 @@
   },
   {
     "address": "stars1dnwnhal022ak9r3uml3xzjwrzpx0yvhuyec2sf",
-    "starsBalance": 0.547538,
+    "starsBalance": 0.193144,
     "delegatedStarsBalance": 1179.1901
   },
   {
@@ -4441,13 +4811,13 @@
   },
   {
     "address": "stars1gujfrjwr853n9n96qe98vasgdjecc8j0elx5gs",
-    "starsBalance": 116.063802,
+    "starsBalance": 0.980894,
     "delegatedStarsBalance": 10001.054486
   },
   {
     "address": "stars1jsqrfcxesur84x6rs4y5un76zrfulgdh8lhns2",
-    "starsBalance": 0.051343,
-    "delegatedStarsBalance": 1223.121543
+    "starsBalance": 0.993881,
+    "delegatedStarsBalance": 1223.961543
   },
   {
     "address": "stars1u2tqevhjj4jxzn9yxptnc8h9980wa62ql4yv5e",
@@ -4456,12 +4826,12 @@
   },
   {
     "address": "stars1d8v9te0792xwl958zhel30mkydcpmxfvknfp3u",
-    "starsBalance": 0.238294,
+    "starsBalance": 0.287121,
     "delegatedStarsBalance": 1146.2961
   },
   {
     "address": "stars1jem5qmje8wskepea5vy3gzyqxe66p3877utghy",
-    "starsBalance": 2096.647426,
+    "starsBalance": 2542.827299,
     "delegatedStarsBalance": 0
   },
   {
@@ -4476,13 +4846,18 @@
   },
   {
     "address": "stars1uhryuw296lqgaz3j22mhc8aym0vegrevzsv8na",
-    "starsBalance": 6.646815,
-    "delegatedStarsBalance": 5004.131382
+    "starsBalance": 0.095031,
+    "delegatedStarsBalance": 5062.006186
   },
   {
     "address": "stars19mn3w3zy3q4fgq8fdtdqukfetdrjl52x8dnp63",
-    "starsBalance": 0.599985,
+    "starsBalance": 0.438104,
     "delegatedStarsBalance": 1146.696
+  },
+  {
+    "address": "stars129tkpcfcrqetuszzhmfnz289wdxfp9kj8kdkv7",
+    "starsBalance": 100.00195,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars1cs3h8lj98r3rw3camwaw783p43w9jg3qvm60wk",
@@ -4491,12 +4866,12 @@
   },
   {
     "address": "stars14frn6atjzagz7xwvxea4v5xvx74rz66h2qq50g",
-    "starsBalance": 0.121969,
-    "delegatedStarsBalance": 123630.178941
+    "starsBalance": 2.045591,
+    "delegatedStarsBalance": 127674.577337
   },
   {
     "address": "stars1awsjg9e7pj232syxf4cf253u5g0l34p8d0jn4h",
-    "starsBalance": 0.44706,
+    "starsBalance": 0.90752,
     "delegatedStarsBalance": 1166.495
   },
   {
@@ -4506,97 +4881,97 @@
   },
   {
     "address": "stars1cr7lxv4srcesuw8uvm07n9jdfmnm33g2p07tnx",
-    "starsBalance": 177.951181,
+    "starsBalance": 60.768332,
     "delegatedStarsBalance": 3067
   },
   {
     "address": "stars1qwrkffpnlm2kljx88j2xcux2ud0crrgsfd6zaa",
-    "starsBalance": 0.237104,
-    "delegatedStarsBalance": 7840
+    "starsBalance": 0.505525,
+    "delegatedStarsBalance": 8004
   },
   {
     "address": "stars1hfp05gmced7ks78vnv8hy86ls3jmc7n26996fl",
-    "starsBalance": 76.686256,
+    "starsBalance": 76.608223,
     "delegatedStarsBalance": 1180.99375
   },
   {
     "address": "stars1lchhl9qlguz0dxyuvup222uscag4585tz7pc5x",
-    "starsBalance": 76.261127,
-    "delegatedStarsBalance": 2303.371359
+    "starsBalance": 0.25112,
+    "delegatedStarsBalance": 2405.781405
   },
   {
     "address": "stars1dfzjps0fzccqjv7xqqj9y2mnk8a6qfdza3qxaf",
-    "starsBalance": 53.103043,
-    "delegatedStarsBalance": 1068.333367
+    "starsBalance": 51.945287,
+    "delegatedStarsBalance": 1081.212945
   },
   {
     "address": "stars1uswu5spxn994kqxtfn40xxqpktydppvc8xxcje",
-    "starsBalance": 0.115575,
+    "starsBalance": 0.156325,
     "delegatedStarsBalance": 1163.09199
   },
   {
     "address": "stars18tg684zh36se7aszz906mt0pmh0e8fd2x24geq",
-    "starsBalance": 0.376527,
-    "delegatedStarsBalance": 36423.172846
-  },
-  {
-    "address": "stars1p0wmpftv3pap6rdw4y46zq7qfv03cwy59jkh5k",
-    "starsBalance": 51.894809,
-    "delegatedStarsBalance": 1068.11632
-  },
-  {
-    "address": "stars1pmc49t7wweeddnhnnyj7dhttld79rg5jh3tgmr",
-    "starsBalance": 50.5,
+    "starsBalance": 57.810517,
     "delegatedStarsBalance": 0
   },
   {
+    "address": "stars1p0wmpftv3pap6rdw4y46zq7qfv03cwy59jkh5k",
+    "starsBalance": 51.797328,
+    "delegatedStarsBalance": 1079.925449
+  },
+  {
+    "address": "stars1pmc49t7wweeddnhnnyj7dhttld79rg5jh3tgmr",
+    "starsBalance": 0.000084,
+    "delegatedStarsBalance": 235.075074
+  },
+  {
     "address": "stars14sfckr809vmszf7t5s4mcq8meyr9tau7pkxhlk",
-    "starsBalance": 0.886351,
-    "delegatedStarsBalance": 3505.65472
+    "starsBalance": 0.887839,
+    "delegatedStarsBalance": 3547.567489
   },
   {
     "address": "stars10q0vwkwcftr24yde5lpukfry87qkn8gfkq96sl",
-    "starsBalance": 0.209406,
+    "starsBalance": 0.848805,
     "delegatedStarsBalance": 2001
   },
   {
     "address": "stars1dl8fpzjvln3cw4t0zpn07ayjml4p6968x6he8d",
-    "starsBalance": 8.241505,
-    "delegatedStarsBalance": 3550
+    "starsBalance": 3.483285,
+    "delegatedStarsBalance": 3590
   },
   {
     "address": "stars1jm9kvvrtrj20w5ymn2sh09lh7p630hvdwlezcl",
-    "starsBalance": 51.806355,
-    "delegatedStarsBalance": 1068.34974
+    "starsBalance": 51.708211,
+    "delegatedStarsBalance": 1080.161916
   },
   {
     "address": "stars104zw5vpy68vfsh5g6wlmnt0htmu08y934jyjsa",
-    "starsBalance": 1.52119,
+    "starsBalance": 0.635178,
     "delegatedStarsBalance": 2004.907743
   },
   {
     "address": "stars1rm2xx60gs8eqjd90l47wedgze9u2gs0ge4nj9x",
-    "starsBalance": 68,
+    "starsBalance": 67.999044,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1zhae93zee8mhvwuy98dlmh8prphnda6uta3pqk",
-    "starsBalance": 128.343008,
-    "delegatedStarsBalance": 0
+    "starsBalance": 3.275307,
+    "delegatedStarsBalance": 125.600552
   },
   {
     "address": "stars1ced7rdsazrzfzf2n39q8saduf38yfkackrxqx6",
-    "starsBalance": 9453.426998,
-    "delegatedStarsBalance": 518.813323
+    "starsBalance": 26069.617086,
+    "delegatedStarsBalance": 526.743782
   },
   {
     "address": "stars1ey0zmwryem278r7rfhj90uxfuq4ndl9jwpnrgv",
-    "starsBalance": 1.923959,
-    "delegatedStarsBalance": 285.421084
+    "starsBalance": 2.287987,
+    "delegatedStarsBalance": 287.977912
   },
   {
     "address": "stars1jyvxm6h9r8wjml83wfrhh2ycvek589440s7qne",
-    "starsBalance": 0.25812,
+    "starsBalance": 0.376052,
     "delegatedStarsBalance": 2000
   },
   {
@@ -4606,23 +4981,18 @@
   },
   {
     "address": "stars1vw8wuga5llahnp3crv2kuvqvah04wrc29yqret",
-    "starsBalance": 4.823345,
+    "starsBalance": 4.657909,
     "delegatedStarsBalance": 60
   },
   {
     "address": "stars1mxqmekgzlau64200728qfr3rznmpdz3arackqp",
-    "starsBalance": 206.006304,
+    "starsBalance": 265.031551,
     "delegatedStarsBalance": 2874.627318
   },
   {
-    "address": "stars1ufvd0mpnplqv9klsy5e22q6vvt5jan83kwv2dm",
-    "starsBalance": 52,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars14z273ueqcx63cqy9a99rnje80u75wrefl9q5a3",
-    "starsBalance": 51.784063,
-    "delegatedStarsBalance": 1068.177499
+    "starsBalance": 51.687757,
+    "delegatedStarsBalance": 1079.985924
   },
   {
     "address": "stars1d5n9xtjwlrrp6clydmc6jltrvwdrfxcx27046l",
@@ -4631,43 +5001,38 @@
   },
   {
     "address": "stars1at0q438jksxmfeldllv2g07qfl8phqntz87pgt",
-    "starsBalance": 51.803225,
-    "delegatedStarsBalance": 1069.023721
+    "starsBalance": 51.707999,
+    "delegatedStarsBalance": 1080.840522
   },
   {
     "address": "stars1qmff3dmk3prfauz92nhejhelp2un7pedxt3gw9",
-    "starsBalance": 57.259399,
+    "starsBalance": 57.837154,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1ucwh3tfh7dnmy8jwkuk4xklq6xv9qu9c9ede5n",
-    "starsBalance": 4.929788,
+    "starsBalance": 6.358376,
     "delegatedStarsBalance": 61
   },
   {
     "address": "stars1gj9usd4r37s0sptnv3859dr9xz49euykfs8aeg",
-    "starsBalance": 51.791885,
-    "delegatedStarsBalance": 1068.160945
+    "starsBalance": 51.694195,
+    "delegatedStarsBalance": 1079.970585
   },
   {
     "address": "stars1g7yqg9eaqtnl9zjrqzvm7ve966qyuu9kgsh82f",
-    "starsBalance": 0.058012,
-    "delegatedStarsBalance": 771.4
-  },
-  {
-    "address": "stars15ckn9hpgrmklt247gzvxa3pue5xlk6ljtxxmqu",
-    "starsBalance": 52,
-    "delegatedStarsBalance": 0
+    "starsBalance": 0.084437,
+    "delegatedStarsBalance": 931.8
   },
   {
     "address": "stars1tat3vwnlr7sp63f4n0d9g8sf69gpkuy0k8ne22",
-    "starsBalance": 21.815237,
-    "delegatedStarsBalance": 151.632943
+    "starsBalance": 10.951382,
+    "delegatedStarsBalance": 152.121444
   },
   {
     "address": "stars13wsgqftag6f3q8d5l0ts3cg8xm7fex8r5u9jj7",
-    "starsBalance": 51.800384,
-    "delegatedStarsBalance": 1068.025627
+    "starsBalance": 51.704232,
+    "delegatedStarsBalance": 1079.832401
   },
   {
     "address": "stars1vukvxvgtmfndlzehz0h97s0quwez67crrn6r04",
@@ -4691,7 +5056,7 @@
   },
   {
     "address": "stars1hc0h2d6w59w6qr8zvetqqkr9z5kjhdmj88ej2e",
-    "starsBalance": 0.147608,
+    "starsBalance": 51.863321,
     "delegatedStarsBalance": 5000.01
   },
   {
@@ -4701,13 +5066,13 @@
   },
   {
     "address": "stars13ja4d2whmzhkwec4lj724klsta5w3nqus6a54n",
-    "starsBalance": 51.791572,
-    "delegatedStarsBalance": 1068.183837
+    "starsBalance": 51.696238,
+    "delegatedStarsBalance": 1079.991355
   },
   {
     "address": "stars1urfjrq2uph4wyyqpjxug43hsvfux7kcejjln6w",
-    "starsBalance": 0.279978,
-    "delegatedStarsBalance": 1064.987547
+    "starsBalance": 0.263836,
+    "delegatedStarsBalance": 1077.704294
   },
   {
     "address": "stars13czqj6ywf4gqe5nwl4e63hs8q44d0kgxqg2jq8",
@@ -4721,8 +5086,8 @@
   },
   {
     "address": "stars1acmn7yza3n2rgu4gujjm4543rdmppy8r45rlfh",
-    "starsBalance": 51.807951,
-    "delegatedStarsBalance": 1068.491392
+    "starsBalance": 51.71056,
+    "delegatedStarsBalance": 1080.304483
   },
   {
     "address": "stars190q5v66tc74sas6pw59kxu7vewsvl0zp8l5fa2",
@@ -4731,8 +5096,8 @@
   },
   {
     "address": "stars1k7tec7x7ky49chzc52zzdcrkq5yxs329e6k46z",
-    "starsBalance": 0.252036,
-    "delegatedStarsBalance": 1596.879961
+    "starsBalance": 0.228004,
+    "delegatedStarsBalance": 1615.947903
   },
   {
     "address": "stars1t84ldv66s0p3z7mnjw72sucz97muxpdhcntvc0",
@@ -4750,19 +5115,14 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1zrn9u3vgzty2pnl260n96lh3pwn490t4hag3rg",
-    "starsBalance": 52,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars13j96kejujwp56hnchra28trvtx8lrhhz83clre",
     "starsBalance": 50.9851,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1ndtpqttc9kjs660ja9xj4cd35ajhsd80qag7pr",
-    "starsBalance": 51.800243,
-    "delegatedStarsBalance": 1069.013038
+    "starsBalance": 51.704303,
+    "delegatedStarsBalance": 1080.830519
   },
   {
     "address": "stars15yzh3z5q3h8e2tj6dxeanr9zcdn4qmgj49gfuj",
@@ -4771,7 +5131,7 @@
   },
   {
     "address": "stars1salv3vd0hzm9nh9rhdf2xs6fqvzfrwqz3s69ds",
-    "starsBalance": 0.136559,
+    "starsBalance": 0.326159,
     "delegatedStarsBalance": 3174
   },
   {
@@ -4786,13 +5146,13 @@
   },
   {
     "address": "stars1ghwyuy8jyvuegv59s89q4gd0hsengrua0umnew",
-    "starsBalance": 73.733283,
+    "starsBalance": 100.144355,
     "delegatedStarsBalance": 9022.364468
   },
   {
     "address": "stars1qxdqy8mm7cumhes98ddr0cxrypn3z7vtw9c7ez",
-    "starsBalance": 51.791969,
-    "delegatedStarsBalance": 1068.327175
+    "starsBalance": 51.695332,
+    "delegatedStarsBalance": 1080.137782
   },
   {
     "address": "stars1qlqp2kvh4x8lymk7gnusztztrqd5q5c73dtjrz",
@@ -4801,8 +5161,8 @@
   },
   {
     "address": "stars1zftc2kns877jewn97gmcpp49thzrzrj76hxpy0",
-    "starsBalance": 51.808699,
-    "delegatedStarsBalance": 1068.326842
+    "starsBalance": 51.712144,
+    "delegatedStarsBalance": 1080.13746
   },
   {
     "address": "stars1u4dm8l9h529znh9375qtz0qxlhrp4wdndmchgh",
@@ -4811,12 +5171,12 @@
   },
   {
     "address": "stars14wcs3fsvmsdx9flecwj0ryezfuzvms2wkstc04",
-    "starsBalance": 575.454492,
-    "delegatedStarsBalance": 1388.893549
+    "starsBalance": 575.439072,
+    "delegatedStarsBalance": 1403.632772
   },
   {
     "address": "stars1d5ev0lyzj4fru5rgjqsp4p093mu0p9f6pkcpmc",
-    "starsBalance": 81.999013,
+    "starsBalance": 128.729573,
     "delegatedStarsBalance": 5050.338688
   },
   {
@@ -4826,8 +5186,8 @@
   },
   {
     "address": "stars1mx8em5w5zua46wggxeu8wdr528pjy9x8ar9nrw",
-    "starsBalance": 51.798728,
-    "delegatedStarsBalance": 1068.090281
+    "starsBalance": 51.699676,
+    "delegatedStarsBalance": 1079.896928
   },
   {
     "address": "stars1cmvwg3z4nge7d9zzg2duvqkc4gpgfgpnfqz78n",
@@ -4836,13 +5196,13 @@
   },
   {
     "address": "stars10x69fn888t7yaspl28w6qew4v3ta3j06j0wp80",
-    "starsBalance": 237.062761,
+    "starsBalance": 236.060261,
     "delegatedStarsBalance": 51
   },
   {
     "address": "stars1dhmu2uthvp2azhj0n64ls3tm7a3l9wyh2672ej",
-    "starsBalance": 28.911974,
-    "delegatedStarsBalance": 219.44
+    "starsBalance": 76.102384,
+    "delegatedStarsBalance": 323.13
   },
   {
     "address": "stars18xx0e9pcuh6n0emsqa0fdyupl5uv2rc8lfktyu",
@@ -4851,38 +5211,33 @@
   },
   {
     "address": "stars1f4mv9sadmwh5nare6rzs3vl99lt427a830a9hj",
-    "starsBalance": 51.799414,
-    "delegatedStarsBalance": 1067.986516
+    "starsBalance": 51.701901,
+    "delegatedStarsBalance": 1079.794235
   },
   {
     "address": "stars1gp0ep9kuhm6th4v7yzl2m9h8nqzlzw28n07ymd",
-    "starsBalance": 61.784325,
-    "delegatedStarsBalance": 5906.17488
+    "starsBalance": 50.786914,
+    "delegatedStarsBalance": 5988.17488
   },
   {
     "address": "stars1y2y86z3std8dmw907ve5jt9qu736tg9z9mcq0n",
-    "starsBalance": 0.262967,
+    "starsBalance": 0.262121,
     "delegatedStarsBalance": 3500
   },
   {
     "address": "stars187staltyncvcj8fl703muxgaw78d9raend0z0f",
-    "starsBalance": 325.160586,
+    "starsBalance": 1019.620914,
     "delegatedStarsBalance": 3007.551906
   },
   {
-    "address": "stars1a5tdhstf9s3d0kwkxw8hxd0nzwgnref5xkxapx",
-    "starsBalance": 52,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1rkpdlluj6a7ksz5jk7zxu8zlurd9hkm4r6auqp",
-    "starsBalance": 6.112513,
+    "starsBalance": 47.79114,
     "delegatedStarsBalance": 1180
   },
   {
     "address": "stars1e8attzm70q566qztjs5f0lgy60g9w92xj3gyy3",
-    "starsBalance": 51.805425,
-    "delegatedStarsBalance": 1068.698678
+    "starsBalance": 51.708296,
+    "delegatedStarsBalance": 1080.513685
   },
   {
     "address": "stars1cr4un74yqcujygz86ztwu6hcrm4tl5xt3uy7tr",
@@ -4891,13 +5246,13 @@
   },
   {
     "address": "stars1q0tznchslnlcwekpenv3hgawxfenhj56pk36ql",
-    "starsBalance": 0.537856,
-    "delegatedStarsBalance": 1040.655695
+    "starsBalance": 0.53892,
+    "delegatedStarsBalance": 1056.196146
   },
   {
     "address": "stars1j3ccxw9avmc4evxdduezwf27x8fpnp9aestz6d",
-    "starsBalance": 0.098566,
-    "delegatedStarsBalance": 2175.974286
+    "starsBalance": 0.024252,
+    "delegatedStarsBalance": 2195.974286
   },
   {
     "address": "stars1agvjv0694estkejavlpuvyhf94jtn29xg498rd",
@@ -4911,28 +5266,28 @@
   },
   {
     "address": "stars102d9y5k7f4r97enz707rqx2u6ux95qvxhf4f2c",
-    "starsBalance": 51.788992,
-    "delegatedStarsBalance": 1068.058211
+    "starsBalance": 51.690213,
+    "delegatedStarsBalance": 1079.864131
   },
   {
     "address": "stars14lmmtj4p6cj6uamd6h8whheqp2nh764n64t0gt",
-    "starsBalance": 0.2039,
+    "starsBalance": 0.108733,
     "delegatedStarsBalance": 3026.553527
   },
   {
     "address": "stars12navyvklaf4m5r23nqa7erueq688l3mxtrjqfv",
-    "starsBalance": 4.467687,
+    "starsBalance": 31.528224,
     "delegatedStarsBalance": 1125
   },
   {
     "address": "stars1tzg96q37hyxtecqfen5n25puh7cy439el6zjk4",
-    "starsBalance": 0.110577,
-    "delegatedStarsBalance": 1069.511472
+    "starsBalance": 0.112765,
+    "delegatedStarsBalance": 1081.580661
   },
   {
     "address": "stars1w8wlqzm3tjnyhyjks8rg7e8n0nau0aej2vhfj9",
-    "starsBalance": 98.426474,
-    "delegatedStarsBalance": 5012
+    "starsBalance": 115.077107,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars1perg23ml6z50u0tkrutltf8m6dw9q8k6tvgk77",
@@ -4940,19 +5295,14 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1erzqmgpxegwdaedhvsy60hunhflyu8v8pepjpj",
-    "starsBalance": 52,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars105xaxv53gxl9c4ht5akxr44xye0ug876n75wyf",
-    "starsBalance": 51.803427,
-    "delegatedStarsBalance": 1068.872002
+    "starsBalance": 51.708594,
+    "delegatedStarsBalance": 1080.686731
   },
   {
     "address": "stars1kns0aecxwcnk0jp84ezag9jaayatly6rqduhz2",
-    "starsBalance": 8.264256,
-    "delegatedStarsBalance": 2744.110992
+    "starsBalance": 17.900024,
+    "delegatedStarsBalance": 2748.210992
   },
   {
     "address": "stars1ddvdmnnhj29vxyha8c9ygzpqltj9x7nh7ucayz",
@@ -4961,13 +5311,13 @@
   },
   {
     "address": "stars1knw3wkm76tnf4lac0xcetx8htwfge89wxj0kp8",
-    "starsBalance": 63.941951,
-    "delegatedStarsBalance": 277.547298
+    "starsBalance": 66.149379,
+    "delegatedStarsBalance": 279.727169
   },
   {
     "address": "stars1uf275z4cucr69y3tjkeys3s7a6jpp27p4d95nj",
-    "starsBalance": 0.86077,
-    "delegatedStarsBalance": 1080.08391
+    "starsBalance": 0.86512,
+    "delegatedStarsBalance": 1092.026076
   },
   {
     "address": "stars1xerktuxq6z60wskjjqyx8k8ev6295g375cj8mn",
@@ -4981,8 +5331,8 @@
   },
   {
     "address": "stars1908kvsve822wfy0ty0ljzv7htdng0gc43ly2m0",
-    "starsBalance": 51.955903,
-    "delegatedStarsBalance": 1082.215509
+    "starsBalance": 51.858774,
+    "delegatedStarsBalance": 1094.180131
   },
   {
     "address": "stars1yvh2yyzly3y5rd2jju8cd5kmqv6kcdyfaxhzdl",
@@ -5016,7 +5366,7 @@
   },
   {
     "address": "stars18aqjyx9md8hh0f8vvz0gu0jzufmtcxtckykvl6",
-    "starsBalance": 0.305032,
+    "starsBalance": 0.314828,
     "delegatedStarsBalance": 1005
   },
   {
@@ -5026,17 +5376,17 @@
   },
   {
     "address": "stars1ms3wrpw7qc79h8rlvxxr3f9s5hzfmqlg9vu7ky",
-    "starsBalance": 51.851184,
-    "delegatedStarsBalance": 1074.278498
+    "starsBalance": 51.755494,
+    "delegatedStarsBalance": 1086.153979
   },
   {
     "address": "stars1muww5dqemc90apgwz32spuf4u0stl8cqdvey0k",
-    "starsBalance": 0.104538,
-    "delegatedStarsBalance": 1082.332266
+    "starsBalance": 0.116598,
+    "delegatedStarsBalance": 1095.010164
   },
   {
     "address": "stars1sqvy2tquz0tqpe3pufyttxswdmxnaqt9ctvsjr",
-    "starsBalance": 6.503309,
+    "starsBalance": 3.696937,
     "delegatedStarsBalance": 2215.604345
   },
   {
@@ -5046,7 +5396,7 @@
   },
   {
     "address": "stars13qqtm9kjtg4vfhxu384xh4xhdtm3qkwvwqxh7d",
-    "starsBalance": 690.270058,
+    "starsBalance": 511.270058,
     "delegatedStarsBalance": 0
   },
   {
@@ -5131,33 +5481,23 @@
   },
   {
     "address": "stars1j747cr4cl4vu5vrngdv5z4w0chnnvm5h0x3nhg",
-    "starsBalance": 54.124336,
-    "delegatedStarsBalance": 1116.043258
+    "starsBalance": 0.185033,
+    "delegatedStarsBalance": 1184.043258
   },
   {
     "address": "stars13re2zg6eg7ttzpp9k0mhg3jdjslqcefxzrakde",
-    "starsBalance": 51.951833,
-    "delegatedStarsBalance": 1083.623771
+    "starsBalance": 51.855959,
+    "delegatedStarsBalance": 1095.602794
   },
   {
     "address": "stars12ekpu34cj0wjfxkzzu62djkpqfagkezjk9swc6",
-    "starsBalance": 0.775266,
-    "delegatedStarsBalance": 5735.878614
+    "starsBalance": 0.781591,
+    "delegatedStarsBalance": 5803.073753
   },
   {
     "address": "stars13ypahjdp2ew2f987qu9ts0vh65e9dr2ftq8d0t",
     "starsBalance": 0.012649,
     "delegatedStarsBalance": 1054.83
-  },
-  {
-    "address": "stars108mdlh6lwskjcr652cp3rmt0ag63cqg9zfe35l",
-    "starsBalance": 55,
-    "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars162cj9dvygy3z626pna2jcgy0upxfuvhjxpn8me",
-    "starsBalance": 222.649976,
-    "delegatedStarsBalance": 0
   },
   {
     "address": "stars122a444xqd4mwluu84tvf26ulw6kw6w5pkgmjus",
@@ -5166,8 +5506,8 @@
   },
   {
     "address": "stars1luq5eyynd50eze7sjy40f5xd44crj26xmgdqw0",
-    "starsBalance": 51.934457,
-    "delegatedStarsBalance": 1081.463704
+    "starsBalance": 51.836053,
+    "delegatedStarsBalance": 1093.421297
   },
   {
     "address": "stars10q4380vga55kqvz5fxz27kdmwj6tjmw2anjjvw",
@@ -5181,7 +5521,7 @@
   },
   {
     "address": "stars14upttxsxwpucpmacqzfsrfu4u6pqvdl54fr8y5",
-    "starsBalance": 1.961235,
+    "starsBalance": 0.104741,
     "delegatedStarsBalance": 500
   },
   {
@@ -5192,11 +5532,11 @@
   {
     "address": "stars1ggfgy669y3mlq7p9ujycen3qfk7gkfgjmgrf9q",
     "starsBalance": 131.178614,
-    "delegatedStarsBalance": 2502
+    "delegatedStarsBalance": 2501.97
   },
   {
     "address": "stars1848skhpf50qfqcwkrvrp74xqeuudqr8dhrw82a",
-    "starsBalance": 0.087436,
+    "starsBalance": 0.120763,
     "delegatedStarsBalance": 7684.23568
   },
   {
@@ -5206,7 +5546,7 @@
   },
   {
     "address": "stars1xr2v4g64039lvmdd75swaf5qpcrxz85wgnw7ad",
-    "starsBalance": 0.200759,
+    "starsBalance": 1.615657,
     "delegatedStarsBalance": 52.5
   },
   {
@@ -5220,14 +5560,19 @@
     "delegatedStarsBalance": 0
   },
   {
+    "address": "stars1zgm5an3z2mgg0k80eh64dmdaujk5jyp4ypcc9w",
+    "starsBalance": 402.976006,
+    "delegatedStarsBalance": 0
+  },
+  {
     "address": "stars1tqnv9a2w3e6gps8497fwdmc02l3hugjqurx6ne",
-    "starsBalance": 0.047567,
+    "starsBalance": 4.777878,
     "delegatedStarsBalance": 1016.494108
   },
   {
     "address": "stars1zjjqxfqm33tz27phd0z4jyg53fv0yq7m3945le",
-    "starsBalance": 79.826265,
-    "delegatedStarsBalance": 6397.427868
+    "starsBalance": 483.603841,
+    "delegatedStarsBalance": 6566.306166
   },
   {
     "address": "stars1vxg7wux6m4jegaj4pq63htwrlst7ckcj2lfe0c",
@@ -5235,13 +5580,8 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1pwsll7davj3v5ldrq07wkxjvxmhmqwvpztl26w",
-    "starsBalance": 53.763961,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1qmsrv62xyf526hswkndftw9jh5u8f7jjay622e",
-    "starsBalance": 0.00195,
+    "starsBalance": 11.549532,
     "delegatedStarsBalance": 200
   },
   {
@@ -5251,8 +5591,8 @@
   },
   {
     "address": "stars1z7ut2nntntr669qqvlqadtj7sw28q565v308tu",
-    "starsBalance": 0.614727,
-    "delegatedStarsBalance": 821.860291
+    "starsBalance": 0.098958,
+    "delegatedStarsBalance": 831.151605
   },
   {
     "address": "stars1sdqlw6znky5efugwmsn2nxktwsvny6jzjn845s",
@@ -5263,6 +5603,11 @@
     "address": "stars1zd5xv7fq0f64u9cv4j0xte7mrepex0mc22p0zm",
     "starsBalance": 0.609026,
     "delegatedStarsBalance": 2900
+  },
+  {
+    "address": "stars1c5ghjstkvjkrw5rv8sck4l594r73crvv764sks",
+    "starsBalance": 50.872373,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars1wc3derq8h3mysx0cs5p6g9u9smrsdppdy2h5mt",
@@ -5276,8 +5621,8 @@
   },
   {
     "address": "stars1fn87m2aylzphndf9nnweq8vmu64k90anmsuhca",
-    "starsBalance": 75.235272,
-    "delegatedStarsBalance": 1843.382208
+    "starsBalance": 75.239903,
+    "delegatedStarsBalance": 1865.713717
   },
   {
     "address": "stars1ghqgu47hy30tqkszjx9qp0qem45tjn2deeqguk",
@@ -5291,8 +5636,8 @@
   },
   {
     "address": "stars1n4c56vddeqg67ktukprkteqdmpph2ck0enugzd",
-    "starsBalance": 153.029502,
-    "delegatedStarsBalance": 1000
+    "starsBalance": 112.454006,
+    "delegatedStarsBalance": 2000
   },
   {
     "address": "stars1q20xmdhr5nqlvnva3s9rs0zp6qdn93fsq2equ2",
@@ -5306,7 +5651,7 @@
   },
   {
     "address": "stars1jfy2dg4dka0qkccp2zfyk65dz6xqv0y6l6ttlv",
-    "starsBalance": 51.647223,
+    "starsBalance": 855.832671,
     "delegatedStarsBalance": 5000.264102
   },
   {
@@ -5326,13 +5671,13 @@
   },
   {
     "address": "stars1yxg3va3h27sfhxv0fxccuxp2fhk5wlqs6wwpgx",
-    "starsBalance": 2.235033,
+    "starsBalance": 0.391513,
     "delegatedStarsBalance": 2507.408457
   },
   {
     "address": "stars1mftwaqszds02qfjjdjcd43896lfzglr7kxcpur",
-    "starsBalance": 2.000726,
-    "delegatedStarsBalance": 3050.298757
+    "starsBalance": 8.248257,
+    "delegatedStarsBalance": 3130.298757
   },
   {
     "address": "stars12eqcd3xqvwm5tka8y7vqsxfd6nx24g8muvpmhk",
@@ -5340,19 +5685,14 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1ce03e0x9laeyg6ej0w6d4fgn9jkr8az2j45kkh",
-    "starsBalance": 0.382465,
-    "delegatedStarsBalance": 3575
-  },
-  {
     "address": "stars1eayykqmust4fjyjs8hc5nandhqpwxa7lywmx46",
-    "starsBalance": 0.070956,
+    "starsBalance": 6.718171,
     "delegatedStarsBalance": 1107.9
   },
   {
     "address": "stars1g6euuelqhdfqkqsvp9kx343t5nnax8jentl4ch",
-    "starsBalance": 6.793047,
-    "delegatedStarsBalance": 6843.542354
+    "starsBalance": 6.802782,
+    "delegatedStarsBalance": 6925.329869
   },
   {
     "address": "stars1sh3pekq3gpxwc6c0xtnmwfa9f57stfylhzlhdd",
@@ -5366,18 +5706,18 @@
   },
   {
     "address": "stars1fjzc695xqr48y4l4gq674cxxq5d2hqezzvlqkl",
-    "starsBalance": 0.46464,
+    "starsBalance": 0.065412,
     "delegatedStarsBalance": 5006.457006
   },
   {
     "address": "stars15cec4wdxt5972p2tmhjs3y7x8kxfctv2hw9mql",
-    "starsBalance": 50.5,
+    "starsBalance": 50.406666,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1amqn44je3wzgn5et2sla8zlcdx5jlmpw5uyptd",
-    "starsBalance": 165.629654,
-    "delegatedStarsBalance": 5181.020433
+    "starsBalance": 165.659953,
+    "delegatedStarsBalance": 5239.67775
   },
   {
     "address": "stars1lfx5twrgkj9at99n5pgeznn57zjza4n5a8uzc7",
@@ -5391,7 +5731,7 @@
   },
   {
     "address": "stars1mz3052rnecwve030ee0pxreaaqndgf2az4nvqf",
-    "starsBalance": 633.915889,
+    "starsBalance": 333.912639,
     "delegatedStarsBalance": 52
   },
   {
@@ -5401,13 +5741,13 @@
   },
   {
     "address": "stars1hla5tu29kt2scewqhwvhsmwxq8mdvpkq5vrrgv",
-    "starsBalance": 0.003922,
-    "delegatedStarsBalance": 267.306394
+    "starsBalance": 0.004244,
+    "delegatedStarsBalance": 268.72833
   },
   {
     "address": "stars1ql6wzmjcrpmms2ehv7r0nkekdahkmqwyqj0rxu",
-    "starsBalance": 1.347021,
-    "delegatedStarsBalance": 8178.409214
+    "starsBalance": 1.682894,
+    "delegatedStarsBalance": 8270.962974
   },
   {
     "address": "stars1ucr226qtsvusdhj7gesxwxgujyxkppl5jcx429",
@@ -5416,8 +5756,8 @@
   },
   {
     "address": "stars18h050qrpj8x6dztfv7d7ul0k7pd93ttktzewym",
-    "starsBalance": 1.165297,
-    "delegatedStarsBalance": 3831.476696
+    "starsBalance": 0.13412,
+    "delegatedStarsBalance": 3881.405302
   },
   {
     "address": "stars169zdvjd7glh8a9l2dfpvdsrc8s5qfluf5ddhlr",
@@ -5426,23 +5766,23 @@
   },
   {
     "address": "stars1qkrc895rary5teuzhleqa5g3sjzrzc7420vdhx",
-    "starsBalance": 52.718574,
+    "starsBalance": 50.711038,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1u9x86dtnqa8nl8wzgwld5e96hn7sfh48k4rplg",
-    "starsBalance": 57.19762,
+    "starsBalance": 55.19512,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1a3y2zq8j8kl62xn3vfnq3q3fxtyg9pke2hcka8",
-    "starsBalance": 0.323437,
+    "starsBalance": 0.078578,
     "delegatedStarsBalance": 2162.856916
   },
   {
     "address": "stars1lnfqsmjvnecrn3ga57ssdllrqsj9vth53e55wh",
-    "starsBalance": 479.732439,
-    "delegatedStarsBalance": 1379.975
+    "starsBalance": 480.331493,
+    "delegatedStarsBalance": 1403.985
   },
   {
     "address": "stars1pas0ax89nxhv7jxzmp4vazg4f50japyefpza2g",
@@ -5451,17 +5791,17 @@
   },
   {
     "address": "stars15vjtethlpj05ktn8gms7w383mzm8x60g8hkx9y",
-    "starsBalance": 51.988258,
-    "delegatedStarsBalance": 1079.197488
+    "starsBalance": 51.891744,
+    "delegatedStarsBalance": 1091.128005
   },
   {
     "address": "stars1gdc9tp2q3452d06akpyye5mfzgut78eh7aance",
-    "starsBalance": 30.266328,
+    "starsBalance": 11.409195,
     "delegatedStarsBalance": 5016.929567
   },
   {
     "address": "stars1685dkujh9mualrncqnmge5dsudup9kuna84j37",
-    "starsBalance": 0.365025,
+    "starsBalance": 0.097495,
     "delegatedStarsBalance": 543.504474
   },
   {
@@ -5481,8 +5821,8 @@
   },
   {
     "address": "stars10jnq3r962hk057nlm76f4ltnke7tvm4j2gwhxy",
-    "starsBalance": 4.05353,
-    "delegatedStarsBalance": 1529.589153
+    "starsBalance": 5.083365,
+    "delegatedStarsBalance": 1539.589153
   },
   {
     "address": "stars16y6jdr2k3y2u0edhucyrqz4es6leerentvdf8x",
@@ -5501,17 +5841,17 @@
   },
   {
     "address": "stars1dagf3gr0h6cer294e67z2jdwnugtegrzm4augw",
-    "starsBalance": 2512.44918,
+    "starsBalance": 2591.260069,
     "delegatedStarsBalance": 105000
   },
   {
     "address": "stars1gxr53f9jx5cxn3dmkzr2eq93g05yey30rumryu",
-    "starsBalance": 0.131271,
-    "delegatedStarsBalance": 30000
+    "starsBalance": 0.127738,
+    "delegatedStarsBalance": 25000
   },
   {
     "address": "stars16hvvv0vs2uf5pwa57wx39ux63yaa54h4sl74yk",
-    "starsBalance": 93,
+    "starsBalance": 60,
     "delegatedStarsBalance": 0
   },
   {
@@ -5531,8 +5871,8 @@
   },
   {
     "address": "stars17m4gmak5sjxvyzaznsx62rn3r08kfla92y7fhd",
-    "starsBalance": 51.948521,
-    "delegatedStarsBalance": 1082.814974
+    "starsBalance": 51.852214,
+    "delegatedStarsBalance": 1094.785403
   },
   {
     "address": "stars1u6fprsv96mx8dj234t7j5zez8hm48rrfr4derq",
@@ -5541,12 +5881,12 @@
   },
   {
     "address": "stars1cx5y0242c9mas8xuuw5a6xqchzfr8043xt4lhh",
-    "starsBalance": 2.010397,
-    "delegatedStarsBalance": 1945.690593
+    "starsBalance": 2.130116,
+    "delegatedStarsBalance": 1963.915586
   },
   {
     "address": "stars1mjc7c0l37aw6gy4g9tvua8vcvpnqu9cpjerlhv",
-    "starsBalance": 47.191512,
+    "starsBalance": 47.09527,
     "delegatedStarsBalance": 3626.638648
   },
   {
@@ -5556,7 +5896,7 @@
   },
   {
     "address": "stars1c8fymac2cszrary506nxykvkvnv5djv55pqwq2",
-    "starsBalance": 0.094337,
+    "starsBalance": 0.180579,
     "delegatedStarsBalance": 1016.72
   },
   {
@@ -5566,8 +5906,8 @@
   },
   {
     "address": "stars1tvgqvwsf2raywnpxrftul06qsrxwkwwzegud6n",
-    "starsBalance": 2.923599,
-    "delegatedStarsBalance": 3405.09
+    "starsBalance": 0.59503,
+    "delegatedStarsBalance": 3465.09
   },
   {
     "address": "stars15p8exvjr2vydfeggwwjdcdjp0xr5kpu495xj94",
@@ -5581,18 +5921,18 @@
   },
   {
     "address": "stars16qfd4wrney4e7t6tvh2ght92ew7sswdh6534hl",
-    "starsBalance": 1912.138187,
+    "starsBalance": 2191.138187,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1ay372nh5gh0w8tpzltcn9acenk0al3pzfjdwj9",
-    "starsBalance": 11.194587,
-    "delegatedStarsBalance": 10861.426326
+    "starsBalance": 10.017094,
+    "delegatedStarsBalance": 10996.468364
   },
   {
     "address": "stars1qkrcvzxv04s0rjtc93nlfuaru8nvzz5stu7ktr",
-    "starsBalance": 51.938013,
-    "delegatedStarsBalance": 1082.384898
+    "starsBalance": 51.841364,
+    "delegatedStarsBalance": 1094.351008
   },
   {
     "address": "stars1dcuffk2efqtujxqjhwcpn90py305mnfuww8cgf",
@@ -5606,7 +5946,7 @@
   },
   {
     "address": "stars1vgndshuj0am2h495js0wlxccavs9e3y7f5sknv",
-    "starsBalance": 0.350482,
+    "starsBalance": 0.097502,
     "delegatedStarsBalance": 533.951819
   },
   {
@@ -5616,27 +5956,32 @@
   },
   {
     "address": "stars1hfpxf58zjc0r7h9z0qnzcm88rlwdyuwd7jpqfd",
-    "starsBalance": 51.469649,
-    "delegatedStarsBalance": 1104.484562
+    "starsBalance": 51.470893,
+    "delegatedStarsBalance": 1117.68001
   },
   {
     "address": "stars1fwtlm9spclvzle8rw0gezkphg7uh8v6gpppkgw",
-    "starsBalance": 197.71767,
-    "delegatedStarsBalance": 699.810399
+    "starsBalance": 188.664031,
+    "delegatedStarsBalance": 707.135581
   },
   {
     "address": "stars1sch9k8up9g7uavn4lvryq6ud5vw7fv8mxcgglx",
-    "starsBalance": 0.812805,
-    "delegatedStarsBalance": 650.832617
+    "starsBalance": 0.708769,
+    "delegatedStarsBalance": 658.043412
   },
   {
     "address": "stars1mph4ut6tqjjhswd5kcwaxz2tc0wwv4k8mv3h4w",
-    "starsBalance": 20.828808,
+    "starsBalance": 59.47859,
     "delegatedStarsBalance": 2500
   },
   {
+    "address": "stars1vhyehvlgcrnw6hhqvtlx7wnj06zykrl5wmjee4",
+    "starsBalance": 1387.187713,
+    "delegatedStarsBalance": 0
+  },
+  {
     "address": "stars1axe6uc7f8wuwuj66awmlzj8m6n72k2c2gtrhw5",
-    "starsBalance": 66.105209,
+    "starsBalance": 55.624972,
     "delegatedStarsBalance": 5192.786868
   },
   {
@@ -5646,8 +5991,8 @@
   },
   {
     "address": "stars14x5nxeuc5earxhganv46wur2pcraftcdx34lwx",
-    "starsBalance": 0.310986,
-    "delegatedStarsBalance": 3010.748427
+    "starsBalance": 0.393488,
+    "delegatedStarsBalance": 3044.980649
   },
   {
     "address": "stars1h0dxcn0vns4u79aenny85vkjfap3stguve2h5s",
@@ -5656,27 +6001,27 @@
   },
   {
     "address": "stars1c7qhmdnxq45m67pcaj7ymzzgcxveg3gqjt8d88",
-    "starsBalance": 0.002662,
-    "delegatedStarsBalance": 10596.116052
+    "starsBalance": 0.001504,
+    "delegatedStarsBalance": 10682.214415
   },
   {
     "address": "stars1w9xnw6mg4xgaxpqcq3g3uw2fy43gdzs87xw0wr",
-    "starsBalance": 5375.125157,
+    "starsBalance": 4276.043302,
     "delegatedStarsBalance": 42500
   },
   {
     "address": "stars1fy20wprchlcdx2f479gdd5zjgq0wqfndyt2sw6",
-    "starsBalance": 51.937375,
-    "delegatedStarsBalance": 1082.348064
+    "starsBalance": 51.840763,
+    "delegatedStarsBalance": 1094.313732
   },
   {
     "address": "stars1xfjg5aakxnd23hg5sn0l7jxzht8ruhptasyv7k",
-    "starsBalance": 2.00525,
+    "starsBalance": 1.909336,
     "delegatedStarsBalance": 1087.982291
   },
   {
     "address": "stars1du6s8f6jfhhtx8l4gg40remxmnad6cq8zn4dpe",
-    "starsBalance": 1.894628,
+    "starsBalance": 1.698378,
     "delegatedStarsBalance": 2671
   },
   {
@@ -5686,23 +6031,23 @@
   },
   {
     "address": "stars1ch08f52m3yksplmrl2cnw0e23kcegp5s4gqkgu",
-    "starsBalance": 0.263887,
-    "delegatedStarsBalance": 3006.02521
+    "starsBalance": 0.273973,
+    "delegatedStarsBalance": 3044.925242
   },
   {
     "address": "stars1jpnc576mvptxvjxax92nh9ndux3dja6xg58zxe",
-    "starsBalance": 404.127547,
+    "starsBalance": 438.604689,
     "delegatedStarsBalance": 18
   },
   {
     "address": "stars1tzpeje0gzk3z5fhazjusxrcgrtt6j05yf4d8gy",
-    "starsBalance": 100.0039,
-    "delegatedStarsBalance": 4011.260673
+    "starsBalance": 3818.408098,
+    "delegatedStarsBalance": 4059.050103
   },
   {
     "address": "stars1jqdqdgf50kz0rwwk9fvze77wlcmzsx9yaxedtr",
-    "starsBalance": 0.879294,
-    "delegatedStarsBalance": 3282.9
+    "starsBalance": 0.02499,
+    "delegatedStarsBalance": 3320.7
   },
   {
     "address": "stars1qfl7zclqmp0rawuxexhh9e4zwne6u8acmt6ku3",
@@ -5756,13 +6101,13 @@
   },
   {
     "address": "stars17szsxh03v9mqn04jg5dglappsh048d95xexwjl",
-    "starsBalance": 0.251487,
+    "starsBalance": 0.055417,
     "delegatedStarsBalance": 1014.541554
   },
   {
     "address": "stars13zj9gavkgk6rjrx5z6rhfqyhjcrhuh9wvtyzdn",
-    "starsBalance": 0.273077,
-    "delegatedStarsBalance": 1556.798952
+    "starsBalance": 0.274264,
+    "delegatedStarsBalance": 1573.299001
   },
   {
     "address": "stars1g52j4hug5n8n8nhjmuv624e5dwdq4plu4kp4qn",
@@ -5776,32 +6121,32 @@
   },
   {
     "address": "stars1zxsezt42dugf98au57mtcsyl2wymwd7lqlzu4a",
-    "starsBalance": 0.42377,
+    "starsBalance": 1.140742,
     "delegatedStarsBalance": 3001.79987
   },
   {
     "address": "stars1dl0eq4809xwzye0dcxkd03mnyn9x73hagw03wa",
-    "starsBalance": 1.541477,
+    "starsBalance": 21.272316,
     "delegatedStarsBalance": 2507.931781
   },
   {
     "address": "stars1wg5juwze4plye2kk4uqm3rvgqcz7424jdza8ky",
-    "starsBalance": 6.9158,
-    "delegatedStarsBalance": 27145.894509
+    "starsBalance": 2.899574,
+    "delegatedStarsBalance": 27452.106187
   },
   {
     "address": "stars190z795zh465vd0qz03rtgnu2qut8aljkzunyxx",
-    "starsBalance": 51.967185,
-    "delegatedStarsBalance": 1084.342766
+    "starsBalance": 51.870154,
+    "delegatedStarsBalance": 1096.330815
   },
   {
     "address": "stars1mhz07kcrzkrxr6vm0uhjqcprazgmcsrnukvqfg",
-    "starsBalance": 0.167776,
-    "delegatedStarsBalance": 3109.739591
+    "starsBalance": 0.28293,
+    "delegatedStarsBalance": 3141.289499
   },
   {
     "address": "stars1z8ph4064mchhfu4wck2zayacadmenrp3h6a7xy",
-    "starsBalance": 0.591331,
+    "starsBalance": 5.880344,
     "delegatedStarsBalance": 4102.590095
   },
   {
@@ -5811,8 +6156,8 @@
   },
   {
     "address": "stars1vl4gcjvzveclwx4d3at0ehmsukzayxu0nem8ya",
-    "starsBalance": 50.55366,
-    "delegatedStarsBalance": 1145.565645
+    "starsBalance": 50.474729,
+    "delegatedStarsBalance": 1158.432637
   },
   {
     "address": "stars1kdruyu0qv3waej4t7tfj778xym2uhmx47zvqhu",
@@ -5841,18 +6186,18 @@
   },
   {
     "address": "stars1mkw30y8cqgxvymv8njxfcjvq33krke5gmc8wxq",
-    "starsBalance": 0.165755,
-    "delegatedStarsBalance": 3110.779503
+    "starsBalance": 0.233078,
+    "delegatedStarsBalance": 3645.373148
   },
   {
     "address": "stars1qy27dr7fq37yqk7uvepft9j2pqm6fznzayzg52",
-    "starsBalance": 51.948058,
-    "delegatedStarsBalance": 1083.175552
+    "starsBalance": 51.851502,
+    "delegatedStarsBalance": 1095.150311
   },
   {
     "address": "stars1z05gcfyvn68axc04jzlq5cv2ugcj2snffs7x7m",
-    "starsBalance": 1.968099,
-    "delegatedStarsBalance": 1068.880127
+    "starsBalance": 5.497313,
+    "delegatedStarsBalance": 1079.880127
   },
   {
     "address": "stars18p0k5qnh67nl0vvs250eqnsxhd35nhvcxt6qps",
@@ -5861,13 +6206,13 @@
   },
   {
     "address": "stars1qzg9y2swv5z3mg72f9hjdlr7fyjddm8l64wzy9",
-    "starsBalance": 3.197074,
-    "delegatedStarsBalance": 2886.539137
+    "starsBalance": 1.394082,
+    "delegatedStarsBalance": 2913.260471
   },
   {
     "address": "stars172cnthwf79m6ey8w8l50407hrjn6pvlka2ca69",
-    "starsBalance": 111.767494,
-    "delegatedStarsBalance": 1500
+    "starsBalance": 107.47949,
+    "delegatedStarsBalance": 1600
   },
   {
     "address": "stars1u8axjrm757zg8m9s3748wqa7vkg8g88la4lu7a",
@@ -5875,14 +6220,9 @@
     "delegatedStarsBalance": 940
   },
   {
-    "address": "stars13a9q7msmss0n9u5l9gz2rjjvph2avvdyvkvmxw",
-    "starsBalance": 24.650122,
-    "delegatedStarsBalance": 3001
-  },
-  {
     "address": "stars1s5a45wvw0gkll07hzzmenfscd48ff8z993rw4z",
-    "starsBalance": 0.759121,
-    "delegatedStarsBalance": 1095.475714
+    "starsBalance": 0.342661,
+    "delegatedStarsBalance": 1108.557884
   },
   {
     "address": "stars1kqz5kjq02pvxu4h7rgu9xwn2hyc2uudd0zfkqv",
@@ -5891,8 +6231,8 @@
   },
   {
     "address": "stars1nqm38kv4zae998xnut0eyd3q8h8zxjz7hq7av6",
-    "starsBalance": 53.862677,
-    "delegatedStarsBalance": 66.693393
+    "starsBalance": 53.862706,
+    "delegatedStarsBalance": 67.349494
   },
   {
     "address": "stars1rpr3l7jcjhunpdxu8ffaxy4qy58r5j7jyjxstt",
@@ -5910,14 +6250,9 @@
     "delegatedStarsBalance": 0
   },
   {
-    "address": "stars1f8kvwq852qu4fk5wywhqaehyqenwc5feygc9jk",
-    "starsBalance": 82.530435,
-    "delegatedStarsBalance": 0
-  },
-  {
     "address": "stars1k2r0qfq2fwy000g6qvxw35k0pjjl6d55meeuv2",
-    "starsBalance": 0.23944,
-    "delegatedStarsBalance": 70000.829999
+    "starsBalance": 0.38277,
+    "delegatedStarsBalance": 50000.829999
   },
   {
     "address": "stars1rmy07qgse8e6prhn8844kf6le70rn6eeh028gw",
@@ -5931,32 +6266,27 @@
   },
   {
     "address": "stars1n5yr7uxk9eza6m29ew7zvrc0zkd5nvweenjcay",
-    "starsBalance": 26.582407,
-    "delegatedStarsBalance": 1026.927054
+    "starsBalance": 26.583472,
+    "delegatedStarsBalance": 1039.203265
   },
   {
     "address": "stars1mrw58e56nz3xltc00sypkw33trmhmqgamdh33v",
-    "starsBalance": 0.240207,
-    "delegatedStarsBalance": 1037.265794
+    "starsBalance": 0.308348,
+    "delegatedStarsBalance": 1048.89926
   },
   {
     "address": "stars14f65psnkqqqccdgrva6xz3rlhujqtxx568yalx",
-    "starsBalance": 55.546193,
-    "delegatedStarsBalance": 1484.824658
-  },
-  {
-    "address": "stars1afljqwjxxek68phrn2sjz80la63twhd53de8gq",
-    "starsBalance": 1.00195,
-    "delegatedStarsBalance": 101
+    "starsBalance": 55.547006,
+    "delegatedStarsBalance": 1495.154346
   },
   {
     "address": "stars1mrg4m8hl7hyrt590d3xgvkcjgzxfwqdyn0k2mh",
-    "starsBalance": 109.619519,
-    "delegatedStarsBalance": 3123.007825
+    "starsBalance": 100.004023,
+    "delegatedStarsBalance": 3212.357825
   },
   {
     "address": "stars1a2ge3rkjv0eesejfzh428uwhv6zy5s6hj7uzvq",
-    "starsBalance": 0.843688,
+    "starsBalance": 0.332497,
     "delegatedStarsBalance": 3091.449999
   },
   {
@@ -5971,8 +6301,8 @@
   },
   {
     "address": "stars1g3g457m0xevd74j02srgvc0gkjvty80svl9hhh",
-    "starsBalance": 51.93655,
-    "delegatedStarsBalance": 1082.617934
+    "starsBalance": 51.838925,
+    "delegatedStarsBalance": 1094.58741
   },
   {
     "address": "stars1ylvpghamrr07gzr6vyl3p4rj9jcvsmz6mn2fr9",
@@ -5986,13 +6316,13 @@
   },
   {
     "address": "stars1pcdeyzv7vfqxqw4dzsxe8h7a7h2fs3rd3ymje8",
-    "starsBalance": 63.277273,
+    "starsBalance": 63.1811,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars17h2x3j7u44qkrq0sk8ul0r2qr440rwgj8pt804",
-    "starsBalance": 272.103331,
-    "delegatedStarsBalance": 745400.967731
+    "starsBalance": 20272.215322,
+    "delegatedStarsBalance": 754312.867052
   },
   {
     "address": "stars167nnu4jhc4z24akrjnam3jv209qx2tyn3lrujx",
@@ -6011,12 +6341,12 @@
   },
   {
     "address": "stars10u7wumy8xdheu33hwtlg87vt9my48urjt5jf7q",
-    "starsBalance": 76.275606,
+    "starsBalance": 0.640921,
     "delegatedStarsBalance": 4290
   },
   {
     "address": "stars1jzj5cmm20zh95vxy3njwkyqtyme7yqecxzs543",
-    "starsBalance": 51.939824,
+    "starsBalance": 100.888157,
     "delegatedStarsBalance": 0
   },
   {
@@ -6031,18 +6361,23 @@
   },
   {
     "address": "stars1uxzrzuz2cs52czymqxnhtact9xepcfzcvl6m5p",
-    "starsBalance": 0.000986,
-    "delegatedStarsBalance": 11817.86304
+    "starsBalance": 0.008986,
+    "delegatedStarsBalance": 13205.465953
+  },
+  {
+    "address": "stars19xeucpasxg08jthuhktw3m82gcnz8myxnl2n29",
+    "starsBalance": 115.226872,
+    "delegatedStarsBalance": 0
   },
   {
     "address": "stars1um367805chm6eveueghcafevlh5zgks5f2esdz",
-    "starsBalance": 3.252579,
-    "delegatedStarsBalance": 5082.950429
+    "starsBalance": 38.935546,
+    "delegatedStarsBalance": 5100
   },
   {
     "address": "stars17vyf7hv47v92q5n676nknva3f4urpfmk7jp9cy",
-    "starsBalance": 15.453965,
-    "delegatedStarsBalance": 3944.83969
+    "starsBalance": 43.855791,
+    "delegatedStarsBalance": 4463.83969
   },
   {
     "address": "stars19pffn3gdch98vdg63uw66sp0pza29t7uxkth9w",
@@ -6051,7 +6386,7 @@
   },
   {
     "address": "stars15z9c343prjk7z96spuakplhyfw8mcvtr99k07f",
-    "starsBalance": 60.59167,
+    "starsBalance": 60.484426,
     "delegatedStarsBalance": 1150
   },
   {
@@ -6061,7 +6396,7 @@
   },
   {
     "address": "stars10j78yy4shmyq58d4qgqezw8md2c7wtr60ncp89",
-    "starsBalance": 51.963462,
+    "starsBalance": 326.943295,
     "delegatedStarsBalance": 0
   },
   {
@@ -6071,7 +6406,7 @@
   },
   {
     "address": "stars1vctwzdek3hjxzfhudmjyqhughdm2786c5k0y7w",
-    "starsBalance": 100.0039,
+    "starsBalance": 60.002885,
     "delegatedStarsBalance": 0
   },
   {
@@ -6081,8 +6416,8 @@
   },
   {
     "address": "stars18kxkjw9n29xys2fxqnvefkrwjvrg6j9c9utd5e",
-    "starsBalance": 58.668303,
-    "delegatedStarsBalance": 0
+    "starsBalance": 57.666051,
+    "delegatedStarsBalance": 1
   },
   {
     "address": "stars1evjghzuuf82w465pz47yl3sy6v8xs6x5tc4ahs",
@@ -6091,8 +6426,8 @@
   },
   {
     "address": "stars1xtn2tnjefrk9eymj4tg3ztg0jwhct0mfk7dus6",
-    "starsBalance": 51.945543,
-    "delegatedStarsBalance": 1083.167718
+    "starsBalance": 51.847865,
+    "delegatedStarsBalance": 1095.143424
   },
   {
     "address": "stars18az6rdv0ahm33jzeh63ntkpzyxyjgtvjcgsn3a",
@@ -6111,13 +6446,13 @@
   },
   {
     "address": "stars1p724k022edxpscrcya85fevd527gslqnwma700",
-    "starsBalance": 0.002748,
+    "starsBalance": 3020.326797,
     "delegatedStarsBalance": 1146.993189
   },
   {
     "address": "stars16yqm35za9mxw8crfpsxhwruewwff56qn8pzwgt",
-    "starsBalance": 0.538628,
-    "delegatedStarsBalance": 1970.017267
+    "starsBalance": 0.545243,
+    "delegatedStarsBalance": 1989.180456
   },
   {
     "address": "stars19kzxhcqwv9ees6lgefpyszptk6tv7selpc3x26",
@@ -6126,7 +6461,7 @@
   },
   {
     "address": "stars1ymq2tjeguyxfj4zk3utkhjqpupnmle2s6qjhs2",
-    "starsBalance": 53.895061,
+    "starsBalance": 53.87321,
     "delegatedStarsBalance": 0
   },
   {
@@ -6136,13 +6471,13 @@
   },
   {
     "address": "stars1g8l8vcslktac2pgdgfrd69da5pd8v25jga476u",
-    "starsBalance": 60.563363,
+    "starsBalance": 60.546171,
     "delegatedStarsBalance": 286.151765
   },
   {
     "address": "stars18kw7zgxdzdh3t7x4n3n09jpgytr6f8d3zwqt2w",
-    "starsBalance": 18.947461,
-    "delegatedStarsBalance": 3346
+    "starsBalance": 664.838949,
+    "delegatedStarsBalance": 4141
   },
   {
     "address": "stars143dq4agpmj3n8zzs7mpnvqrulz42jtfrvrvw7c",
@@ -6161,12 +6496,12 @@
   },
   {
     "address": "stars1fnhrjf4dk6qh76q44un00yda5f0tze00p2v07l",
-    "starsBalance": 296.52849,
+    "starsBalance": 96.52224,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars1dzxmxc929v5wwl6ch6yu0nvrf5erqecdeq8gs9",
-    "starsBalance": 1035.4488,
+    "starsBalance": 2035.446331,
     "delegatedStarsBalance": 0
   },
   {
@@ -6186,12 +6521,12 @@
   },
   {
     "address": "stars16rmwfmxhc5swrr0s2qm9kq2egan2z9ny4pfgyh",
-    "starsBalance": 8.337656,
-    "delegatedStarsBalance": 1140.101497
+    "starsBalance": 9.246163,
+    "delegatedStarsBalance": 1151.070283
   },
   {
     "address": "stars1zfh6ccddln9e4fkwse7fcquvecpnnxyknlp5z0",
-    "starsBalance": 12.047943,
+    "starsBalance": 1348.281883,
     "delegatedStarsBalance": 8000
   },
   {
@@ -6231,18 +6566,13 @@
   },
   {
     "address": "stars1gcks0lwgw7x5p20yw23djd327gt8w0lpkqx0tj",
-    "starsBalance": 101.828004,
-    "delegatedStarsBalance": 3822.000047
+    "starsBalance": 100.250832,
+    "delegatedStarsBalance": 3854.000047
   },
   {
     "address": "stars1kh64khsd0kdnvtf9lu90v68echfe4eq0grg7zw",
-    "starsBalance": 51.953293,
-    "delegatedStarsBalance": 1083.295793
-  },
-  {
-    "address": "stars1rdhwv67pffuyxawqmkafym6vx4uq4tvz6py2vz",
-    "starsBalance": 50.113361,
-    "delegatedStarsBalance": 0
+    "starsBalance": 51.856765,
+    "delegatedStarsBalance": 1095.271648
   },
   {
     "address": "stars13tnmfnzkyk5scmym5lewn35legyz7e3cjcla84",
@@ -6251,8 +6581,8 @@
   },
   {
     "address": "stars1vttntyrujhe9dwaxc7mczdvq233nhd4c9ynpdt",
-    "starsBalance": 62.835049,
-    "delegatedStarsBalance": 1151.093285
+    "starsBalance": 62.841317,
+    "delegatedStarsBalance": 1163.865296
   },
   {
     "address": "stars148vuc6a5wx2rpe56te6zj92u6nx7q7pnr6k5fw",
@@ -6271,8 +6601,8 @@
   },
   {
     "address": "stars1jtzmwppdadmyhv6j68dujwghrp8gkr8skt4jyj",
-    "starsBalance": 24.77376,
-    "delegatedStarsBalance": 67.709101
+    "starsBalance": 24.773853,
+    "delegatedStarsBalance": 68.409293
   },
   {
     "address": "stars1dgnpnt6xlf7qtkfm9uuqwsvvmy8gemykm0ug74",
@@ -6286,23 +6616,23 @@
   },
   {
     "address": "stars1plwu7s4kpw3nj292c2py4zgquzjy25gkmy853x",
-    "starsBalance": 94.080926,
+    "starsBalance": 40.037253,
     "delegatedStarsBalance": 7217.456794
   },
   {
     "address": "stars1nm0h9yxl8eyjekvyfkweny3lfvj9jl03tuzn8s",
-    "starsBalance": 77.230882,
-    "delegatedStarsBalance": 6051.440771
+    "starsBalance": 34.915656,
+    "delegatedStarsBalance": 6102.967779
   },
   {
     "address": "stars1gm5drmc3zufv5yayusm0rsr0a5vhp3tx2wfenp",
-    "starsBalance": 500.99545,
+    "starsBalance": 1880.990029,
     "delegatedStarsBalance": 0
   },
   {
     "address": "stars172fm5dvkkj0f90s6fjfqrtvq90wc22u8tfwfwe",
-    "starsBalance": 169.074213,
-    "delegatedStarsBalance": 3617.62937
+    "starsBalance": 169.078304,
+    "delegatedStarsBalance": 3660.858838
   },
   {
     "address": "stars12l0uk9tcsu4yumdeajtt3lm44whu9dtuqt9mtq",
@@ -6311,12 +6641,12 @@
   },
   {
     "address": "stars1jc8x0gvz4s55ltwjtelq9ycm9yqz3ljltqv2ed",
-    "starsBalance": 83.9595,
+    "starsBalance": 8.901332,
     "delegatedStarsBalance": 4600
   },
   {
     "address": "stars1hqxv0m9xm6sf2dv3dm05hqc8dvz05jw9caljlh",
-    "starsBalance": 322.901976,
+    "starsBalance": 862.148104,
     "delegatedStarsBalance": 0
   },
   {
@@ -6331,12 +6661,17 @@
   },
   {
     "address": "stars1tkvp6yhem77f5cz39yyxhw422tm4qcu5d085fd",
-    "starsBalance": 240.269575,
-    "delegatedStarsBalance": 3839.807269
+    "starsBalance": 240.266233,
+    "delegatedStarsBalance": 3935.879294
   },
   {
     "address": "stars1lyzfr9jmkphurhawahj67jpugynmuvkhf8hyex",
     "starsBalance": 58.45509,
+    "delegatedStarsBalance": 0
+  },
+  {
+    "address": "stars1nf2auqy8j2qv3zwyjv9j5775azapker3tewxu8",
+    "starsBalance": 1078.584038,
     "delegatedStarsBalance": 0
   },
   {
@@ -6361,8 +6696,8 @@
   },
   {
     "address": "stars1mwq38w0u8x08rl7ndjgmcz5xuc94062avs0nut",
-    "starsBalance": 51.99271,
-    "delegatedStarsBalance": 1083.068739
+    "starsBalance": 51.897536,
+    "delegatedStarsBalance": 1095.040929
   },
   {
     "address": "stars1946r832lmu84afq6z5ma8xwd5g9pwey4vkqcdy",
@@ -6388,10 +6723,5 @@
     "address": "stars1rq0lkjef6lhlxgruqnfwcypy07untx80uze5m2",
     "starsBalance": 5150.427576,
     "delegatedStarsBalance": 0
-  },
-  {
-    "address": "stars1dufaupc9cdprj0zp9pp6cgtfgqhndaefn6fq0j",
-    "starsBalance": 0.492983,
-    "delegatedStarsBalance": 2813.596218
   }
 ]
